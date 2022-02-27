@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+PRODID:-//D2L//NONSGML v1.0//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:All Courses - Adelante Online Learning Environment
+BEGIN:VEVENT
+DTSTAMP:20220227T121305Z
+SUMMARY:Lecture 1: Program Flowcharts - Available
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Materials:\nLecture 1: Program Flowcharts - https://adelantelms
+	.usjr.edu.ph/d2l/le/content/24167/viewContent/190750/View\n\n\nView event -
+	 https://adelantelms.usjr.edu.ph/d2l/le/calendar/24167/event/145033/details
+	view?ou=24167#145033
+CLASS:PUBLIC
+DTSTART:20220216T233000Z
+DTEND:20220216T233000Z
+UID:6606-145033@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220216T143246Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220227T121305Z
+SUMMARY:LECTURE 1 - PROGRAM DESIGN USING FLOWCHARTS1 - Available
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Materials:\nLECTURE 1 - PROGRAM DESIGN USING FLOWCHARTS1 - http
+	s://adelantelms.usjr.edu.ph/d2l/le/content/24167/viewContent/190761/View\n\
+	n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24167/event
+	/145034/detailsview?ou=24167#145034
+CLASS:PUBLIC
+DTSTART:20220216T233000Z
+DTEND:20220216T233000Z
+UID:6606-145034@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220216T143346Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220227T121305Z
+SUMMARY:Activity 1 - Due
+LOCATION:4017 - NS 1B1               | Physics for Engineers (Lec)
+DESCRIPTION:Assignments:\nActivity 1 - https://adelantelms.usjr.edu.ph/d2l/
+	lms/dropbox/user/folder_submit_files.d2l?ou=24133&db=50110\n\n\nView event 
+	- https://adelantelms.usjr.edu.ph/d2l/le/calendar/24133/event/144224/detail
+	sview?ou=24133#144224
+CLASS:PUBLIC
+DTSTART:20220218T060000Z
+DTEND:20220218T060000Z
+UID:6606-144224@adelantelms.usjr.edu.ph
+SEQUENCE:10
+LAST-MODIFIED:20220216T002244Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220227T121305Z
+SUMMARY:CWTS 12 Record Sheet - Available
+LOCATION:17000 - CWTS 12*             | Civic Welfare Training Services 12
+DESCRIPTION:Kindly fill-in all the necessary data in the attached Record Sh
+	eet Template and upload the accomplished sheet in this section.\n\n\nAssign
+	ments:\nCWTS 12 Record Sheet - https://adelantelms.usjr.edu.ph/d2l/lms/drop
+	box/user/folder_submit_files.d2l?ou=25349&db=49284\n\n\nView event - https:
+	//adelantelms.usjr.edu.ph/d2l/le/calendar/25349/event/144494/detailsview?ou
+	=25349#144494
+CLASS:PUBLIC
+DTSTART:20220218T160100Z
+DTEND:20220218T160100Z
+UID:6606-144494@adelantelms.usjr.edu.ph
+SEQUENCE:5
+LAST-MODIFIED:20220216T071510Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220227T121305Z
+SUMMARY:Lecture 2: Pseudo Coding - Available
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:<p id="B9780081008805000062-p0080"><em>Pseudocode</em> consists
+	 of short\, English phrases used to explain specific tasks within a program
+	. Ideally\, pseudocode should not include keywords in any specific computer
+	 language. Pseudocode should be written as a list of consecutive phrases\, 
+	we can even draw arrows to show looping processes. <a title="Learn more abo
+	ut Indentation from ScienceDirect's AI-generated Topic Pages" href="https:/
+	/www.sciencedirect.com/topics/engineering/indentation">Indentation</a> can 
+	be used to show the logical program flow in pseudocode also.<span id="B9780
+	081008805000062-p115"></span></p>\n<p id="B9780081008805000062-p0085">Writi
+	ng pseudocode saves time later during the coding and testing stage of a pro
+	gram's development and also helps communication between designers\, coders\
+	, and project managers. Some projects may use pseudocode for design\, other
+	s may use flow charts\, and some a combination of both.</p>\n<p></p>\n<p>Le
+	cture Video is grabbed from youtube.</p>\n<p>Here is the link</p>\n<p><a hr
+	ef="https://www.youtube.com/watch?v=rdTop-IPVPo">https://www.youtube.com/wa
+	tch?v=rdTop-IPVPo</a></p>\n\n\nMaterials:\nLecture 2: Pseudo Coding - https
+	://adelantelms.usjr.edu.ph/d2l/le/content/24167/viewContent/205956/View\n\n
+	\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24167/event/
+	151327/detailsview?ou=24167#151327
+CLASS:PUBLIC
+DTSTART:20220221T233000Z
+DTEND:20220221T233000Z
+UID:6606-151327@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220221T150302Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220227T121305Z
+SUMMARY:Asynchronous Activity 2 - Reflection Paper on the Occurrence of Typ
+	hoon "Odette" - Available
+LOCATION:17000 - CWTS 12*             | Civic Welfare Training Services 12
+DESCRIPTION:Kindly follow the instruction provided in the attached file.\n\
+	n\nAssignments:\nAsynchronous Activity 2 - Reflection Paper on the Occurren
+	ce of Typhoon "Odette" - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/us
+	er/folder_submit_files.d2l?ou=25349&db=52222\n\n\nView event - https://adel
+	antelms.usjr.edu.ph/d2l/le/calendar/25349/event/152087/detailsview?ou=25349
+	#152087
+CLASS:PUBLIC
+DTSTART:20220222T160100Z
+DTEND:20220222T160100Z
+UID:6606-152087@adelantelms.usjr.edu.ph
+SEQUENCE:8
+LAST-MODIFIED:20220223T020036Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220227T121305Z
+SUMMARY:Laboratory Activity #1: Programming Design Flowcharts - Due
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Assignments:\nLaboratory Activity #1: Programming Design Flowch
+	arts - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_f
+	iles.d2l?ou=24167&db=50518\n\n\nView event - https://adelantelms.usjr.edu.p
+	h/d2l/le/calendar/24167/event/145032/detailsview?ou=24167#145032
+CLASS:PUBLIC
+DTSTART:20220223T013000Z
+DTEND:20220223T013000Z
+UID:6606-145032@adelantelms.usjr.edu.ph
+SEQUENCE:17
+LAST-MODIFIED:20220216T143356Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220227T121305Z
+SUMMARY:Activity 2 - Due
+LOCATION:4017 - NS 1B1               | Physics for Engineers (Lec)
+DESCRIPTION:Assignments:\nActivity 2 - https://adelantelms.usjr.edu.ph/d2l/
+	lms/dropbox/user/folder_submit_files.d2l?ou=24133&db=52210\n\n\nView event 
+	- https://adelantelms.usjr.edu.ph/d2l/le/calendar/24133/event/152068/detail
+	sview?ou=24133#152068
+CLASS:PUBLIC
+DTSTART:20220226T090000Z
+DTEND:20220226T090000Z
+UID:6606-152068@adelantelms.usjr.edu.ph
+SEQUENCE:10
+LAST-MODIFIED:20220223T001450Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220227T121305Z
+SUMMARY:Lecture 3: Lookback Functions and Parameter Passing Part 1 - Availa
+	ble
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Materials:\nLecture 3: Lookback Functions and Parameter Passing
+	 Part 1\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/2
+	4167/event/152888/detailsview?ou=24167#152888
+CLASS:PUBLIC
+DTSTART:20220227T233000Z
+DTEND:20220227T233000Z
+UID:6606-152888@adelantelms.usjr.edu.ph
+SEQUENCE:1
+LAST-MODIFIED:20220227T071029Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220227T121305Z
+SUMMARY:LECTURE 3 - INTRODUCTION_REVIEW ON FUNCTIONS AND PARAMETER PASSING 
+	- Available
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Materials:\nLECTURE 3 - INTRODUCTION_REVIEW ON FUNCTIONS AND PA
+	RAMETER PASSING\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/ca
+	lendar/24167/event/152889/detailsview?ou=24167#152889
+CLASS:PUBLIC
+DTSTART:20220227T233000Z
+DTEND:20220227T233000Z
+UID:6606-152889@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220227T071202Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220227T121305Z
+SUMMARY:Laboratory Activity #2: Psuedo Coding - Due
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Assignments:\nLaboratory Activity #2: Psuedo Coding - https://a
+	delantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=2416
+	7&db=51915\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calenda
+	r/24167/event/151330/detailsview?ou=24167#151330
+CLASS:PUBLIC
+DTSTART:20220228T013000Z
+DTEND:20220228T013000Z
+UID:6606-151330@adelantelms.usjr.edu.ph
+SEQUENCE:9
+LAST-MODIFIED:20220221T152148Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220227T121305Z
+SUMMARY:Activity 1 Antidifferentiation - Due
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:Activity Guide:1.) After completing all the previous activities
+	\, please answer the activity in order to assess your understanding on modu
+	le 1.\n2.) Please do not forget to write your name in the activity.\n3.) En
+	closed always your final answer in a box.\n4.) You are not allowed to submi
+	t your answer in computerized form.\n5.) You can send/upload your final ans
+	wer in the Adelante LMS(Brightspace) in a PDF\, DOC\, PPT or any acceptable
+	 file in our online class.\n6.) Every time you are going to submit and uplo
+	ad your assignment in the online class it should be one(1) file only.\n\n\n
+	Assignments:\nActivity 1 Antidifferentiation - https://adelantelms.usjr.edu
+	.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=24121&db=48499\n\n\nVie
+	w event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24121/event/14048
+	2/detailsview?ou=24121#140482
+CLASS:PUBLIC
+DTSTART:20220228T140000Z
+DTEND:20220228T140000Z
+UID:6606-140482@adelantelms.usjr.edu.ph
+SEQUENCE:13
+LAST-MODIFIED:20220216T062815Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220227T121305Z
+SUMMARY:GUIDANCE 1 GRADE - Due
+LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
+DESCRIPTION:To ensure that your enrolment to Guidance 2 is valid\, kindly p
+	rovide a copy of your Guidance 1 grade. Passing Guidance 1 is a pre-requisi
+	te to enroll in Guidance 2. \n\n\nAssignments:\nGUIDANCE 1 GRADE - https://
+	adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=254
+	22&db=50162\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calend
+	ar/25422/event/144275/detailsview?ou=25422#144275
+CLASS:PUBLIC
+DTSTART:20220228T155959Z
+DTEND:20220228T155959Z
+UID:6606-144275@adelantelms.usjr.edu.ph
+SEQUENCE:4
+LAST-MODIFIED:20220216T062309Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220227T121305Z
+SUMMARY:Prelim\, Asynchronous Activity #1 - Due
+LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
+	troduction to Biblical Exegesis
+DESCRIPTION:Answer the following guide questions using these format\, accor
+	dingly: \n\nLetter size\, Arial = 12\nMinimum of 250 words\nConvert into pd
+	f and attach file\n\n\nQuestions:\n\nCite the significant points exegesis p
+	lay in the study and understanding bible.\nWhy a proper understanding of th
+	e Sacred Scriptures/Bible is relevant in one's life\, belief\, and personal
+	 journey?\n\n\n\nAssignments:\nPrelim\, Asynchronous Activity #1 - https://
+	adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=252
+	62&db=52146\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calend
+	ar/25262/event/151919/detailsview?ou=25262#151919
+CLASS:PUBLIC
+DTSTART:20220307T155959Z
+DTEND:20220307T155959Z
+UID:6606-151919@adelantelms.usjr.edu.ph
+SEQUENCE:8
+LAST-MODIFIED:20220222T113214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220227T121305Z
+SUMMARY:Laboratory Activity #3 - Due
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Assignments:\nLaboratory Activity #3\n\n\nView event - https://
+	adelantelms.usjr.edu.ph/d2l/le/calendar/24167/event/152890/detailsview?ou=2
+	4167#152890
+CLASS:PUBLIC
+DTSTART:20220308T010000Z
+DTEND:20220308T010000Z
+UID:6606-152890@adelantelms.usjr.edu.ph
+SEQUENCE:13
+LAST-MODIFIED:20220227T071354Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220227T121305Z
+SUMMARY:Quiz 1 - Availability Ends
+LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
+	)
+DESCRIPTION:Quizzes:\nQuiz 1 - https://adelantelms.usjr.edu.ph/d2l/lms/quiz
+	zing/quizzing.d2l?ou=24653&qi=65620\n\n\nView event - https://adelantelms.u
+	sjr.edu.ph/d2l/le/calendar/24653/event/151820/detailsview?ou=24653#151820
+CLASS:PUBLIC
+DTSTART:20220308T155900Z
+DTEND:20220308T155900Z
+UID:6606-151820@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220222T072601Z
+END:VEVENT
+END:VCALENDAR
