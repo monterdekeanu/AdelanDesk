@@ -4,7 +4,7 @@ VERSION:2.0
 METHOD:PUBLISH
 X-WR-CALNAME:All Courses - Adelante Online Learning Environment
 BEGIN:VEVENT
-DTSTAMP:20220301T073240Z
+DTSTAMP:20220310T082818Z
 SUMMARY:Lecture 1: Program Flowcharts - Available
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Materials:\nLecture 1: Program Flowcharts - https://adelantelms
@@ -19,7 +19,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220216T143246Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T073240Z
+DTSTAMP:20220310T082818Z
 SUMMARY:LECTURE 1 - PROGRAM DESIGN USING FLOWCHARTS1 - Available
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Materials:\nLECTURE 1 - PROGRAM DESIGN USING FLOWCHARTS1 - http
@@ -34,7 +34,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220216T143346Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T073240Z
+DTSTAMP:20220310T082818Z
 SUMMARY:Activity 1 - Due
 LOCATION:4017 - NS 1B1               | Physics for Engineers (Lec)
 DESCRIPTION:Assignments:\nActivity 1 - https://adelantelms.usjr.edu.ph/d2l/
@@ -45,28 +45,11 @@ CLASS:PUBLIC
 DTSTART:20220218T060000Z
 DTEND:20220218T060000Z
 UID:6606-144224@adelantelms.usjr.edu.ph
-SEQUENCE:10
-LAST-MODIFIED:20220216T002244Z
+SEQUENCE:13
+LAST-MODIFIED:20220309T005636Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T073240Z
-SUMMARY:CWTS 12 Record Sheet - Available
-LOCATION:17000 - CWTS 12*             | Civic Welfare Training Services 12
-DESCRIPTION:Kindly fill-in all the necessary data in the attached Record Sh
-	eet Template and upload the accomplished sheet in this section.\n\n\nAssign
-	ments:\nCWTS 12 Record Sheet - https://adelantelms.usjr.edu.ph/d2l/lms/drop
-	box/user/folder_submit_files.d2l?ou=25349&db=49284\n\n\nView event - https:
-	//adelantelms.usjr.edu.ph/d2l/le/calendar/25349/event/144494/detailsview?ou
-	=25349#144494
-CLASS:PUBLIC
-DTSTART:20220218T160100Z
-DTEND:20220218T160100Z
-UID:6606-144494@adelantelms.usjr.edu.ph
-SEQUENCE:5
-LAST-MODIFIED:20220216T071510Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220301T073240Z
+DTSTAMP:20220310T082818Z
 SUMMARY:Lecture 2: Pseudo Coding - Available
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:<p id="B9780081008805000062-p0080"><em>Pseudocode</em> consists
@@ -96,25 +79,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220221T150302Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T073240Z
-SUMMARY:Asynchronous Activity 2 - Reflection Paper on the Occurrence of Typ
-	hoon "Odette" - Available
-LOCATION:17000 - CWTS 12*             | Civic Welfare Training Services 12
-DESCRIPTION:Kindly follow the instruction provided in the attached file.\n\
-	n\nAssignments:\nAsynchronous Activity 2 - Reflection Paper on the Occurren
-	ce of Typhoon "Odette" - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/us
-	er/folder_submit_files.d2l?ou=25349&db=52222\n\n\nView event - https://adel
-	antelms.usjr.edu.ph/d2l/le/calendar/25349/event/152087/detailsview?ou=25349
-	#152087
-CLASS:PUBLIC
-DTSTART:20220222T160100Z
-DTEND:20220222T160100Z
-UID:6606-152087@adelantelms.usjr.edu.ph
-SEQUENCE:8
-LAST-MODIFIED:20220223T020036Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220301T073240Z
+DTSTAMP:20220310T082818Z
 SUMMARY:Laboratory Activity #1: Programming Design Flowcharts - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Assignments:\nLaboratory Activity #1: Programming Design Flowch
@@ -129,7 +94,7 @@ SEQUENCE:17
 LAST-MODIFIED:20220216T143356Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T073240Z
+DTSTAMP:20220310T082818Z
 SUMMARY:Activity 2 - Due
 LOCATION:4017 - NS 1B1               | Physics for Engineers (Lec)
 DESCRIPTION:Assignments:\nActivity 2 - https://adelantelms.usjr.edu.ph/d2l/
@@ -144,7 +109,7 @@ SEQUENCE:10
 LAST-MODIFIED:20220223T001450Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T073240Z
+DTSTAMP:20220310T082818Z
 SUMMARY:Lecture 3: Lookback Functions and Parameter Passing Part 1 - Availa
 	ble
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
@@ -160,7 +125,7 @@ SEQUENCE:1
 LAST-MODIFIED:20220227T071029Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T073240Z
+DTSTAMP:20220310T082818Z
 SUMMARY:LECTURE 3 - INTRODUCTION_REVIEW ON FUNCTIONS AND PARAMETER PASSING 
 	- Available
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
@@ -176,7 +141,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220227T071202Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T073240Z
+DTSTAMP:20220310T082818Z
 SUMMARY:Laboratory Activity #2: Psuedo Coding - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Assignments:\nLaboratory Activity #2: Psuedo Coding - https://a
@@ -191,7 +156,7 @@ SEQUENCE:9
 LAST-MODIFIED:20220221T152148Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T073240Z
+DTSTAMP:20220310T082818Z
 SUMMARY:Activity 1 Antidifferentiation - Due
 LOCATION:4005 - EM 1B1               | Engineering Calculus 2
 DESCRIPTION:Assignments:\nActivity 1 Antidifferentiation\n\n\nView event - 
@@ -201,11 +166,11 @@ CLASS:PUBLIC
 DTSTART:20220228T140000Z
 DTEND:20220228T140000Z
 UID:6606-140482@adelantelms.usjr.edu.ph
-SEQUENCE:13
-LAST-MODIFIED:20220216T062815Z
+SEQUENCE:19
+LAST-MODIFIED:20220308T073354Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T073240Z
+DTSTAMP:20220310T082818Z
 SUMMARY:GUIDANCE 1 GRADE - Due
 LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
 DESCRIPTION:To ensure that your enrolment to Guidance 2 is valid\, kindly p
@@ -222,51 +187,42 @@ SEQUENCE:4
 LAST-MODIFIED:20220216T062309Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T073240Z
+DTSTAMP:20220310T082818Z
 SUMMARY:Activity 2 Trigonometric Functions 1 - Due
 LOCATION:4005 - EM 1B1               | Engineering Calculus 2
-DESCRIPTION:Activity Guide:1.) After completing all the previous activities
-	\, please answer the activity in order to assess your understanding on modu
-	le 2.\n2.) Please do not forget to write your name in the activity.\n3.) En
-	closed always your final answer in a box.\n4.) You are not allowed to submi
-	t your answer in computerized form.\n5.) You can send/upload your final ans
-	wer in the Adelante LMS(Brightspace) in a PDF\, DOC\, PPT or any acceptable
-	 file in our online class.\n6.) Every time you are going to submit and uplo
-	ad your assignment in the online class it should be one(1) file only.\n\n\n
-	Assignments:\nActivity 2 Trigonometric Functions 1 - https://adelantelms.us
-	jr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=24121&db=48500\n\
-	n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24121/event
-	/140469/detailsview?ou=24121#140469
+DESCRIPTION:Assignments:\nActivity 2 Trigonometric Functions 1\n\n\nView ev
+	ent - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24121/event/140469/de
+	tailsview?ou=24121#140469
 CLASS:PUBLIC
 DTSTART:20220302T140000Z
 DTEND:20220302T140000Z
 UID:6606-140469@adelantelms.usjr.edu.ph
-SEQUENCE:13
-LAST-MODIFIED:20220228T041050Z
+SEQUENCE:21
+LAST-MODIFIED:20220308T073419Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T073240Z
-SUMMARY:Prelim\, Asynchronous Activity #1 - Due
-LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
-	troduction to Biblical Exegesis
-DESCRIPTION:Answer the following guide questions using these format\, accor
-	dingly: \n\nLetter size\, Arial = 12\nMinimum of 250 words\nConvert into pd
-	f and attach file\n\n\nQuestions:\n\nCite the significant points exegesis p
-	lay in the study and understanding bible.\nWhy a proper understanding of th
-	e Sacred Scriptures/Bible is relevant in one's life\, belief\, and personal
-	 journey?\n\n\n\nAssignments:\nPrelim\, Asynchronous Activity #1 - https://
-	adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=252
-	62&db=52146\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calend
-	ar/25262/event/151919/detailsview?ou=25262#151919
+DTSTAMP:20220310T082818Z
+SUMMARY:SLIPS FOR THE PSYCHOLOGICAL TEST  - Due
+LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
+DESCRIPTION:Please answer the Psychological Test for Guidance 2 using this 
+	link https://docs.google.com/forms/d/e/1FAIpQLScYJk_gShj-Peh7vSZzPQt4ft7Q1Z
+	VhB4AfcXQDeOIFN3UfPw/viewform?fbclid=IwAR0Ts1_I9iRBAeio7Urcp4ci6VmXFXU46GOK
+	zZp7fQXypIjtxEiTxpr91-0 \nDownload the certificate after taking the test an
+	d kindly upload your slips/certificates for Follow-up Counseling/PTI and Ps
+	ychological Test for Guidance 2.\nThank you\n\n\nAssignments:\nSLIPS FOR TH
+	E PSYCHOLOGICAL TEST  - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/use
+	r/folder_submit_files.d2l?ou=25422&db=50166\n\n\nView event - https://adela
+	ntelms.usjr.edu.ph/d2l/le/calendar/25422/event/144268/detailsview?ou=25422#
+	144268
 CLASS:PUBLIC
 DTSTART:20220307T155959Z
 DTEND:20220307T155959Z
-UID:6606-151919@adelantelms.usjr.edu.ph
-SEQUENCE:8
-LAST-MODIFIED:20220222T113214Z
+UID:6606-144268@adelantelms.usjr.edu.ph
+SEQUENCE:16
+LAST-MODIFIED:20220307T064315Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T073240Z
+DTSTAMP:20220310T082818Z
 SUMMARY:Laboratory Activity #3 - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Assignments:\nLaboratory Activity #3 - https://adelantelms.usjr
@@ -281,7 +237,55 @@ SEQUENCE:13
 LAST-MODIFIED:20220227T071354Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T073240Z
+DTSTAMP:20220310T082818Z
+SUMMARY:Quiz 1 Antidifferentiation - Due
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:\nInstructions:\n1. After completing all the previous activitie
+	s on Module 1\, now you are ready to take your assessment task on this Modu
+	le 1.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take
+	 note that you are given only one (1) attempt to take and answer the quiz.\
+	n4. Be extra careful in choosing the correct answer\, once you click the Ne
+	xt Page you can no longer return to the Previous Page. \n5. If the Previous
+	 Page icon appeared on the question\, that means you are allowed to preview
+	 back to a certain given question and disregard instruction 4.\n6. After yo
+	u are done answering all the questions\, please don't forget to click Submi
+	t Quiz.\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz
+	 1 Antidifferentiation - https://adelantelms.usjr.edu.ph/d2l/lms/quizzing/q
+	uizzing.d2l?ou=24121&qi=66656\n\n\nView event - https://adelantelms.usjr.ed
+	u.ph/d2l/le/calendar/24121/event/156800/detailsview?ou=24121#156800
+CLASS:PUBLIC
+DTSTART:20220308T043000Z
+DTEND:20220308T043000Z
+UID:6606-156800@adelantelms.usjr.edu.ph
+SEQUENCE:2
+LAST-MODIFIED:20220306T140834Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:Quiz 1 Antidifferentiation - Availability Ends
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:\nInstructions:\n1. After completing all the previous activitie
+	s on Module 1\, now you are ready to take your assessment task on this Modu
+	le 1.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take
+	 note that you are given only one (1) attempt to take and answer the quiz.\
+	n4. Be extra careful in choosing the correct answer\, once you click the Ne
+	xt Page you can no longer return to the Previous Page. \n5. If the Previous
+	 Page icon appeared on the question\, that means you are allowed to preview
+	 back to a certain given question and disregard instruction 4.\n6. After yo
+	u are done answering all the questions\, please don't forget to click Submi
+	t Quiz.\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz
+	 1 Antidifferentiation - https://adelantelms.usjr.edu.ph/d2l/lms/quizzing/q
+	uizzing.d2l?ou=24121&qi=66656\n\n\nView event - https://adelantelms.usjr.ed
+	u.ph/d2l/le/calendar/24121/event/156802/detailsview?ou=24121#156802
+CLASS:PUBLIC
+DTSTART:20220308T043000Z
+DTEND:20220308T043000Z
+UID:6606-156802@adelantelms.usjr.edu.ph
+SEQUENCE:2
+LAST-MODIFIED:20220306T140834Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
 SUMMARY:Quiz 1 - Availability Ends
 LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
 	)
@@ -294,5 +298,510 @@ DTEND:20220308T155900Z
 UID:6606-151820@adelantelms.usjr.edu.ph
 SEQUENCE:0
 LAST-MODIFIED:20220222T072601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:Activity 3 - Due
+LOCATION:4017 - NS 1B1               | Physics for Engineers (Lec)
+DESCRIPTION:Assignments:\nActivity 3 - https://adelantelms.usjr.edu.ph/d2l/
+	lms/dropbox/user/folder_submit_files.d2l?ou=24133&db=53320\n\n\nView event 
+	- https://adelantelms.usjr.edu.ph/d2l/le/calendar/24133/event/157044/detail
+	sview?ou=24133#157044
+CLASS:PUBLIC
+DTSTART:20220309T100000Z
+DTEND:20220309T100000Z
+UID:6606-157044@adelantelms.usjr.edu.ph
+SEQUENCE:10
+LAST-MODIFIED:20220309T022237Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:Activity 3 Trigonometric Functions 2 - Due
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:Assignments:\nActivity 3 Trigonometric Functions 2\n\n\nView ev
+	ent - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24121/event/140473/de
+	tailsview?ou=24121#140473
+CLASS:PUBLIC
+DTSTART:20220309T140000Z
+DTEND:20220309T140000Z
+UID:6606-140473@adelantelms.usjr.edu.ph
+SEQUENCE:18
+LAST-MODIFIED:20220307T033033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:Quiz 2 Integration of Trigonometric Functions 1 - Due
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	on Module 2\, now you are ready to take your assessment task on Module 2.\n
+	2. You are going to answer the quiz for 1 hour only.\n3. Please take note t
+	hat you are given only one (1) attempt to take and answer the quiz.\n4. Be 
+	extra careful in choosing the correct answer\, once you click the Next Page
+	 you can no longer return to the Previous Page. \n5. If the Previous Page i
+	con appeared on the question\, that means you are allowed to preview back t
+	o a certain given question and disregard instruction 4.\n6. After you are d
+	one answering all the questions\, please don't forget to click Submit Quiz.
+	\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 2 Inte
+	gration of Trigonometric Functions 1 - https://adelantelms.usjr.edu.ph/d2l/
+	lms/quizzing/quizzing.d2l?ou=24121&qi=61317\n\n\nView event - https://adela
+	ntelms.usjr.edu.ph/d2l/le/calendar/24121/event/157083/detailsview?ou=24121#
+	157083
+CLASS:PUBLIC
+DTSTART:20220310T043000Z
+DTEND:20220310T043000Z
+UID:6606-157083@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220307T082055Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:Quiz 2 Integration of Trigonometric Functions 1 - Availability Ends
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	on Module 2\, now you are ready to take your assessment task on Module 2.\n
+	2. You are going to answer the quiz for 1 hour only.\n3. Please take note t
+	hat you are given only one (1) attempt to take and answer the quiz.\n4. Be 
+	extra careful in choosing the correct answer\, once you click the Next Page
+	 you can no longer return to the Previous Page. \n5. If the Previous Page i
+	con appeared on the question\, that means you are allowed to preview back t
+	o a certain given question and disregard instruction 4.\n6. After you are d
+	one answering all the questions\, please don't forget to click Submit Quiz.
+	\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 2 Inte
+	gration of Trigonometric Functions 1 - https://adelantelms.usjr.edu.ph/d2l/
+	lms/quizzing/quizzing.d2l?ou=24121&qi=61317\n\n\nView event - https://adela
+	ntelms.usjr.edu.ph/d2l/le/calendar/24121/event/157085/detailsview?ou=24121#
+	157085
+CLASS:PUBLIC
+DTSTART:20220310T043000Z
+DTEND:20220310T043000Z
+UID:6606-157085@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220307T082055Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:Experiment 1 - Measurement - Due
+LOCATION:4023 - NS 1B2               | Physics for Engineers (Lab)
+DESCRIPTION:Please attach your Experiment 1 - Measurement in this folder.  
+	Use PDF in submitting your experiment.  Thank you. \n\n\nAssignments:\nExpe
+	riment 1 - Measurement - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/us
+	er/folder_submit_files.d2l?ou=24139&db=53035\n\n\nView event - https://adel
+	antelms.usjr.edu.ph/d2l/le/calendar/24139/event/156099/detailsview?ou=24139
+	#156099
+CLASS:PUBLIC
+DTSTART:20220310T155959Z
+DTEND:20220310T155959Z
+UID:6606-156099@adelantelms.usjr.edu.ph
+SEQUENCE:7
+LAST-MODIFIED:20220303T051452Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:Prelim\, Asynchronous Activity #1 - Due
+LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
+	troduction to Biblical Exegesis
+DESCRIPTION:Answer the following guide questions using these format\, accor
+	dingly: \n\nLetter size\, Arial = 12\nMinimum of 250 words\nConvert into pd
+	f and attach file\n\n\nQuestions:\n\nCite the significant points exegesis p
+	lay in the study and understanding bible.\nWhy a proper understanding of th
+	e Sacred Scriptures/Bible is relevant in one's life\, belief\, and personal
+	 journey?\n\n\n\nAssignments:\nPrelim\, Asynchronous Activity #1 - https://
+	adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=252
+	62&db=52146\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calend
+	ar/25262/event/151919/detailsview?ou=25262#151919
+CLASS:PUBLIC
+DTSTART:20220311T155959Z
+DTEND:20220311T155959Z
+UID:6606-151919@adelantelms.usjr.edu.ph
+SEQUENCE:13
+LAST-MODIFIED:20220308T014403Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:Activity 4 Integration of Exponential and Logarithmic Functions - D
+	ue
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:Activity Guide:1.) After completing all the previous activities
+	\, please answer the activity in order to assess your understanding on modu
+	le 4.\n2.) Please do not forget to write your name in the activity.\n3.) En
+	closed always your final answer in a box.\n4.) You are not allowed to submi
+	t your answer in computerized form.\n5.) You can send/upload your final ans
+	wer in the Adelante LMS(Brightspace) in a PDF\, DOC\, PPT or any acceptable
+	 file in our online class.\n6.) Every time you are going to submit and uplo
+	ad your assignment in the online class it should be one(1) file only.\n\n\n
+	Assignments:\nActivity 4 Integration of Exponential and Logarithmic Functio
+	ns - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_fil
+	es.d2l?ou=24121&db=48502\n\n\nView event - https://adelantelms.usjr.edu.ph/
+	d2l/le/calendar/24121/event/140479/detailsview?ou=24121#140479
+CLASS:PUBLIC
+DTSTART:20220312T140000Z
+DTEND:20220312T140000Z
+UID:6606-140479@adelantelms.usjr.edu.ph
+SEQUENCE:12
+LAST-MODIFIED:20220308T114153Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:Quiz 3 Integration of Trigonometric Functions 2 - Due
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	in Module 3\, now you are ready to take your assessment task in Module 3.\n
+	2. You are going to answer the quiz for 1 hour only.\n3. Please take note t
+	hat you are given only one (1) attempt to take and answer the quiz.\n4. Be 
+	extra careful in choosing the correct answer\, once you click the Next Page
+	 you can no longer return to the Previous Page. \n5. If the Previous Page i
+	con appeared on the question\, that means you are allowed to preview back t
+	o a certain given question and disregard instruction 4.\n6. After you are d
+	one answering all the questions\, please don't forget to click Submit Quiz.
+	\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 3 Inte
+	gration of Trigonometric Functions 2 - https://adelantelms.usjr.edu.ph/d2l/
+	lms/quizzing/quizzing.d2l?ou=24121&qi=61318\n\n\nView event - https://adela
+	ntelms.usjr.edu.ph/d2l/le/calendar/24121/event/157463/detailsview?ou=24121#
+	157463
+CLASS:PUBLIC
+DTSTART:20220314T043000Z
+DTEND:20220314T043000Z
+UID:6606-157463@adelantelms.usjr.edu.ph
+SEQUENCE:1
+LAST-MODIFIED:20220308T120148Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:Quiz 3 Integration of Trigonometric Functions 2 - Availability Ends
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	in Module 3\, now you are ready to take your assessment task in Module 3.\n
+	2. You are going to answer the quiz for 1 hour only.\n3. Please take note t
+	hat you are given only one (1) attempt to take and answer the quiz.\n4. Be 
+	extra careful in choosing the correct answer\, once you click the Next Page
+	 you can no longer return to the Previous Page. \n5. If the Previous Page i
+	con appeared on the question\, that means you are allowed to preview back t
+	o a certain given question and disregard instruction 4.\n6. After you are d
+	one answering all the questions\, please don't forget to click Submit Quiz.
+	\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 3 Inte
+	gration of Trigonometric Functions 2 - https://adelantelms.usjr.edu.ph/d2l/
+	lms/quizzing/quizzing.d2l?ou=24121&qi=61318\n\n\nView event - https://adela
+	ntelms.usjr.edu.ph/d2l/le/calendar/24121/event/157465/detailsview?ou=24121#
+	157465
+CLASS:PUBLIC
+DTSTART:20220314T043000Z
+DTEND:20220314T043000Z
+UID:6606-157465@adelantelms.usjr.edu.ph
+SEQUENCE:1
+LAST-MODIFIED:20220308T120148Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:Prelim\, Bible 101 - Due
+LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
+	troduction to Biblical Exegesis
+DESCRIPTION:Kindly submit an essay answering the following questions:\n1. D
+	escribe the extent of your knowledge about the Bible.\n2. Narrate briefly o
+	n who how the Bible was introduced to you.\n \nNote: Answer for each item m
+	ust not exceed 2 paragraphs.\nSubmission: PDF Format\n\n\nAssignments:\nPre
+	lim\, Bible 101 - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/fold
+	er_submit_files.d2l?ou=25262&db=53141\n\n\nView event - https://adelantelms
+	.usjr.edu.ph/d2l/le/calendar/25262/event/156465/detailsview?ou=25262#156465
+CLASS:PUBLIC
+DTSTART:20220314T155959Z
+DTEND:20220314T155959Z
+UID:6606-156465@adelantelms.usjr.edu.ph
+SEQUENCE:12
+LAST-MODIFIED:20220305T004347Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:CWTS 12 Record Sheet - Due
+LOCATION:17000 - CWTS 12*             | Civic Welfare Training Services 12
+DESCRIPTION:Kindly fill-in all the necessary data in the attached Record Sh
+	eet Template and upload the accomplished sheet in this section.\n\n\nAssign
+	ments:\nCWTS 12 Record Sheet - https://adelantelms.usjr.edu.ph/d2l/lms/drop
+	box/user/folder_submit_files.d2l?ou=25349&db=49284\n\n\nView event - https:
+	//adelantelms.usjr.edu.ph/d2l/le/calendar/25349/event/156927/detailsview?ou
+	=25349#156927
+CLASS:PUBLIC
+DTSTART:20220314T155959Z
+DTEND:20220314T155959Z
+UID:6606-156927@adelantelms.usjr.edu.ph
+SEQUENCE:2
+LAST-MODIFIED:20220307T001720Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:Laboratory Activity #4: Passing Arrays to Functions - Due
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Assignments:\nLaboratory Activity #4: Passing Arrays to Functio
+	ns - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_fil
+	es.d2l?ou=24167&db=53522\n\n\nView event - https://adelantelms.usjr.edu.ph/
+	d2l/le/calendar/24167/event/157513/detailsview?ou=24167#157513
+CLASS:PUBLIC
+DTSTART:20220315T010000Z
+DTEND:20220315T010000Z
+UID:6606-157513@adelantelms.usjr.edu.ph
+SEQUENCE:9
+LAST-MODIFIED:20220308T161829Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:Preim Exam - Due
+LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
+	troduction to Biblical Exegesis
+DESCRIPTION:"It is your attitude more than your aptitude that will determin
+	e your altitude."\n– Anonymous\n\n\nQuizzes:\nPreim Exam - https://adelante
+	lms.usjr.edu.ph/d2l/lms/quizzing/quizzing.d2l?ou=25262&qi=66962\n\n\nView e
+	vent - https://adelantelms.usjr.edu.ph/d2l/le/calendar/25262/event/158021/d
+	etailsview?ou=25262#158021
+CLASS:PUBLIC
+DTSTART:20220315T070000Z
+DTEND:20220315T070000Z
+UID:6606-158021@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220310T015623Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:Preim Exam - Availability Ends
+LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
+	troduction to Biblical Exegesis
+DESCRIPTION:"It is your attitude more than your aptitude that will determin
+	e your altitude."\n– Anonymous\n\n\nQuizzes:\nPreim Exam - https://adelante
+	lms.usjr.edu.ph/d2l/lms/quizzing/quizzing.d2l?ou=25262&qi=66962\n\n\nView e
+	vent - https://adelantelms.usjr.edu.ph/d2l/le/calendar/25262/event/158023/d
+	etailsview?ou=25262#158023
+CLASS:PUBLIC
+DTSTART:20220315T070000Z
+DTEND:20220315T070000Z
+UID:6606-158023@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220310T015623Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:PRELIM EXAM - Due
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:\nInstructions:\n1. You are going to answer the PRELIM EXAM for
+	 1 hour and 30 minutes only. \n2. Please take note that you are given only 
+	one (1) attempt to take and answer the exam.\n3. Be extra careful in choosi
+	ng the correct answer\, once you click the Next Page you can no longer retu
+	rn to the Previous Page. \n4. If the Previous Page icon appeared on the que
+	stion\, that means you are allowed to preview back to a certain given quest
+	ion and disregard instruction 3.\n5. After you are done answering all the q
+	uestions\, please don't forget to click Submit Quiz.\n6. For Confirmation\,
+	 click again Submit Quiz.\n\n\nQuizzes:\nPRELIM EXAM - https://adelantelms.
+	usjr.edu.ph/d2l/lms/quizzing/quizzing.d2l?ou=24121&qi=61330\n\n\nView event
+	 - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24121/event/157466/detai
+	lsview?ou=24121#157466
+CLASS:PUBLIC
+DTSTART:20220316T050000Z
+DTEND:20220316T050000Z
+UID:6606-157466@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220308T120346Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:PRELIM EXAM - Availability Ends
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:\nInstructions:\n1. You are going to answer the PRELIM EXAM for
+	 1 hour and 30 minutes only. \n2. Please take note that you are given only 
+	one (1) attempt to take and answer the exam.\n3. Be extra careful in choosi
+	ng the correct answer\, once you click the Next Page you can no longer retu
+	rn to the Previous Page. \n4. If the Previous Page icon appeared on the que
+	stion\, that means you are allowed to preview back to a certain given quest
+	ion and disregard instruction 3.\n5. After you are done answering all the q
+	uestions\, please don't forget to click Submit Quiz.\n6. For Confirmation\,
+	 click again Submit Quiz.\n\n\nQuizzes:\nPRELIM EXAM - https://adelantelms.
+	usjr.edu.ph/d2l/lms/quizzing/quizzing.d2l?ou=24121&qi=61330\n\n\nView event
+	 - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24121/event/157468/detai
+	lsview?ou=24121#157468
+CLASS:PUBLIC
+DTSTART:20220316T050000Z
+DTEND:20220316T050000Z
+UID:6606-157468@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220308T120346Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:Asynchronous Activity 2 - Reflection Paper on the Occurrence of Typ
+	hoon "Odette" - Due
+LOCATION:17000 - CWTS 12*             | Civic Welfare Training Services 12
+DESCRIPTION:Kindly follow the instruction provided in the attached file.\n\
+	n\nAssignments:\nAsynchronous Activity 2 - Reflection Paper on the Occurren
+	ce of Typhoon "Odette" - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/us
+	er/folder_submit_files.d2l?ou=25349&db=52222\n\n\nView event - https://adel
+	antelms.usjr.edu.ph/d2l/le/calendar/25349/event/156928/detailsview?ou=25349
+	#156928
+CLASS:PUBLIC
+DTSTART:20220316T155959Z
+DTEND:20220316T155959Z
+UID:6606-156928@adelantelms.usjr.edu.ph
+SEQUENCE:2
+LAST-MODIFIED:20220307T001824Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:Essay on how can a CWTS 12 student serve the community - Group A - 
+	Due
+LOCATION:17000 - CWTS 12*             | Civic Welfare Training Services 12
+DESCRIPTION:Assignments:\nEssay on how can a CWTS 12 student serve the comm
+	unity - Group A\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/ca
+	lendar/25349/event/157617/detailsview?ou=25349#157617
+CLASS:PUBLIC
+DTSTART:20220316T155959Z
+DTEND:20220316T155959Z
+UID:6606-157617@adelantelms.usjr.edu.ph
+SEQUENCE:12
+LAST-MODIFIED:20220309T050322Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:Experiment 2 - Vectors - Due
+LOCATION:4023 - NS 1B2               | Physics for Engineers (Lab)
+DESCRIPTION:Please attach your output of Experiment 2 - Vectors in this fol
+	der. Use PDF format please.  Thank you.\n\n\nAssignments:\nExperiment 2 - V
+	ectors - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit
+	_files.d2l?ou=24139&db=53423\n\n\nView event - https://adelantelms.usjr.edu
+	.ph/d2l/le/calendar/24139/event/157352/detailsview?ou=24139#157352
+CLASS:PUBLIC
+DTSTART:20220317T155959Z
+DTEND:20220317T155959Z
+UID:6606-157352@adelantelms.usjr.edu.ph
+SEQUENCE:9
+LAST-MODIFIED:20220308T012457Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:Webinar - Recoletos 400 - Due
+LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
+	troduction to Biblical Exegesis
+DESCRIPTION:Write a reflection or reaction based on the Book Launching acti
+	vity about the 400 Years Presence of Recoletos in Cebu. \nIf you were not a
+	ble to attend the webinar\, your reflection/reaction will just be based on 
+	the impact of Recoletos in Cebu.\nNote: Maximum of 200 words will do. This 
+	will be a bonus and be added to your quiz.\nFormat: PDF File\n\n\nAssignmen
+	ts:\nWebinar - Recoletos 400 - https://adelantelms.usjr.edu.ph/d2l/lms/drop
+	box/user/folder_submit_files.d2l?ou=25262&db=53173\n\n\nView event - https:
+	//adelantelms.usjr.edu.ph/d2l/le/calendar/25262/event/156492/detailsview?ou
+	=25262#156492
+CLASS:PUBLIC
+DTSTART:20220321T155959Z
+DTEND:20220321T155959Z
+UID:6606-156492@adelantelms.usjr.edu.ph
+SEQUENCE:7
+LAST-MODIFIED:20220305T011431Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:Prelim Output - Due
+LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
+	troduction to Biblical Exegesis
+DESCRIPTION:Make a short video clip with a minimum of 2 minutes by explaini
+	ng both the exegesis and eisegesis of a chosen biblical passage or story.  
+	Read correctly the biblical passage with proper citation before explaining 
+	its exegesis and eisegesis.\nAs part of your content\, kindly include in yo
+	ur video clip your personal information as an introduction (Complete Name\,
+	 Course Program and Year\, Present Address/Location\, etc.) \nRubrics:\nRes
+	ponse - 15\nCreativity - 20\nAnalysis - 15\nTotal: 50\nNote: Kindly attache
+	d or provide a link for your video clip and submit it to this platform. \n\
+	n\nAssignments:\nPrelim Output - https://adelantelms.usjr.edu.ph/d2l/lms/dr
+	opbox/user/folder_submit_files.d2l?ou=25262&db=53142\n\n\nView event - http
+	s://adelantelms.usjr.edu.ph/d2l/le/calendar/25262/event/156466/detailsview?
+	ou=25262#156466
+CLASS:PUBLIC
+DTSTART:20220323T155959Z
+DTEND:20220323T155959Z
+UID:6606-156466@adelantelms.usjr.edu.ph
+SEQUENCE:12
+LAST-MODIFIED:20220307T114448Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:WORD DRILL (Back Vowel) - Due
+LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
+	)
+DESCRIPTION:Kindly submit here your video file\n\n\nAssignments:\nWORD DRIL
+	L (Back Vowel) - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folde
+	r_submit_files.d2l?ou=24653&db=53565\n\n\nView event - https://adelantelms.
+	usjr.edu.ph/d2l/le/calendar/24653/event/157614/detailsview?ou=24653#157614
+CLASS:PUBLIC
+DTSTART:20220323T155959Z
+DTEND:20220323T155959Z
+UID:6606-157614@adelantelms.usjr.edu.ph
+SEQUENCE:14
+LAST-MODIFIED:20220309T022807Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:THE CHOICE - Due
+LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
+DESCRIPTION:After watching the video\, answer the following questions:\n\nW
+	hat have you learned from the video? What does the statement “Small choices
+	 become actions\, actions become habits and habits become our way of life”?
+	\nHow has this activity helped you understand yourself and others?\nHow did
+	 you feel after watching the short clip?\nGive your personal definition of 
+	PERSONALITY.\n\n\n\nAssignments:\nTHE CHOICE - https://adelantelms.usjr.edu
+	.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=25422&db=53337\n\n\nVie
+	w event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/25422/event/15707
+	1/detailsview?ou=25422#157071
+CLASS:PUBLIC
+DTSTART:20220325T155959Z
+DTEND:20220325T155959Z
+UID:6606-157071@adelantelms.usjr.edu.ph
+SEQUENCE:11
+LAST-MODIFIED:20220307T074116Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:Bring Me - Due
+LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
+DESCRIPTION:Instructions:\n\nFind 1 item that is found in your surrounding 
+	that represents your personality.\nTake a picture of that item and explain 
+	briefly why that item represents your personality. \nWhat qualities do you 
+	possess that is similar to the item you choose.\n\n\n\nAssignments:\nBring 
+	Me - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_fil
+	es.d2l?ou=25422&db=50165\n\n\nView event - https://adelantelms.usjr.edu.ph/
+	d2l/le/calendar/25422/event/157073/detailsview?ou=25422#157073
+CLASS:PUBLIC
+DTSTART:20220325T155959Z
+DTEND:20220325T155959Z
+UID:6606-157073@adelantelms.usjr.edu.ph
+SEQUENCE:6
+LAST-MODIFIED:20220307T074320Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:NAME STORY  PDF (googledrivelink)submission corner - Due
+LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
+	)
+DESCRIPTION:\nKindly submit your google drive link here.\nPlease prepare fo
+	r the individual presentation on our virtual class starting on March 21 202
+	2\n\n\n\nAssignments:\nNAME STORY  PDF (googledrivelink)submission corner -
+	 https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d
+	2l?ou=24653&db=53467\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/
+	le/calendar/24653/event/157383/detailsview?ou=24653#157383
+CLASS:PUBLIC
+DTSTART:20220325T155959Z
+DTEND:20220325T155959Z
+UID:6606-157383@adelantelms.usjr.edu.ph
+SEQUENCE:14
+LAST-MODIFIED:20220308T051032Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T082818Z
+SUMMARY:WORD DRILL (FRONT VOWEL) - Due
+LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
+	)
+DESCRIPTION:Kindly submit your here your video file of your front vowel wor
+	d drill\n\n\nAssignments:\nWORD DRILL (FRONT VOWEL) - https://adelantelms.u
+	sjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=24653&db=52960\n
+	\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24653/even
+	t/154345/detailsview?ou=24653#154345
+CLASS:PUBLIC
+DTSTART:20220328T155959Z
+DTEND:20220328T155959Z
+UID:6606-154345@adelantelms.usjr.edu.ph
+SEQUENCE:17
+LAST-MODIFIED:20220302T082714Z
 END:VEVENT
 END:VCALENDAR
