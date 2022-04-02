@@ -19,14 +19,13 @@ module.exports = {
       if(block[0]==message.author.username + "#" + message.author.discriminator){
         const url = block[1];
         flag=1
-        console.log("Success")
         https.get(url, (res) => {
       const path = `feed.ics`;
       const filePath = fs.createWriteStream(path);
       res.pipe(filePath);
       filePath.on('finish', () => {
         filePath.close();
-        console.log('Download Completed');
+        console.log('Download Completed: ' + message.author.username);
       })
     })
     
@@ -38,7 +37,8 @@ module.exports = {
         var localDay = event.end.toLocaleDateString("en-SG", { day: 'numeric' })
         var localYear = event.end.toLocaleDateString("en-SG", { year: 'numeric' })
         var localMonth = event.end.toLocaleDateString("en-SG", { month: 'numeric' })
-        if ((event.summary.toString().slice((event.summary.toString().length - 3, event.summary.toString().length) == "Due") || (event.summary.toString().slice(event.summary.toString().length - 4, event.summary.toString().length) == "Ends")) && (localYear >= today.getYear() && localMonth == today.getMonth() + 1 && localDay >= today.getDate() || localYear >= today.getYear() && localMonth > today.getMonth() + 1) && (today.getTime() < event.end.getTime())) {
+        //|| (event.summary.toString().slice(event.summary.toString().length - 4, event.summary.toString().length) == "Ends") IF END
+        if ((event.summary.toString().slice(event.summary.toString().length - 3, event.summary.toString().length) == "Due") && ((localYear >= today.getYear()) && (localMonth == today.getMonth() + 1) && (localDay >= today.getDate()) || (localYear >= today.getYear()) && (localMonth > today.getMonth() + 1) && (today.getTime() < event.end.getTime()))) {
           totalTask++
           event.end.getTime();
           embed.addField(months[event.end.getMonth()] + " " + event.end.getDate() + " | " + event.end.toLocaleTimeString("en-SG", { hour: '2-digit', minute: '2-digit', timeZone: "Asia/Singapore" }), event.location + ` \n` + " " + event.summary, false)

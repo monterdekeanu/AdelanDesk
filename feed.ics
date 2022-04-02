@@ -4,507 +4,411 @@ VERSION:2.0
 METHOD:PUBLISH
 X-WR-CALNAME:All Courses - Adelante Online Learning Environment
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Lesson 7 - Available
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:<p><img src="kkk.png" alt="" title="" width="488" height="293" 
-	style="display: block\; margin-left: auto\; margin-right: auto\;" /></p>\n\
-	n\nModules:\nLesson 7 - https://adelantelms.usjr.edu.ph/d2l/le/content/2473
-	8/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-197894\n\n\nVie
-	w event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24738/event/14698
-	0/detailsview?ou=24738#146980
+DTSTAMP:20220402T002505Z
+SUMMARY:Lecture 1: Program Flowcharts - Available
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Materials:\nLecture 1: Program Flowcharts - https://adelantelms
+	.usjr.edu.ph/d2l/le/content/24167/viewContent/190750/View\n\n\nView event -
+	 https://adelantelms.usjr.edu.ph/d2l/le/calendar/24167/event/145033/details
+	view?ou=24167#145033
 CLASS:PUBLIC
-DTSTART:20210113T230000Z
-DTEND:20210113T230000Z
-UID:6606-146980@adelantelms.usjr.edu.ph
+DTSTART:20220216T233000Z
+DTEND:20220216T233000Z
+UID:6606-145033@adelantelms.usjr.edu.ph
 SEQUENCE:0
-LAST-MODIFIED:20220218T020542Z
+LAST-MODIFIED:20220216T143246Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:ACADEMIC INTEGRITY - Available
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:<p style="margin: 0cm 0cm 0.0001pt\; text-align: justify\; line
-	-height: normal\; font-size: 11pt\; font-family: Calibri\, sans-serif\;"><s
-	pan style="font-size: 14pt\;"><b>Instruction: </b></span></p>\n<p style="ma
-	rgin: 0cm 0cm 0.0001pt\; text-align: justify\; line-height: normal\; font-s
-	ize: 11pt\; font-family: Calibri\, sans-serif\;"><span style="font-size: 14
-	pt\;">The School of Arts and Sciences expects its students to uphold&nbsp\;
-	Academic Integrity&nbsp\;at all times. While we encourage students to work 
-	together to provide mutual help in learning\, it is expected that student s
-	ubmissions on all activities\, quizzes\, and assignments are completely the
-	ir own.</span></p>\n<p style="margin: 0cm 0cm 0.0001pt\; text-align: justif
-	y\; line-height: normal\; font-size: 11pt\; font-family: Calibri\, sans-ser
-	if\;"><span style="font-size: 14pt\;">Hence\, students should declare that&
-	nbsp\;submissions are their&nbsp\;own. No part of the submissions are copie
-	d or done by another person. Plagiarism\, and other forms of Academic Disho
-	nesty\, may result to removal within the course and acquiring a failing gra
-	de.</span></p>\n<p style="margin: 0cm 0cm 0.0001pt\; text-align: justify\; 
-	line-height: normal\; font-size: 11pt\; font-family: Calibri\, sans-serif\;
-	"><span style="font-size: 14pt\;">&nbsp\;</span></p>\n<p style="margin: 0cm
-	 0cm 0.0001pt\; text-align: justify\; line-height: normal\; font-size: 11pt
-	\; font-family: Calibri\, sans-serif\;"><span style="font-size: 14pt\;">&nb
-	sp\;</span></p>\n<p style="margin: 0cm 0cm 0.0001pt\; text-align: justify\;
-	 line-height: normal\; font-size: 11pt\; font-family: Calibri\, sans-serif\
-	;"></p>\n\n\nModules:\nACADEMIC INTEGRITY - https://adelantelms.usjr.edu.ph
-	/d2l/le/content/24738/Home?itemIdentifier=D2L.LE.Content.ContentObject.Modu
-	leCO-197909\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calend
-	ar/24738/event/146982/detailsview?ou=24738#146982
+DTSTAMP:20220402T002505Z
+SUMMARY:LECTURE 1 - PROGRAM DESIGN USING FLOWCHARTS1 - Available
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Materials:\nLECTURE 1 - PROGRAM DESIGN USING FLOWCHARTS1 - http
+	s://adelantelms.usjr.edu.ph/d2l/le/content/24167/viewContent/190761/View\n\
+	n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24167/event
+	/145034/detailsview?ou=24167#145034
 CLASS:PUBLIC
-DTSTART:20210118T103000Z
-DTEND:20210118T103000Z
-UID:6606-146982@adelantelms.usjr.edu.ph
+DTSTART:20220216T233000Z
+DTEND:20220216T233000Z
+UID:6606-145034@adelantelms.usjr.edu.ph
 SEQUENCE:0
-LAST-MODIFIED:20220218T020542Z
+LAST-MODIFIED:20220216T143346Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Lesson 8 - Available
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:<p style="text-align: center\;"><img src="independence.jpg" alt
-	="" title="" width="465" height="196" /></p>\n\n\nModules:\nLesson 8 - http
-	s://adelantelms.usjr.edu.ph/d2l/le/content/24738/Home?itemIdentifier=D2L.LE
-	.Content.ContentObject.ModuleCO-197895\n\n\nView event - https://adelantelm
-	s.usjr.edu.ph/d2l/le/calendar/24738/event/146984/detailsview?ou=24738#14698
-	4
+DTSTAMP:20220402T002505Z
+SUMMARY:Lecture 2: Pseudo Coding - Available
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:<p id="B9780081008805000062-p0080"><em>Pseudocode</em> consists
+	 of short\, English phrases used to explain specific tasks within a program
+	. Ideally\, pseudocode should not include keywords in any specific computer
+	 language. Pseudocode should be written as a list of consecutive phrases\, 
+	we can even draw arrows to show looping processes. <a title="Learn more abo
+	ut Indentation from ScienceDirect's AI-generated Topic Pages" href="https:/
+	/www.sciencedirect.com/topics/engineering/indentation">Indentation</a> can 
+	be used to show the logical program flow in pseudocode also.<span id="B9780
+	081008805000062-p115"></span></p>\n<p id="B9780081008805000062-p0085">Writi
+	ng pseudocode saves time later during the coding and testing stage of a pro
+	gram's development and also helps communication between designers\, coders\
+	, and project managers. Some projects may use pseudocode for design\, other
+	s may use flow charts\, and some a combination of both.</p>\n<p></p>\n<p>Le
+	cture Video is grabbed from youtube.</p>\n<p>Here is the link</p>\n<p><a hr
+	ef="https://www.youtube.com/watch?v=rdTop-IPVPo">https://www.youtube.com/wa
+	tch?v=rdTop-IPVPo</a></p>\n\n\nMaterials:\nLecture 2: Pseudo Coding - https
+	://adelantelms.usjr.edu.ph/d2l/le/content/24167/viewContent/205956/View\n\n
+	\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24167/event/
+	151327/detailsview?ou=24167#151327
 CLASS:PUBLIC
-DTSTART:20210218T050000Z
-DTEND:20210218T050000Z
-UID:6606-146984@adelantelms.usjr.edu.ph
+DTSTART:20220221T233000Z
+DTEND:20220221T233000Z
+UID:6606-151327@adelantelms.usjr.edu.ph
 SEQUENCE:0
-LAST-MODIFIED:20220218T020542Z
+LAST-MODIFIED:20220221T150302Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:[Activity] Logical Equivalence - Availability Ends
-LOCATION:11012 - Discrete 1           | Discrete Structures 1
-DESCRIPTION:Assignments:\n[Activity] Logical Equivalence\n\n\nView event - 
-	https://adelantelms.usjr.edu.ph/d2l/le/calendar/25186/event/153889/detailsv
-	iew?ou=25186#153889
+DTSTAMP:20220402T002505Z
+SUMMARY:Laboratory Activity #1: Programming Design Flowcharts - Due
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Assignments:\nLaboratory Activity #1: Programming Design Flowch
+	arts - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_f
+	iles.d2l?ou=24167&db=50518\n\n\nView event - https://adelantelms.usjr.edu.p
+	h/d2l/le/calendar/24167/event/145032/detailsview?ou=24167#145032
 CLASS:PUBLIC
-DTSTART:20210408T090000Z
-DTEND:20210408T090000Z
-UID:6606-153889@adelantelms.usjr.edu.ph
+DTSTART:20220223T013000Z
+DTEND:20220223T013000Z
+UID:6606-145032@adelantelms.usjr.edu.ph
+SEQUENCE:17
+LAST-MODIFIED:20220216T143356Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Lecture 3: Lookback Functions and Parameter Passing Part 1 - Availa
+	ble
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Materials:\nLecture 3: Lookback Functions and Parameter Passing
+	 Part 1 - https://adelantelms.usjr.edu.ph/d2l/le/content/24167/viewContent/
+	210261/View\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calend
+	ar/24167/event/152888/detailsview?ou=24167#152888
+CLASS:PUBLIC
+DTSTART:20220227T233000Z
+DTEND:20220227T233000Z
+UID:6606-152888@adelantelms.usjr.edu.ph
+SEQUENCE:1
+LAST-MODIFIED:20220227T071029Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:LECTURE 3 - INTRODUCTION_REVIEW ON FUNCTIONS AND PARAMETER PASSING 
+	- Available
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Materials:\nLECTURE 3 - INTRODUCTION_REVIEW ON FUNCTIONS AND PA
+	RAMETER PASSING - https://adelantelms.usjr.edu.ph/d2l/le/content/24167/view
+	Content/210263/View\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/l
+	e/calendar/24167/event/152889/detailsview?ou=24167#152889
+CLASS:PUBLIC
+DTSTART:20220227T233000Z
+DTEND:20220227T233000Z
+UID:6606-152889@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220227T071202Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Laboratory Activity #2: Psuedo Coding - Due
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Assignments:\nLaboratory Activity #2: Psuedo Coding - https://a
+	delantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=2416
+	7&db=51915\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calenda
+	r/24167/event/151330/detailsview?ou=24167#151330
+CLASS:PUBLIC
+DTSTART:20220228T013000Z
+DTEND:20220228T013000Z
+UID:6606-151330@adelantelms.usjr.edu.ph
+SEQUENCE:9
+LAST-MODIFIED:20220221T152148Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Activity 1 Antidifferentiation - Due
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:Assignments:\nActivity 1 Antidifferentiation\n\n\nView event - 
+	https://adelantelms.usjr.edu.ph/d2l/le/calendar/24121/event/140482/detailsv
+	iew?ou=24121#140482
+CLASS:PUBLIC
+DTSTART:20220228T140000Z
+DTEND:20220228T140000Z
+UID:6606-140482@adelantelms.usjr.edu.ph
+SEQUENCE:19
+LAST-MODIFIED:20220308T073354Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:GUIDANCE 1 GRADE - Due
+LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
+DESCRIPTION:To ensure that your enrolment to Guidance 2 is valid\, kindly p
+	rovide a copy of your Guidance 1 grade. Passing Guidance 1 is a pre-requisi
+	te to enroll in Guidance 2. \n\n\nAssignments:\nGUIDANCE 1 GRADE - https://
+	adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=254
+	22&db=50162\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calend
+	ar/25422/event/144275/detailsview?ou=25422#144275
+CLASS:PUBLIC
+DTSTART:20220228T155959Z
+DTEND:20220228T155959Z
+UID:6606-144275@adelantelms.usjr.edu.ph
+SEQUENCE:4
+LAST-MODIFIED:20220216T062309Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Activity 2 Trigonometric Functions 1 - Due
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:Assignments:\nActivity 2 Trigonometric Functions 1\n\n\nView ev
+	ent - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24121/event/140469/de
+	tailsview?ou=24121#140469
+CLASS:PUBLIC
+DTSTART:20220302T140000Z
+DTEND:20220302T140000Z
+UID:6606-140469@adelantelms.usjr.edu.ph
+SEQUENCE:21
+LAST-MODIFIED:20220308T073419Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Laboratory Activity #3 - Due
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Assignments:\nLaboratory Activity #3 - https://adelantelms.usjr
+	.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=24167&db=52514\n\n\
+	nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24167/event/1
+	52890/detailsview?ou=24167#152890
+CLASS:PUBLIC
+DTSTART:20220308T010000Z
+DTEND:20220308T010000Z
+UID:6606-152890@adelantelms.usjr.edu.ph
+SEQUENCE:13
+LAST-MODIFIED:20220227T071354Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Quiz 1 Antidifferentiation - Due
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:\nInstructions:\n1. After completing all the previous activitie
+	s on Module 1\, now you are ready to take your assessment task on this Modu
+	le 1.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take
+	 note that you are given only one (1) attempt to take and answer the quiz.\
+	n4. Be extra careful in choosing the correct answer\, once you click the Ne
+	xt Page you can no longer return to the Previous Page. \n5. If the Previous
+	 Page icon appeared on the question\, that means you are allowed to preview
+	 back to a certain given question and disregard instruction 4.\n6. After yo
+	u are done answering all the questions\, please don't forget to click Submi
+	t Quiz.\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz
+	 1 Antidifferentiation - https://adelantelms.usjr.edu.ph/d2l/lms/quizzing/q
+	uizzing.d2l?ou=24121&qi=66656\n\n\nView event - https://adelantelms.usjr.ed
+	u.ph/d2l/le/calendar/24121/event/156800/detailsview?ou=24121#156800
+CLASS:PUBLIC
+DTSTART:20220308T043000Z
+DTEND:20220308T043000Z
+UID:6606-156800@adelantelms.usjr.edu.ph
 SEQUENCE:2
-LAST-MODIFIED:20220301T052841Z
+LAST-MODIFIED:20220306T140834Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:[QUIZ] Midterm Quiz - Availability Ends
-LOCATION:11012 - Discrete 1           | Discrete Structures 1
-DESCRIPTION:Quizzes:\n[QUIZ] Midterm Quiz - https://adelantelms.usjr.edu.ph
-	/d2l/lms/quizzing/quizzing.d2l?ou=25186&qi=66297\n\n\nView event - https://
-	adelantelms.usjr.edu.ph/d2l/le/calendar/25186/event/153888/detailsview?ou=2
-	5186#153888
+DTSTAMP:20220402T002505Z
+SUMMARY:Quiz 1 Antidifferentiation - Availability Ends
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:\nInstructions:\n1. After completing all the previous activitie
+	s on Module 1\, now you are ready to take your assessment task on this Modu
+	le 1.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take
+	 note that you are given only one (1) attempt to take and answer the quiz.\
+	n4. Be extra careful in choosing the correct answer\, once you click the Ne
+	xt Page you can no longer return to the Previous Page. \n5. If the Previous
+	 Page icon appeared on the question\, that means you are allowed to preview
+	 back to a certain given question and disregard instruction 4.\n6. After yo
+	u are done answering all the questions\, please don't forget to click Submi
+	t Quiz.\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz
+	 1 Antidifferentiation - https://adelantelms.usjr.edu.ph/d2l/lms/quizzing/q
+	uizzing.d2l?ou=24121&qi=66656\n\n\nView event - https://adelantelms.usjr.ed
+	u.ph/d2l/le/calendar/24121/event/156802/detailsview?ou=24121#156802
 CLASS:PUBLIC
-DTSTART:20210413T083000Z
-DTEND:20210413T083000Z
-UID:6606-153888@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220301T052802Z
+DTSTART:20220308T043000Z
+DTEND:20220308T043000Z
+UID:6606-156802@adelantelms.usjr.edu.ph
+SEQUENCE:2
+LAST-MODIFIED:20220306T140834Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Exercise 01: Conversion - Due
-LOCATION:11002 - Digital              | Digital Logic Design
-DESCRIPTION:Note: Take a photo/screenshot of your solution and upload it he
-	re.\n\n\n\nAssignments:\nExercise 01: Conversion - https://adelantelms.usjr
-	.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=25176&db=48445\n\n\
-	nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/25176/event/1
-	40404/detailsview?ou=25176#140404
-CLASS:PUBLIC
-DTSTART:20220215T155959Z
-DTEND:20220215T155959Z
-UID:6606-140404@adelantelms.usjr.edu.ph
-SEQUENCE:12
-LAST-MODIFIED:20220210T093112Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Historical Criticism - Available
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Discussions:\nHistorical Criticism\n\n\nView event - https://ad
-	elantelms.usjr.edu.ph/d2l/le/calendar/24738/event/146920/detailsview?ou=247
-	38#146920
-CLASS:PUBLIC
-DTSTART:20220217T230000Z
-DTEND:20220217T230000Z
-UID:6606-146920@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220218T020531Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Midterm Forum - Available
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Discussions:\nMidterm Forum - https://adelantelms.usjr.edu.ph/d
-	2l/le/24738/discussions/topics/6006/View\n\n\nView event - https://adelante
-	lms.usjr.edu.ph/d2l/le/calendar/24738/event/146928/detailsview?ou=24738#146
-	928
-CLASS:PUBLIC
-DTSTART:20220217T230000Z
-DTEND:20220217T230000Z
-UID:6606-146928@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220218T020531Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Midterm Forum - Available
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Discussions:\nMidterm Forum - https://adelantelms.usjr.edu.ph/d
-	2l/le/24738/discussions/topics/6007/View\n\n\nView event - https://adelante
-	lms.usjr.edu.ph/d2l/le/calendar/24738/event/146932/detailsview?ou=24738#146
-	932
-CLASS:PUBLIC
-DTSTART:20220217T230000Z
-DTEND:20220217T230000Z
-UID:6606-146932@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220218T020531Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Midterm Forum - Available
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Discussions:\nMidterm Forum - https://adelantelms.usjr.edu.ph/d
-	2l/le/24738/discussions/topics/6008/View\n\n\nView event - https://adelante
-	lms.usjr.edu.ph/d2l/le/calendar/24738/event/146936/detailsview?ou=24738#146
-	936
-CLASS:PUBLIC
-DTSTART:20220217T230000Z
-DTEND:20220217T230000Z
-UID:6606-146936@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220218T020531Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Constitution - Available
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Discussions:\nConstitution - https://adelantelms.usjr.edu.ph/d2
-	l/le/24738/discussions/topics/6010/View\n\n\nView event - https://adelantel
-	ms.usjr.edu.ph/d2l/le/calendar/24738/event/146940/detailsview?ou=24738#1469
-	40
-CLASS:PUBLIC
-DTSTART:20220217T230000Z
-DTEND:20220217T230000Z
-UID:6606-146940@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220218T020531Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:GTKY - Available
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Discussions:\nGTKY\n\n\nView event - https://adelantelms.usjr.e
-	du.ph/d2l/le/calendar/24738/event/146916/detailsview?ou=24738#146916
-CLASS:PUBLIC
-DTSTART:20220218T010600Z
-DTEND:20220218T010600Z
-UID:6606-146916@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220218T020531Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Customs - Available
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Discussions:\nCustoms\n\n\nView event - https://adelantelms.usj
-	r.edu.ph/d2l/le/calendar/24738/event/146924/detailsview?ou=24738#146924
-CLASS:PUBLIC
-DTSTART:20220218T011000Z
-DTEND:20220218T011000Z
-UID:6606-146924@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220218T020531Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Lesson 1 - Due
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:<p style="text-align: center\;"><img src="pics%206.jpg" alt="" 
-	title="" style="max-width: 100%\;"/></p>\n\n\nModules:\nLesson 1 - https://
-	adelantelms.usjr.edu.ph/d2l/le/content/24738/Home?itemIdentifier=D2L.LE.Con
-	tent.ContentObject.ModuleCO-197887\n\n\nView event - https://adelantelms.us
-	jr.edu.ph/d2l/le/calendar/24738/event/146956/detailsview?ou=24738#146956
-CLASS:PUBLIC
-DTSTART:20220218T020000Z
-DTEND:20220218T020000Z
-UID:6606-146956@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220218T020540Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Lesson 2 - Due
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:<p style="text-align: center\;"><span style="font-size: 24pt\;"
-	>Knowing and understanding History through the lens of different&#160\;scho
-	lars</span></p>\n<p style="text-align: center\;"><span style="font-size: 24
-	pt\;"></span></p>\n<p style="text-align: center\;"><span style="font-size: 
-	24pt\;"><img src="pics%202.jpg" alt="" title="" width="524" height="399"/><
-	/span></p>\n\n\nModules:\nLesson 2 - https://adelantelms.usjr.edu.ph/d2l/le
-	/content/24738/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-19
-	7888\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/2473
-	8/event/146958/detailsview?ou=24738#146958
-CLASS:PUBLIC
-DTSTART:20220218T020000Z
-DTEND:20220218T020000Z
-UID:6606-146958@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220218T020540Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Lesson 3 - Due
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:<p style="text-align: center\;"><img src="ujppz47fr2wekmj75drcp
-	joj3h6jc3sachvcdoaizecfr3dnitcq_3_0.png" alt="" title="" style="max-width: 
-	100%\;"/></p>\n\n\nModules:\nLesson 3 - https://adelantelms.usjr.edu.ph/d2l
-	/le/content/24738/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO
-	-197889\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/2
-	4738/event/146962/detailsview?ou=24738#146962
-CLASS:PUBLIC
-DTSTART:20220218T020000Z
-DTEND:20220218T020000Z
-UID:6606-146962@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220218T020540Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Lesson 4 - Due
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:<p style="text-align: center\;"><span style="text-decoration: l
-	ine-through\;">Tagalog Customs</span></p>\n<p style="text-align: center\;">
-	<img src="customs%20pic.png" alt="" title="" style="max-width: 100%\;" widt
-	h="313" height="435"/></p>\n\n\nModules:\nLesson 4 - https://adelantelms.us
-	jr.edu.ph/d2l/le/content/24738/Home?itemIdentifier=D2L.LE.Content.ContentOb
-	ject.ModuleCO-197890\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/
-	le/calendar/24738/event/146967/detailsview?ou=24738#146967
-CLASS:PUBLIC
-DTSTART:20220218T020000Z
-DTEND:20220218T020000Z
-UID:6606-146967@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220218T020541Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Lesson 5 - Due
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:<p style="text-align: center\;"><img src="pics%203.jpg" alt="" 
-	title="" width="448" height="222"/></p>\n\n\nModules:\nLesson 5 - https://a
-	delantelms.usjr.edu.ph/d2l/le/content/24738/Home?itemIdentifier=D2L.LE.Cont
-	ent.ContentObject.ModuleCO-197891\n\n\nView event - https://adelantelms.usj
-	r.edu.ph/d2l/le/calendar/24738/event/146969/detailsview?ou=24738#146969
-CLASS:PUBLIC
-DTSTART:20220218T020000Z
-DTEND:20220218T020000Z
-UID:6606-146969@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220218T020541Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:PRELIM EXAMINATION WEEK - Due
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:<p style="text-align: center\;"><img src="pics%204.jpg" alt="" 
-	title="" style="max-width: 100%\;"/></p>\n\n\nModules:\nPRELIM EXAMINATION 
-	WEEK - https://adelantelms.usjr.edu.ph/d2l/le/content/24738/Home?itemIdenti
-	fier=D2L.LE.Content.ContentObject.ModuleCO-197892\n\n\nView event - https:/
-	/adelantelms.usjr.edu.ph/d2l/le/calendar/24738/event/146972/detailsview?ou=
-	24738#146972
-CLASS:PUBLIC
-DTSTART:20220218T020000Z
-DTEND:20220218T020000Z
-UID:6606-146972@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220218T020541Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Assignment #1 - Due
-LOCATION:11006 - Prog 2               | Computer Programming 2
-DESCRIPTION:Assignments:\nAssignment #1\n\n\nView event - https://adelantel
-	ms.usjr.edu.ph/d2l/le/calendar/25180/event/146085/detailsview?ou=25180#1460
-	85
-CLASS:PUBLIC
-DTSTART:20220223T155959Z
-DTEND:20220223T155959Z
-UID:6606-146085@adelantelms.usjr.edu.ph
-SEQUENCE:8
-LAST-MODIFIED:20220217T125418Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
+DTSTAMP:20220402T002505Z
 SUMMARY:Quiz 1 - Availability Ends
-LOCATION:6132 9-10:30 TTh - EfCom  Effective Communication
+LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
+	)
 DESCRIPTION:Quizzes:\nQuiz 1 - https://adelantelms.usjr.edu.ph/d2l/lms/quiz
-	zing/quizzing.d2l?ou=24665&qi=65940\n\n\nView event - https://adelantelms.u
-	sjr.edu.ph/d2l/le/calendar/24665/event/153004/detailsview?ou=24665#153004
+	zing/quizzing.d2l?ou=24653&qi=65620\n\n\nView event - https://adelantelms.u
+	sjr.edu.ph/d2l/le/calendar/24653/event/151820/detailsview?ou=24653#151820
 CLASS:PUBLIC
-DTSTART:20220301T020000Z
-DTEND:20220301T020000Z
-UID:6606-153004@adelantelms.usjr.edu.ph
+DTSTART:20220308T155900Z
+DTEND:20220308T155900Z
+UID:6606-151820@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220222T072601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Activity 3 Trigonometric Functions 2 - Due
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:Assignments:\nActivity 3 Trigonometric Functions 2\n\n\nView ev
+	ent - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24121/event/140473/de
+	tailsview?ou=24121#140473
+CLASS:PUBLIC
+DTSTART:20220309T140000Z
+DTEND:20220309T140000Z
+UID:6606-140473@adelantelms.usjr.edu.ph
+SEQUENCE:18
+LAST-MODIFIED:20220307T033033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Quiz 2 Integration of Trigonometric Functions 1 - Due
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	on Module 2\, now you are ready to take your assessment task on Module 2.\n
+	2. You are going to answer the quiz for 1 hour only.\n3. Please take note t
+	hat you are given only one (1) attempt to take and answer the quiz.\n4. Be 
+	extra careful in choosing the correct answer\, once you click the Next Page
+	 you can no longer return to the Previous Page. \n5. If the Previous Page i
+	con appeared on the question\, that means you are allowed to preview back t
+	o a certain given question and disregard instruction 4.\n6. After you are d
+	one answering all the questions\, please don't forget to click Submit Quiz.
+	\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 2 Inte
+	gration of Trigonometric Functions 1 - https://adelantelms.usjr.edu.ph/d2l/
+	lms/quizzing/quizzing.d2l?ou=24121&qi=61317\n\n\nView event - https://adela
+	ntelms.usjr.edu.ph/d2l/le/calendar/24121/event/157083/detailsview?ou=24121#
+	157083
+CLASS:PUBLIC
+DTSTART:20220310T043000Z
+DTEND:20220310T043000Z
+UID:6606-157083@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220307T082055Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Quiz 2 Integration of Trigonometric Functions 1 - Availability Ends
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	on Module 2\, now you are ready to take your assessment task on Module 2.\n
+	2. You are going to answer the quiz for 1 hour only.\n3. Please take note t
+	hat you are given only one (1) attempt to take and answer the quiz.\n4. Be 
+	extra careful in choosing the correct answer\, once you click the Next Page
+	 you can no longer return to the Previous Page. \n5. If the Previous Page i
+	con appeared on the question\, that means you are allowed to preview back t
+	o a certain given question and disregard instruction 4.\n6. After you are d
+	one answering all the questions\, please don't forget to click Submit Quiz.
+	\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 2 Inte
+	gration of Trigonometric Functions 1 - https://adelantelms.usjr.edu.ph/d2l/
+	lms/quizzing/quizzing.d2l?ou=24121&qi=61317\n\n\nView event - https://adela
+	ntelms.usjr.edu.ph/d2l/le/calendar/24121/event/157085/detailsview?ou=24121#
+	157085
+CLASS:PUBLIC
+DTSTART:20220310T043000Z
+DTEND:20220310T043000Z
+UID:6606-157085@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220307T082055Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Prelim\, Asynchronous Activity #1 - Due
+LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
+	troduction to Biblical Exegesis
+DESCRIPTION:Assignments:\nPrelim\, Asynchronous Activity #1\n\n\nView event
+	 - https://adelantelms.usjr.edu.ph/d2l/le/calendar/25262/event/151919/detai
+	lsview?ou=25262#151919
+CLASS:PUBLIC
+DTSTART:20220311T155959Z
+DTEND:20220311T155959Z
+UID:6606-151919@adelantelms.usjr.edu.ph
+SEQUENCE:13
+LAST-MODIFIED:20220308T014403Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Activity 4 Integration of Exponential and Logarithmic Functions - D
+	ue
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:Assignments:\nActivity 4 Integration of Exponential and Logarit
+	hmic Functions\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/cal
+	endar/24121/event/140479/detailsview?ou=24121#140479
+CLASS:PUBLIC
+DTSTART:20220312T140000Z
+DTEND:20220312T140000Z
+UID:6606-140479@adelantelms.usjr.edu.ph
+SEQUENCE:12
+LAST-MODIFIED:20220308T114153Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Quiz 3 Integration of Trigonometric Functions 2 - Due
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	in Module 3\, now you are ready to take your assessment task in Module 3.\n
+	2. You are going to answer the quiz for 1 hour only.\n3. Please take note t
+	hat you are given only one (1) attempt to take and answer the quiz.\n4. Be 
+	extra careful in choosing the correct answer\, once you click the Next Page
+	 you can no longer return to the Previous Page. \n5. If the Previous Page i
+	con appeared on the question\, that means you are allowed to preview back t
+	o a certain given question and disregard instruction 4.\n6. After you are d
+	one answering all the questions\, please don't forget to click Submit Quiz.
+	\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 3 Inte
+	gration of Trigonometric Functions 2 - https://adelantelms.usjr.edu.ph/d2l/
+	lms/quizzing/quizzing.d2l?ou=24121&qi=61318\n\n\nView event - https://adela
+	ntelms.usjr.edu.ph/d2l/le/calendar/24121/event/157463/detailsview?ou=24121#
+	157463
+CLASS:PUBLIC
+DTSTART:20220314T043000Z
+DTEND:20220314T043000Z
+UID:6606-157463@adelantelms.usjr.edu.ph
 SEQUENCE:1
-LAST-MODIFIED:20220227T121454Z
+LAST-MODIFIED:20220308T120148Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Psychological Support: Critical Incident Stress Debriefing - Due
-LOCATION:40036 - Guidance 2           | Adjustment to College Life Phase 2
-DESCRIPTION:Hello Class!\nRe: PS: CISD \nView the PS: CISD via https://www.
-	facebook.com/univ.san.jose.recoletos/videos/1310743096073401\nSubmit here -
-	 just add edit/image a copy of your E-Certificate or Selfie with Speaker/Sc
-	reenshot of your Zoom Attendance or Zoom/FB Comment during the event  with 
-	your\nName:Degree & Year:Date of the Session:Title of the SessionResource S
-	peaker\nLearning Insights:  copy paste your Learning Insights here  (at lea
-	st 5 sentences or more of Reflection like discovery/learning/realization/fe
-	eling during the event) \n \n\n \nAdelante!\nMrs. Joy B. Martinez\njmartine
-	z@usjr.edu.ph\nhttps://www.facebook.com/sdpcsem.usjr\n \n \n\n\nAssignments
-	:\nPsychological Support: Critical Incident Stress Debriefing - https://ade
-	lantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=25448&
-	db=50320\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/
-	25448/event/154009/detailsview?ou=25448#154009
+DTSTAMP:20220402T002505Z
+SUMMARY:Quiz 3 Integration of Trigonometric Functions 2 - Availability Ends
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	in Module 3\, now you are ready to take your assessment task in Module 3.\n
+	2. You are going to answer the quiz for 1 hour only.\n3. Please take note t
+	hat you are given only one (1) attempt to take and answer the quiz.\n4. Be 
+	extra careful in choosing the correct answer\, once you click the Next Page
+	 you can no longer return to the Previous Page. \n5. If the Previous Page i
+	con appeared on the question\, that means you are allowed to preview back t
+	o a certain given question and disregard instruction 4.\n6. After you are d
+	one answering all the questions\, please don't forget to click Submit Quiz.
+	\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 3 Inte
+	gration of Trigonometric Functions 2 - https://adelantelms.usjr.edu.ph/d2l/
+	lms/quizzing/quizzing.d2l?ou=24121&qi=61318\n\n\nView event - https://adela
+	ntelms.usjr.edu.ph/d2l/le/calendar/24121/event/157465/detailsview?ou=24121#
+	157465
 CLASS:PUBLIC
-DTSTART:20220304T155959Z
-DTEND:20220304T155959Z
-UID:6606-154009@adelantelms.usjr.edu.ph
-SEQUENCE:5
-LAST-MODIFIED:20220301T110742Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Module 1 Reading Exercise - Due
-LOCATION:16011 - ReEd 2               | Written That You May Believe: An In
-	troduction to Biblical Exegesis
-DESCRIPTION:Assignments:\nModule 1 Reading Exercise\n\n\nView event - https
-	://adelantelms.usjr.edu.ph/d2l/le/calendar/25253/event/151780/detailsview?o
-	u=25253#151780
-CLASS:PUBLIC
-DTSTART:20220305T155959Z
-DTEND:20220305T155959Z
-UID:6606-151780@adelantelms.usjr.edu.ph
-SEQUENCE:35
-LAST-MODIFIED:20220310T074235Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:[Activity] Activity 1 - Prop. Logic - Due
-LOCATION:11012 - Discrete 1           | Discrete Structures 1
-DESCRIPTION:Quizzes:\n[Activity] Activity 1 - Prop. Logic - https://adelant
-	elms.usjr.edu.ph/d2l/lms/quizzing/quizzing.d2l?ou=25186&qi=66484\n\n\nView 
-	event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/25186/event/156120/
-	detailsview?ou=25186#156120
-CLASS:PUBLIC
-DTSTART:20220308T053000Z
-DTEND:20220308T053000Z
-UID:6606-156120@adelantelms.usjr.edu.ph
-SEQUENCE:3
-LAST-MODIFIED:20220303T061201Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Quiz #1 - Due
-LOCATION:11006 - Prog 2               | Computer Programming 2
-DESCRIPTION:Quizzes:\nQuiz #1 - https://adelantelms.usjr.edu.ph/d2l/lms/qui
-	zzing/quizzing.d2l?ou=25180&qi=66801\n\n\nView event - https://adelantelms.
-	usjr.edu.ph/d2l/le/calendar/25180/event/157478/detailsview?ou=25180#157478
-CLASS:PUBLIC
-DTSTART:20220309T030000Z
-DTEND:20220309T030000Z
-UID:6606-157478@adelantelms.usjr.edu.ph
+DTSTART:20220314T043000Z
+DTEND:20220314T043000Z
+UID:6606-157465@adelantelms.usjr.edu.ph
 SEQUENCE:1
-LAST-MODIFIED:20220308T121653Z
+LAST-MODIFIED:20220308T120148Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Reflective Analysis on History of the Augustinian Recollects in Ceb
-	u - Due
-LOCATION:16011 - ReEd 2               | Written That You May Believe: An In
+DTSTAMP:20220402T002505Z
+SUMMARY:Prelim\, Bible 101 - Due
+LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
 	troduction to Biblical Exegesis
-DESCRIPTION:Assignments:\nReflective Analysis on History of the Augustinian
-	 Recollects in Cebu\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/l
-	e/calendar/25253/event/152473/detailsview?ou=25253#152473
+DESCRIPTION:Assignments:\nPrelim\, Bible 101\n\n\nView event - https://adel
+	antelms.usjr.edu.ph/d2l/le/calendar/25262/event/156465/detailsview?ou=25262
+	#156465
 CLASS:PUBLIC
-DTSTART:20220309T155959Z
-DTEND:20220309T155959Z
-UID:6606-152473@adelantelms.usjr.edu.ph
-SEQUENCE:8
-LAST-MODIFIED:20220224T020350Z
+DTSTART:20220314T155959Z
+DTEND:20220314T155959Z
+UID:6606-156465@adelantelms.usjr.edu.ph
+SEQUENCE:12
+LAST-MODIFIED:20220305T004347Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Reflection Paper on Ash Wednesday Mass - Due
-LOCATION:16011 - ReEd 2               | Written That You May Believe: An In
-	troduction to Biblical Exegesis
-DESCRIPTION:Assignments:\nReflection Paper on Ash Wednesday Mass\n\n\nView 
-	event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/25253/event/156307/
-	detailsview?ou=25253#156307
-CLASS:PUBLIC
-DTSTART:20220309T155959Z
-DTEND:20220309T155959Z
-UID:6606-156307@adelantelms.usjr.edu.ph
-SEQUENCE:8
-LAST-MODIFIED:20220304T023516Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Online Learning Readiness Survey 2nd Semester SY 2021-2022 - Due
-LOCATION:WEDNWESDAY 3:30 5119 - PE 2
-DESCRIPTION:Assignments:\nOnline Learning Readiness Survey 2nd Semester SY 
-	2021-2022 - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_sub
-	mit_files.d2l?ou=24437&db=49584\n\n\nView event - https://adelantelms.usjr.
-	edu.ph/d2l/le/calendar/24437/event/162421/detailsview?ou=24437#162421
-CLASS:PUBLIC
-DTSTART:20220311T060000Z
-DTEND:20220311T060000Z
-UID:6606-162421@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220318T020252Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Physical Activity Readiness Questionnaire - Due
-LOCATION:WEDNWESDAY 3:30 5119 - PE 2
-DESCRIPTION:Assignments:\nPhysical Activity Readiness Questionnaire - https
-	://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=
-	24437&db=49593\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/cal
-	endar/24437/event/162422/detailsview?ou=24437#162422
-CLASS:PUBLIC
-DTSTART:20220311T060000Z
-DTEND:20220311T060000Z
-UID:6606-162422@adelantelms.usjr.edu.ph
-SEQUENCE:5
-LAST-MODIFIED:20220318T020530Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Session 3: Personality-Dimension\, Influences\, Growth - Due
-LOCATION:40036 - Guidance 2           | Adjustment to College Life Phase 2
-DESCRIPTION:Hello!Name:Degree & Year:G2 Offer Code:Task: View the video & w
-	rite your responses\n \nTHE CHOICE (Short Video Presentation)\nLink: THE CH
-	OICE (Short Animated Movie) –YouTubehttps://www.youtube.com/watch?v=_HEnohs
-	6yYw\n \nPROCESSING:\nCognitive:\n1. What have you learned from the video?\
-	n2. What does the statement     “Small choices become actions\, actions bec
-	ome habits and habits become our way of life”?\n3. How has this activity he
-	lped you understand yourself and others?\nAffective:\n4. How did you feel a
-	fter watching the video?\n \nAdelante!<3 Ma'am Joy B. Martinez\n\n\nAssignm
-	ents:\nSession 3: Personality-Dimension\, Influences\, Growth - https://ade
-	lantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=25448&
-	db=50321\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/
-	25448/event/153997/detailsview?ou=25448#153997
-CLASS:PUBLIC
-DTSTART:20220311T073000Z
-DTEND:20220311T073000Z
-UID:6606-153997@adelantelms.usjr.edu.ph
-SEQUENCE:7
-LAST-MODIFIED:20220315T052842Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
+DTSTAMP:20220402T002505Z
 SUMMARY:CWTS 12 Record Sheet - Due
 LOCATION:17000 - CWTS 12*             | Civic Welfare Training Services 12
 DESCRIPTION:Assignments:\nCWTS 12 Record Sheet\n\n\nView event - https://ad
@@ -518,209 +422,68 @@ SEQUENCE:2
 LAST-MODIFIED:20220307T001720Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Prelim Quiz 1 - Due
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Quizzes:\nPrelim Quiz 1 - https://adelantelms.usjr.edu.ph/d2l/l
-	ms/quizzing/quizzing.d2l?ou=24738&qi=64122\n\n\nView event - https://adelan
-	telms.usjr.edu.ph/d2l/le/calendar/24738/event/146942/detailsview?ou=24738#1
-	46942
+DTSTAMP:20220402T002505Z
+SUMMARY:Laboratory Activity #4: Passing Arrays to Functions - Due
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Assignments:\nLaboratory Activity #4: Passing Arrays to Functio
+	ns - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_fil
+	es.d2l?ou=24167&db=53522\n\n\nView event - https://adelantelms.usjr.edu.ph/
+	d2l/le/calendar/24167/event/157513/detailsview?ou=24167#157513
 CLASS:PUBLIC
-DTSTART:20220315T155900Z
-DTEND:20220315T155900Z
-UID:6606-146942@adelantelms.usjr.edu.ph
-SEQUENCE:1
-LAST-MODIFIED:20220304T062657Z
+DTSTART:20220315T010000Z
+DTEND:20220315T010000Z
+UID:6606-157513@adelantelms.usjr.edu.ph
+SEQUENCE:9
+LAST-MODIFIED:20220308T161829Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Prelim Quiz 2 - Due
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Quizzes:\nPrelim Quiz 2 - https://adelantelms.usjr.edu.ph/d2l/l
-	ms/quizzing/quizzing.d2l?ou=24738&qi=64123\n\n\nView event - https://adelan
-	telms.usjr.edu.ph/d2l/le/calendar/24738/event/146943/detailsview?ou=24738#1
-	46943
+DTSTAMP:20220402T002505Z
+SUMMARY:PRELIM EXAM - Due
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:\nInstructions:\n1. You are going to answer the PRELIM EXAM for
+	 1 hour and 30 minutes only. \n2. Please take note that you are given only 
+	one (1) attempt to take and answer the exam.\n3. Be extra careful in choosi
+	ng the correct answer\, once you click the Next Page you can no longer retu
+	rn to the Previous Page. \n4. If the Previous Page icon appeared on the que
+	stion\, that means you are allowed to preview back to a certain given quest
+	ion and disregard instruction 3.\n5. After you are done answering all the q
+	uestions\, please don't forget to click Submit Quiz.\n6. For Confirmation\,
+	 click again Submit Quiz.\n\n\nQuizzes:\nPRELIM EXAM - https://adelantelms.
+	usjr.edu.ph/d2l/lms/quizzing/quizzing.d2l?ou=24121&qi=61330\n\n\nView event
+	 - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24121/event/157466/detai
+	lsview?ou=24121#157466
 CLASS:PUBLIC
-DTSTART:20220315T155900Z
-DTEND:20220315T155900Z
-UID:6606-146943@adelantelms.usjr.edu.ph
-SEQUENCE:1
-LAST-MODIFIED:20220304T062710Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Prelim Quiz 3 - Due
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Quizzes:\nPrelim Quiz 3 - https://adelantelms.usjr.edu.ph/d2l/l
-	ms/quizzing/quizzing.d2l?ou=24738&qi=64124\n\n\nView event - https://adelan
-	telms.usjr.edu.ph/d2l/le/calendar/24738/event/146944/detailsview?ou=24738#1
-	46944
-CLASS:PUBLIC
-DTSTART:20220315T155900Z
-DTEND:20220315T155900Z
-UID:6606-146944@adelantelms.usjr.edu.ph
-SEQUENCE:1
-LAST-MODIFIED:20220304T062728Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:[ACTIVITY] Propositions - Due
-LOCATION:11012 - Discrete 1           | Discrete Structures 1
-DESCRIPTION:Quizzes:\n[ACTIVITY] Propositions - https://adelantelms.usjr.ed
-	u.ph/d2l/lms/quizzing/quizzing.d2l?ou=25186&qi=66294\n\n\nView event - http
-	s://adelantelms.usjr.edu.ph/d2l/le/calendar/25186/event/158457/detailsview?
-	ou=25186#158457
-CLASS:PUBLIC
-DTSTART:20220315T155900Z
-DTEND:20220315T155900Z
-UID:6606-158457@adelantelms.usjr.edu.ph
-SEQUENCE:4
-LAST-MODIFIED:20220310T062052Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Midterm Quiz 1 - Available
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Quizzes:\nMidterm Quiz 1 - https://adelantelms.usjr.edu.ph/d2l/
-	lms/quizzing/quizzing.d2l?ou=24738&qi=64126\n\n\nView event - https://adela
-	ntelms.usjr.edu.ph/d2l/le/calendar/24738/event/146948/detailsview?ou=24738#
-	146948
-CLASS:PUBLIC
-DTSTART:20220315T230000Z
-DTEND:20220315T230000Z
-UID:6606-146948@adelantelms.usjr.edu.ph
+DTSTART:20220316T050000Z
+DTEND:20220316T050000Z
+UID:6606-157466@adelantelms.usjr.edu.ph
 SEQUENCE:0
-LAST-MODIFIED:20220218T020532Z
+LAST-MODIFIED:20220308T120346Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Prelim Examination - Due
-LOCATION:16011 - ReEd 2               | Written That You May Believe: An In
-	troduction to Biblical Exegesis
-DESCRIPTION:Quizzes:\nPrelim Examination - https://adelantelms.usjr.edu.ph/
-	d2l/lms/quizzing/quizzing.d2l?ou=25253&qi=67851\n\n\nView event - https://a
-	delantelms.usjr.edu.ph/d2l/le/calendar/25253/event/160820/detailsview?ou=25
-	253#160820
+DTSTAMP:20220402T002505Z
+SUMMARY:PRELIM EXAM - Availability Ends
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:\nInstructions:\n1. You are going to answer the PRELIM EXAM for
+	 1 hour and 30 minutes only. \n2. Please take note that you are given only 
+	one (1) attempt to take and answer the exam.\n3. Be extra careful in choosi
+	ng the correct answer\, once you click the Next Page you can no longer retu
+	rn to the Previous Page. \n4. If the Previous Page icon appeared on the que
+	stion\, that means you are allowed to preview back to a certain given quest
+	ion and disregard instruction 3.\n5. After you are done answering all the q
+	uestions\, please don't forget to click Submit Quiz.\n6. For Confirmation\,
+	 click again Submit Quiz.\n\n\nQuizzes:\nPRELIM EXAM - https://adelantelms.
+	usjr.edu.ph/d2l/lms/quizzing/quizzing.d2l?ou=24121&qi=61330\n\n\nView event
+	 - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24121/event/157468/detai
+	lsview?ou=24121#157468
 CLASS:PUBLIC
-DTSTART:20220316T070000Z
-DTEND:20220316T070000Z
-UID:6606-160820@adelantelms.usjr.edu.ph
-SEQUENCE:4
-LAST-MODIFIED:20220323T054218Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Prelim Examination - Availability Ends
-LOCATION:16011 - ReEd 2               | Written That You May Believe: An In
-	troduction to Biblical Exegesis
-DESCRIPTION:Quizzes:\nPrelim Examination - https://adelantelms.usjr.edu.ph/
-	d2l/lms/quizzing/quizzing.d2l?ou=25253&qi=67851\n\n\nView event - https://a
-	delantelms.usjr.edu.ph/d2l/le/calendar/25253/event/160822/detailsview?ou=25
-	253#160822
-CLASS:PUBLIC
-DTSTART:20220316T070000Z
-DTEND:20220316T070000Z
-UID:6606-160822@adelantelms.usjr.edu.ph
-SEQUENCE:4
-LAST-MODIFIED:20220323T054218Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:GTKY - Availability Ends
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Discussions:\nGTKY\n\n\nView event - https://adelantelms.usjr.e
-	du.ph/d2l/le/calendar/24738/event/146917/detailsview?ou=24738#146917
-CLASS:PUBLIC
-DTSTART:20220316T155900Z
-DTEND:20220316T155900Z
-UID:6606-146917@adelantelms.usjr.edu.ph
+DTSTART:20220316T050000Z
+DTEND:20220316T050000Z
+UID:6606-157468@adelantelms.usjr.edu.ph
 SEQUENCE:0
-LAST-MODIFIED:20220218T020531Z
+LAST-MODIFIED:20220308T120346Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Historical Criticism - Availability Ends
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Discussions:\nHistorical Criticism\n\n\nView event - https://ad
-	elantelms.usjr.edu.ph/d2l/le/calendar/24738/event/146921/detailsview?ou=247
-	38#146921
-CLASS:PUBLIC
-DTSTART:20220316T155900Z
-DTEND:20220316T155900Z
-UID:6606-146921@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220218T020531Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Customs - Availability Ends
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Discussions:\nCustoms\n\n\nView event - https://adelantelms.usj
-	r.edu.ph/d2l/le/calendar/24738/event/146925/detailsview?ou=24738#146925
-CLASS:PUBLIC
-DTSTART:20220316T155900Z
-DTEND:20220316T155900Z
-UID:6606-146925@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220218T020531Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Lesson 1 - Due
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Assignments:\nLesson 1\n\n\nView event - https://adelantelms.us
-	jr.edu.ph/d2l/le/calendar/24738/event/146955/detailsview?ou=24738#146955
-CLASS:PUBLIC
-DTSTART:20220316T155959Z
-DTEND:20220316T155959Z
-UID:6606-146955@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220218T020614Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Spanish Colonization - Due
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Assignments:\nSpanish Colonization\n\n\nView event - https://ad
-	elantelms.usjr.edu.ph/d2l/le/calendar/24738/event/146957/detailsview?ou=247
-	38#146957
-CLASS:PUBLIC
-DTSTART:20220316T155959Z
-DTEND:20220316T155959Z
-UID:6606-146957@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220218T020618Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Lesson 1 A. Assignment - Due
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Assignments:\nLesson 1 A. Assignment\n\n\nView event - https://
-	adelantelms.usjr.edu.ph/d2l/le/calendar/24738/event/146968/detailsview?ou=2
-	4738#146968
-CLASS:PUBLIC
-DTSTART:20220316T155959Z
-DTEND:20220316T155959Z
-UID:6606-146968@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220218T020616Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Lesson 4 Assignment - Due
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Assignments:\nLesson 4 Assignment\n\n\nView event - https://ade
-	lantelms.usjr.edu.ph/d2l/le/calendar/24738/event/146979/detailsview?ou=2473
-	8#146979
-CLASS:PUBLIC
-DTSTART:20220316T155959Z
-DTEND:20220316T155959Z
-UID:6606-146979@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220218T020620Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
+DTSTAMP:20220402T002505Z
 SUMMARY:Asynchronous Activity 2 - Reflection Paper on the Occurrence of Typ
 	hoon "Odette" - Due
 LOCATION:17000 - CWTS 12*             | Civic Welfare Training Services 12
@@ -735,7 +498,7 @@ SEQUENCE:2
 LAST-MODIFIED:20220307T001824Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
+DTSTAMP:20220402T002505Z
 SUMMARY:Essay on how can a CWTS 12 student serve the community - Group A - 
 	Due
 LOCATION:17000 - CWTS 12*             | Civic Welfare Training Services 12
@@ -750,891 +513,655 @@ SEQUENCE:12
 LAST-MODIFIED:20220309T050322Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Prelim Examination Part 1 - Due
-LOCATION:11006 - Prog 2               | Computer Programming 2
-DESCRIPTION:Quizzes:\nPrelim Examination Part 1 - https://adelantelms.usjr.
-	edu.ph/d2l/lms/quizzing/quizzing.d2l?ou=25180&qi=67857\n\n\nView event - ht
-	tps://adelantelms.usjr.edu.ph/d2l/le/calendar/25180/event/160818/detailsvie
-	w?ou=25180#160818
+DTSTAMP:20220402T002505Z
+SUMMARY:Experiment 1 - Measurement - Due
+LOCATION:4023 - NS 1B2               | Physics for Engineers (Lab)
+DESCRIPTION:Assignments:\nExperiment 1 - Measurement\n\n\nView event - http
+	s://adelantelms.usjr.edu.ph/d2l/le/calendar/24139/event/156099/detailsview?
+	ou=24139#156099
 CLASS:PUBLIC
-DTSTART:20220318T030000Z
-DTEND:20220318T030000Z
-UID:6606-160818@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220315T142755Z
+DTSTART:20220317T000000Z
+DTEND:20220317T000000Z
+UID:6606-156099@adelantelms.usjr.edu.ph
+SEQUENCE:12
+LAST-MODIFIED:20220314T232644Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Prelim Examination Part 2 - Due
-LOCATION:11006 - Prog 2               | Computer Programming 2
-DESCRIPTION:Assignments:\nPrelim Examination Part 2\n\n\nView event - https
-	://adelantelms.usjr.edu.ph/d2l/le/calendar/25180/event/162296/detailsview?o
-	u=25180#162296
+DTSTAMP:20220402T002505Z
+SUMMARY:Prelim Examination - Due
+LOCATION:6009 - GE STS               | Science
+DESCRIPTION:Quizzes:\nPrelim Examination - https://adelantelms.usjr.edu.ph/
+	d2l/lms/quizzing/quizzing.d2l?ou=24537&qi=65190\n\n\nView event - https://a
+	delantelms.usjr.edu.ph/d2l/le/calendar/24537/event/161520/detailsview?ou=24
+	537#161520
 CLASS:PUBLIC
-DTSTART:20220318T033000Z
-DTEND:20220318T033000Z
-UID:6606-162296@adelantelms.usjr.edu.ph
+DTSTART:20220318T155900Z
+DTEND:20220318T155900Z
+UID:6606-161520@adelantelms.usjr.edu.ph
+SEQUENCE:1
+LAST-MODIFIED:20220318T014421Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Prelim Examination - Availability Ends
+LOCATION:6009 - GE STS               | Science
+DESCRIPTION:Quizzes:\nPrelim Examination - https://adelantelms.usjr.edu.ph/
+	d2l/lms/quizzing/quizzing.d2l?ou=24537&qi=65190\n\n\nView event - https://a
+	delantelms.usjr.edu.ph/d2l/le/calendar/24537/event/161522/detailsview?ou=24
+	537#161522
+CLASS:PUBLIC
+DTSTART:20220318T155900Z
+DTEND:20220318T155900Z
+UID:6606-161522@adelantelms.usjr.edu.ph
+SEQUENCE:1
+LAST-MODIFIED:20220318T014421Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Laboratory Activity #5: Passing Array of Strings to a Function - Du
+	e
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Assignments:\nLaboratory Activity #5: Passing Array of Strings 
+	to a Function - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder
+	_submit_files.d2l?ou=24167&db=53838\n\n\nView event - https://adelantelms.u
+	sjr.edu.ph/d2l/le/calendar/24167/event/159210/detailsview?ou=24167#159210
+CLASS:PUBLIC
+DTSTART:20220318T155959Z
+DTEND:20220318T155959Z
+UID:6606-159210@adelantelms.usjr.edu.ph
 SEQUENCE:9
-LAST-MODIFIED:20220318T030146Z
+LAST-MODIFIED:20220312T182251Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Session 4: Awareness of Self and Others   - Due
-LOCATION:40036 - Guidance 2           | Adjustment to College Life Phase 2
-DESCRIPTION:Hello!Name:Degree & Year:G2 Offer Code:\nTask:\nA. On a piece o
-	f bondpaper\, use your crayons/ coloring pen to draw symbol/s that would be
-	st illustrate your thoughts and feelings about who you are.\nB. Write your 
-	brief response on the following Processing questions:\n1. What is this symb
-	ol/figure/ drawing that best illustrate who you are? Why?\n2. How did you f
-	eel about the activity?\n3. What can you think have influence such traits o
-	r characteristics?\n4. What in myself am I proudest of? Example: greatest a
-	chievement or positive qualities.\n5. What are the positive words that my f
-	riends / family use to describe me.\n6. What are those not so pleasant word
-	s that my friends / family use to describe me.\n7. What are the factors tha
-	t stuck me or hinders me to grow?\n8. How mindful I am in dealing with othe
-	r people?\n \nAdelante!<3 Ma'am Joy B. Martinez\n\n\nAssignments:\nSession 
-	4: Awareness of Self and Others   - https://adelantelms.usjr.edu.ph/d2l/lms
-	/dropbox/user/folder_submit_files.d2l?ou=25448&db=50322\n\n\nView event - h
-	ttps://adelantelms.usjr.edu.ph/d2l/le/calendar/25448/event/153998/detailsvi
-	ew?ou=25448#153998
-CLASS:PUBLIC
-DTSTART:20220318T073000Z
-DTEND:20220318T073000Z
-UID:6606-153998@adelantelms.usjr.edu.ph
-SEQUENCE:4
-LAST-MODIFIED:20220301T110059Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:MOVEMENT ENHANCEMENT 30EXERCISES BASED ON SKILL RELATED FITNESStled
-	 - Due
-LOCATION:WEDNWESDAY 3:30 5119 - PE 2
-DESCRIPTION:NOT DOWNLOADABE LINK/ FILE.\nRUBRIC:  \nThe student executes ex
-	ercises correctly all of the time. ----         10Demonstrates proper form 
-	the technique of exercisesThe student executes each exercise without hesita
-	tionUses appropriate and accurate performance of exercise        ------ 8\n
-	(Fitted for its components.) And completes workout all of the time\n       
-	Shows a comprehensive understanding of the activity\, movement\n         en
-	hancement and completes workout all of the time          \n      Creativity
-	 is demonstrated through execution                      ---- 6\n      Uses 
-	a variety of exercises based on types of component  ---- 6  \n             
-	                  Total                                                    
-	               30 POINTS                             \n\n\nAssignments:\nMO
-	VEMENT ENHANCEMENT 30EXERCISES BASED ON SKILL RELATED FITNESStled - https:/
-	/adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=24
-	437&db=53904\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calen
-	dar/24437/event/159516/detailsview?ou=24437#159516
-CLASS:PUBLIC
-DTSTART:20220319T060000Z
-DTEND:20220319T060000Z
-UID:6606-159516@adelantelms.usjr.edu.ph
-SEQUENCE:8
-LAST-MODIFIED:20220314T004201Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:PHYSICAL FITNESS TEST (PFT)WORK SHEET AND DOCUMENTATION - Due
-LOCATION:WEDNWESDAY 3:30 5119 - PE 2
-DESCRIPTION:NOT DOWNLOADABLE FILE\nPFT SCORE SHEET\n1 MINUTE AND 30 SECOND 
-	 DOCUMENTATION\nhttps://docs.google.com/presentation/u/1/d/1XscU3RfQKnepmMF
-	TjJzQny0tUeGzvCnVhNrCs01vKf4/copy\n\n\nAssignments:\nPHYSICAL FITNESS TEST 
-	(PFT)WORK SHEET AND DOCUMENTATION - https://adelantelms.usjr.edu.ph/d2l/lms
-	/dropbox/user/folder_submit_files.d2l?ou=24437&db=53910\n\n\nView event - h
-	ttps://adelantelms.usjr.edu.ph/d2l/le/calendar/24437/event/162423/detailsvi
-	ew?ou=24437#162423
-CLASS:PUBLIC
-DTSTART:20220319T060000Z
-DTEND:20220319T060000Z
-UID:6606-162423@adelantelms.usjr.edu.ph
-SEQUENCE:5
-LAST-MODIFIED:20220318T020417Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Poster Making - Due
-LOCATION:16011 - ReEd 2               | Written That You May Believe: An In
-	troduction to Biblical Exegesis
-DESCRIPTION:Assignments:\nPoster Making\n\n\nView event - https://adelantel
-	ms.usjr.edu.ph/d2l/le/calendar/25253/event/157599/detailsview?ou=25253#1575
-	99
+DTSTAMP:20220402T002505Z
+SUMMARY:Checkpoint Exam #1 - Due
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Assignments:\nCheckpoint Exam #1\n\n\nView event - https://adel
+	antelms.usjr.edu.ph/d2l/le/calendar/24167/event/161528/detailsview?ou=24167
+	#161528
 CLASS:PUBLIC
 DTSTART:20220319T155959Z
 DTEND:20220319T155959Z
-UID:6606-157599@adelantelms.usjr.edu.ph
-SEQUENCE:11
-LAST-MODIFIED:20220320T142917Z
+UID:6606-161528@adelantelms.usjr.edu.ph
+SEQUENCE:7
+LAST-MODIFIED:20220316T234320Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Prelim Exam - Available
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Quizzes:\nPrelim Exam - https://adelantelms.usjr.edu.ph/d2l/lms
-	/quizzing/quizzing.d2l?ou=24738&qi=64125\n\n\nView event - https://adelante
-	lms.usjr.edu.ph/d2l/le/calendar/24738/event/146946/detailsview?ou=24738#146
-	946
+DTSTAMP:20220402T002505Z
+SUMMARY:Experiment 2 - Vectors - Due
+LOCATION:4023 - NS 1B2               | Physics for Engineers (Lab)
+DESCRIPTION:Assignments:\nExperiment 2 - Vectors\n\n\nView event - https://
+	adelantelms.usjr.edu.ph/d2l/le/calendar/24139/event/157352/detailsview?ou=2
+	4139#157352
 CLASS:PUBLIC
-DTSTART:20220321T063000Z
-DTEND:20220321T063000Z
-UID:6606-146946@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220321T014115Z
+DTSTART:20220320T155959Z
+DTEND:20220320T155959Z
+UID:6606-157352@adelantelms.usjr.edu.ph
+SEQUENCE:19
+LAST-MODIFIED:20220319T163049Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Prelim Exam - Due
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Quizzes:\nPrelim Exam - https://adelantelms.usjr.edu.ph/d2l/lms
-	/quizzing/quizzing.d2l?ou=24738&qi=64125\n\n\nView event - https://adelante
-	lms.usjr.edu.ph/d2l/le/calendar/24738/event/146945/detailsview?ou=24738#146
-	945
+DTSTAMP:20220402T002505Z
+SUMMARY:PRELIM EXAMINATION - Availability Ends
+LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
+	)
+DESCRIPTION:Quizzes:\nPRELIM EXAMINATION - https://adelantelms.usjr.edu.ph/
+	d2l/lms/quizzing/quizzing.d2l?ou=24653&qi=67712\n\n\nView event - https://a
+	delantelms.usjr.edu.ph/d2l/le/calendar/24653/event/160929/detailsview?ou=24
+	653#160929
 CLASS:PUBLIC
-DTSTART:20220321T073000Z
-DTEND:20220321T073000Z
-UID:6606-146945@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220321T014115Z
+DTSTART:20220321T155900Z
+DTEND:20220321T155900Z
+UID:6606-160929@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220316T014234Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Prelim Exam - Due
-LOCATION:11002 - Digital              | Digital Logic Design
-DESCRIPTION:Quizzes:\nPrelim Exam - https://adelantelms.usjr.edu.ph/d2l/lms
-	/quizzing/quizzing.d2l?ou=25176&qi=67710\n\n\nView event - https://adelante
-	lms.usjr.edu.ph/d2l/le/calendar/25176/event/160383/detailsview?ou=25176#160
-	383
+DTSTAMP:20220402T002505Z
+SUMMARY:WORD DRILL (Back Vowel) - Due
+LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
+	)
+DESCRIPTION:Kindly submit here your video file\n\n\nAssignments:\nWORD DRIL
+	L (Back Vowel) - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folde
+	r_submit_files.d2l?ou=24653&db=53565\n\n\nView event - https://adelantelms.
+	usjr.edu.ph/d2l/le/calendar/24653/event/157614/detailsview?ou=24653#157614
 CLASS:PUBLIC
-DTSTART:20220322T040000Z
-DTEND:20220322T040000Z
-UID:6606-160383@adelantelms.usjr.edu.ph
-SEQUENCE:4
-LAST-MODIFIED:20220322T023750Z
+DTSTART:20220323T155959Z
+DTEND:20220323T155959Z
+UID:6606-157614@adelantelms.usjr.edu.ph
+SEQUENCE:14
+LAST-MODIFIED:20220309T022807Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:[Quiz] Propositions - Availability Ends
-LOCATION:11012 - Discrete 1           | Discrete Structures 1
-DESCRIPTION:Quizzes:\n[Quiz] Propositions - https://adelantelms.usjr.edu.ph
-	/d2l/lms/quizzing/quizzing.d2l?ou=25186&qi=66295\n\n\nView event - https://
-	adelantelms.usjr.edu.ph/d2l/le/calendar/25186/event/160534/detailsview?ou=2
-	5186#160534
+DTSTAMP:20220402T002505Z
+SUMMARY:Activity 5 - Integration of Inverse Trigonometric Functions - Due
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:Assignments:\nActivity 5 - Integration of Inverse Trigonometric
+	 Functions\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calenda
+	r/24121/event/164067/detailsview?ou=24121#164067
 CLASS:PUBLIC
-DTSTART:20220322T070000Z
-DTEND:20220322T070000Z
-UID:6606-160534@adelantelms.usjr.edu.ph
-SEQUENCE:1
-LAST-MODIFIED:20220322T060401Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Session 5: Understanding and Adapting to Individual Temperaments   
-	 - Due
-LOCATION:40036 - Guidance 2           | Adjustment to College Life Phase 2
-DESCRIPTION:Hello!Name:Degree & Year:G2 Offer Code:Tasks: * Access the G2 C
-	ourse Content Session 5\,* Answer the 10-item: Have you ever & post  your r
-	esponse in Adelante LMS Assignment Link\,\n* Download the Temperament Perso
-	nality Test and answer it beforehand using the link:\n         https://tiny
-	url.com/temp-test-abc\n* Identify your first highest and second highest of 
-	the Temperament Personality Test and Interpretation and post your results i
-	n Adelante LMS. \n * Post your answers to the Processing Questions in LMS:C
-	ognitive:1. After knowing your temperament\, what have you discovered about
-	 yourself?Affective:2. How did you feel after you discovered your temperame
-	nt?Psychomotor:3. If you were to ask family members\, friends and colleague
-	s which of your attitude and habits are causing you more harm than good\, w
-	hat would they say?4. List 5 unhealthy attitudes and habits you have. Now t
-	hat you have identified them\, how can you change these for the better?\nAd
-	elante!<3 Ma'am Joy B. Martinez\n\n\nAssignments:\nSession 5: Understanding
-	 and Adapting to Individual Temperaments    - https://adelantelms.usjr.edu.
-	ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=25448&db=50323\n\n\nView
-	 event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/25448/event/153999
-	/detailsview?ou=25448#153999
-CLASS:PUBLIC
-DTSTART:20220325T073000Z
-DTEND:20220325T073000Z
-UID:6606-153999@adelantelms.usjr.edu.ph
-SEQUENCE:3
-LAST-MODIFIED:20220301T110119Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Quiz #2 - Due
-LOCATION:11006 - Prog 2               | Computer Programming 2
-DESCRIPTION:Quizzes:\nQuiz #2 - https://adelantelms.usjr.edu.ph/d2l/lms/qui
-	zzing/quizzing.d2l?ou=25180&qi=69202\n\n\nView event - https://adelantelms.
-	usjr.edu.ph/d2l/le/calendar/25180/event/168058/detailsview?ou=25180#168058
-CLASS:PUBLIC
-DTSTART:20220330T033000Z
-DTEND:20220330T033000Z
-UID:6606-168058@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220330T025550Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Session 6: Communication Process and Dynamics  - Due
-LOCATION:40036 - Guidance 2           | Adjustment to College Life Phase 2
-DESCRIPTION:Hello!Name:Degree & Year:G2 Offer Code:\nTasks: Write your resp
-	onses:\n1. What is the importance of effective communication in your life?\
-	n2. What factors hinder you to communicate effectively?\n3. What are your t
-	ips to make communication as tool in having a harmonious\n     relationship
-	 with people at home?\n \nAdelante!<3 Ma'am Joy B. Martinez\n\n\nAssignment
-	s:\nSession 6: Communication Process and Dynamics  - https://adelantelms.us
-	jr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=25448&db=50324\n\
-	n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/25448/event
-	/154000/detailsview?ou=25448#154000
-CLASS:PUBLIC
-DTSTART:20220401T073000Z
-DTEND:20220401T073000Z
-UID:6606-154000@adelantelms.usjr.edu.ph
-SEQUENCE:4
-LAST-MODIFIED:20220301T110201Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:VIDEO DOCUMENTATION ERCISES FOR AGILITY\, POWER\, AND REACTION TIME
-	 - Due
-LOCATION:WEDNWESDAY 3:30 5119 - PE 2
-DESCRIPTION:INSERT:\nURL OR VIDEO OR NOT DOWNLOADABLE LINK\n\n\nAssignments
-	:\nVIDEO DOCUMENTATION ERCISES FOR AGILITY\, POWER\, AND REACTION TIME - ht
-	tps://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?
-	ou=24437&db=55787\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/
-	calendar/24437/event/169202/detailsview?ou=24437#169202
-CLASS:PUBLIC
-DTSTART:20220402T070000Z
-DTEND:20220402T070000Z
-UID:6606-169202@adelantelms.usjr.edu.ph
+DTSTART:20220324T155959Z
+DTEND:20220324T155959Z
+UID:6606-164067@adelantelms.usjr.edu.ph
 SEQUENCE:9
-LAST-MODIFIED:20220401T040302Z
+LAST-MODIFIED:20220321T233337Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Session 7: Enhancing Listening and Responding Skills    - Due
-LOCATION:40036 - Guidance 2           | Adjustment to College Life Phase 2
-DESCRIPTION:Hello!Name:Degree & Year:G2 Offer Code:Tasks in Adelante LMS As
-	signment Tab: * Post your score\, interpretation of the Activity: HOW GOOD 
-	ARE YOUR LISTENING SKILLS? and your answers to the Processing Questions ***
-	\nInstructions:\nFor the following statements\, indicate the extent to whic
-	h you practice the behavior.  Choose among the responses. \nRate yourself\n
-	(5) - Very often\n(4) - Often\n(3) - Sometimes\,\n(2) - Rarely and\n(1) - N
-	ot at all.\nAdd up your score to get your total score and bring during our 
-	Session 7.\n \nStatements\n1. To be more productive\, I respond toemails an
-	d instant messages while I'mspeaking to people on the phone. \n2. I repeat 
-	points back during a conversationto clarify my understanding of what theoth
-	er person is saying. \n3. When people speak to me about sensitivesubjects\,
-	 I make an effort to put them at ease. \n4. I feel uncomfortable with silen
-	ce duringconversations\n5. As I listen\, I compare the other person'sviewpo
-	int with my own\n6. To get people to elaborate on their point\, Iask open q
-	uestions (ones that can't beanswered with "yes" or "no").\n7. When someone 
-	is speaking to me\, I nodand say things like "OK" and "uh-huh"occasionally.
-	\n8. I play "devil's advocate" to promptresponses from the other person.\n9
-	. I catch myself asking leading questions toencourage the other person to a
-	gree with myviewpoint.\n10. I interrupt people.\n11. When people speak to m
-	e\, I staycompletely still so that I don't distract them.\n12. I try to rea
-	d the other person's bodylanguage as I listen\n13. If the other person is s
-	truggling toexplain something\, I jump in with my ownsuggestions\n14. If I'
-	m busy\, I let others talk to me as longas they're quick.\n  SCORE INTERPRE
-	TATION:14-29 = You need to improve your listening skills. The people around
-	 you probably feel that you don't pay attention to them when they talk to y
-	ou\, and they may feel that you don't understand them. You can boost your l
-	istening skills with some simple steps. 30-49  = Your listening skills are 
-	OK\, but there's definitely room for improvement. 50-70  = You have good li
-	stening skills. People feel that they are able to approach you if they need
-	 someone to listen to them\, and they trust that you'll give them your full
-	 attention. They also know that you'll give them space to talk freely\, wit
-	hout interrupting or talking too much about yourself. * PROCESSING QUESTION
-	S: Cognitive: 1. What have you discovered about the level of your listening
-	 skills 2. What insights or learning have you made? Affective: 3. How did y
-	ou feel before and after the activity? \nAdelante!<3 Ma'am Joy B. Martinez\
-	n\n\nAssignments:\nSession 7: Enhancing Listening and Responding Skills    
-	- https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.
-	d2l?ou=25448&db=50325\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l
-	/le/calendar/25448/event/154001/detailsview?ou=25448#154001
+DTSTAMP:20220402T002505Z
+SUMMARY:Laboratory Activity #6: The #include directive  - Due
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Assignments:\nLaboratory Activity #6: The #include directive  -
+	 https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d
+	2l?ou=24167&db=54296\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/
+	le/calendar/24167/event/163160/detailsview?ou=24167#163160
 CLASS:PUBLIC
-DTSTART:20220408T073000Z
-DTEND:20220408T073000Z
-UID:6606-154001@adelantelms.usjr.edu.ph
-SEQUENCE:4
-LAST-MODIFIED:20220301T110220Z
+DTSTART:20220325T010000Z
+DTEND:20220325T010000Z
+UID:6606-163160@adelantelms.usjr.edu.ph
+SEQUENCE:12
+LAST-MODIFIED:20220320T061041Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Session 8: THINK BEFORE YOU CLICK/ THE SMART SURFER:  A Guide to Sa
-	fe Online Browsing and Social Media Explor - Due
-LOCATION:40036 - Guidance 2           | Adjustment to College Life Phase 2
-DESCRIPTION:Hello!Name:Degree & Year:G2 Offer Code:\n\nTasks: Write your an
-	swers\n1. In your personal life\, what are some positive and negative effec
-	ts of social\n      media and intent video gaming?\n2. What are your tips o
-	n how to beat the social media addiction and internet/ video gaming?\n \nSu
-	ggested Videos:https://my-movie.club/-/player-prime/imdb/tt11464826/#/flow=
-	evjgYK+cdn.vddf0.club/theme=dual/s1=vilas/c_hs=4452050\n \nhttps://www.yout
-	ube.com/watch?v=yGi2YKZZNFg\n \nAdelante!<3 Ma'am Joy B. Martinez\n\n\nAssi
-	gnments:\nSession 8: THINK BEFORE YOU CLICK/ THE SMART SURFER:  A Guide to 
-	Safe Online Browsing and Social Media Explor - https://adelantelms.usjr.edu
-	.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=25448&db=50326\n\n\nVie
-	w event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/25448/event/15400
-	2/detailsview?ou=25448#154002
+DTSTAMP:20220402T002505Z
+SUMMARY:Prelim Output - Due
+LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
+	troduction to Biblical Exegesis
+DESCRIPTION:Assignments:\nPrelim Output\n\n\nView event - https://adelantel
+	ms.usjr.edu.ph/d2l/le/calendar/25262/event/156466/detailsview?ou=25262#1564
+	66
 CLASS:PUBLIC
-DTSTART:20220415T073000Z
-DTEND:20220415T073000Z
-UID:6606-154002@adelantelms.usjr.edu.ph
-SEQUENCE:4
-LAST-MODIFIED:20220301T110304Z
+DTSTART:20220325T155959Z
+DTEND:20220325T155959Z
+UID:6606-156466@adelantelms.usjr.edu.ph
+SEQUENCE:17
+LAST-MODIFIED:20220324T012328Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:FCI & PTI Certification: Follow-up Counseling Interview & Psycholog
-	ical Test Interpretation c/o SDPC Professional - Due
-LOCATION:40036 - Guidance 2           | Adjustment to College Life Phase 2
-DESCRIPTION:Hello Class!For FCI & PTI:\n1\, Contact your SDPC Professional 
-	according to School/Degree with the following details to you SDPC Guidance 
-	Counselor/Counseling Psychologist/Development Facilitator via MS Team/email
-	:*** Request for FCI & PTI -Name:Degree:Guidance 1 Grade:Guidance 1 Teacher
-	:G1 - Semester & Year Taken:***Guidance 2 Schedule:Guidance 2 FacilitatorOf
-	fer Code:\nYour vacant Day & Time for Interview (at least 3 vacant from Mon
-	day to Friday) :Preferred app/media for interview:\nAttachment: Picture/Scr
-	eenshot copy of Grades last Semester 2. Attend the FCI & PTI during your ag
-	reed schedule3. Submit the FCI & PTI Certification from your Counselor to A
-	delante LMS Assignment Tab Note: Deadline of Certification = Midterm Period
-	. If ever that your agreed  schedule for FCI & PTI will still be within Fin
-	al Period\, just temporarily submit in LMS the date & time of your agreed F
-	CI & PTI.Adelante!Mrs. Jocelyn B. Martinez\, RPsy\, LPT\n \n\n\nAssignments
-	:\nFCI & PTI Certification: Follow-up Counseling Interview & Psychological 
-	Test Interpretation c/o SDPC Professional - https://adelantelms.usjr.edu.ph
-	/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=25448&db=50317\n\n\nView e
-	vent - https://adelantelms.usjr.edu.ph/d2l/le/calendar/25448/event/154011/d
-	etailsview?ou=25448#154011
+DTSTAMP:20220402T002505Z
+SUMMARY:NAME STORY  PDF (googledrivelink)submission corner - Due
+LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
+	)
+DESCRIPTION:\nKindly submit your google drive link here.\nPlease prepare fo
+	r the individual presentation on our virtual class starting on March 21 202
+	2\n\n\n\nAssignments:\nNAME STORY  PDF (googledrivelink)submission corner -
+	 https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d
+	2l?ou=24653&db=53467\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/
+	le/calendar/24653/event/157383/detailsview?ou=24653#157383
 CLASS:PUBLIC
-DTSTART:20220415T155959Z
-DTEND:20220415T155959Z
-UID:6606-154011@adelantelms.usjr.edu.ph
-SEQUENCE:16
-LAST-MODIFIED:20220315T080119Z
+DTSTART:20220325T155959Z
+DTEND:20220325T155959Z
+UID:6606-157383@adelantelms.usjr.edu.ph
+SEQUENCE:14
+LAST-MODIFIED:20220308T051032Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Session 9: Dealing with Gaming and Social Media Addiction for a Bet
-	ter New Normal - Due
-LOCATION:40036 - Guidance 2           | Adjustment to College Life Phase 2
-DESCRIPTION:Hello!Name:Degree & Year:G2 Offer Code:\nTask: Write your answe
-	rs to the Processing Questions:\n1. What is your personal reflection about 
-	SocialMedia addiction and internet /video gaming in thefollowing:\n--- its 
-	impact on you\n1.1.physically\,\n1.2. mentally\,\n1.3. psychologically and 
-	even\n1.4. spiritually.\n2. Do you consider yourself addicted to social med
-	iaor internet/video gaming? Why or why not?\nIf yes\, what are yourpersonal
-	 plans?\n \nAdelante!<3 Mrs. Joy B. Martinez\n\n\nAssignments:\nSession 9: 
-	Dealing with Gaming and Social Media Addiction for a Better New Normal - ht
-	tps://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?
-	ou=25448&db=50327\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/
-	calendar/25448/event/154003/detailsview?ou=25448#154003
+DTSTAMP:20220402T002505Z
+SUMMARY:Checkpoint Exam #2: Creating Applications with the #include directi
+	ve - Due
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Assignments:\nCheckpoint Exam #2: Creating Applications with th
+	e #include directive\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/
+	le/calendar/24167/event/164837/detailsview?ou=24167#164837
 CLASS:PUBLIC
-DTSTART:20220422T073000Z
-DTEND:20220422T073000Z
-UID:6606-154003@adelantelms.usjr.edu.ph
-SEQUENCE:4
-LAST-MODIFIED:20220301T110314Z
+DTSTART:20220325T155959Z
+DTEND:20220325T155959Z
+UID:6606-164837@adelantelms.usjr.edu.ph
+SEQUENCE:7
+LAST-MODIFIED:20220323T121918Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Session 10: Overcoming Fears and Anxiety - Due
-LOCATION:40036 - Guidance 2           | Adjustment to College Life Phase 2
-DESCRIPTION:Hello!Name:Degree & Year:G2 Offer Code:\nTasks: Write your answ
-	ers & bring your responses during our Session 10\nOVERCOMING FEARS & ANXIET
-	Y\n1. What are some items/issues in social media thatcreate fears and anxie
-	ties?\n2. What are your personal tips on how to overcomefears and anxieties
-	.\n \nAdelante!<3 Mrs. Joy B. Martinez\n\n\nAssignments:\nSession 10: Overc
-	oming Fears and Anxiety - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/u
-	ser/folder_submit_files.d2l?ou=25448&db=50328\n\n\nView event - https://ade
-	lantelms.usjr.edu.ph/d2l/le/calendar/25448/event/154004/detailsview?ou=2544
-	8#154004
+DTSTAMP:20220402T002505Z
+SUMMARY:WORD DRILL (FRONT VOWEL) - Due
+LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
+	)
+DESCRIPTION:Kindly submit your here your video file of your front vowel wor
+	d drill\n\n\nAssignments:\nWORD DRILL (FRONT VOWEL) - https://adelantelms.u
+	sjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=24653&db=52960\n
+	\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24653/even
+	t/154345/detailsview?ou=24653#154345
 CLASS:PUBLIC
-DTSTART:20220429T073000Z
-DTEND:20220429T073000Z
-UID:6606-154004@adelantelms.usjr.edu.ph
-SEQUENCE:4
-LAST-MODIFIED:20220301T110404Z
+DTSTART:20220328T155959Z
+DTEND:20220328T155959Z
+UID:6606-154345@adelantelms.usjr.edu.ph
+SEQUENCE:17
+LAST-MODIFIED:20220302T082714Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Reminders for Midterm Period & Exemption in the Midterm Examination
-	 - Due
-LOCATION:40036 - Guidance 2           | Adjustment to College Life Phase 2
-DESCRIPTION:EYES HERE...Read the reminders & reply either:"COMPLETED ALL 4 
-	 REQUIREMENTS ALREADY & STILL WORKING ON THE SESSIONS 1-8" or"STILL WORKING
-	 ON THE SESSIONS 1-8 & MY SCHEDULE FOR PTI & FCI WILL BE ON _____""COMPLETE
-	D ALL SESSIONS 1-8 & ALL  4 REQUIREMENTS"G2 REQUIREMENTS - Submitted to LMS
-	:1. FCI & PTI Certification - contact your Counselor for the schedule of yo
-	ur interview\,2. Psychological Testing 2 -  \n                       Link f
-	or those who are not yet done: https://forms.gle/nhkT34rBWmv5N1N69 3. CISD 
-	Reflection - Watch this recorded video in case you are not done:   \n      
-	                   https://www.facebook.com/univ.san.jose.recoletos/videos/
-	13107430960734014. Academic Integrity Agreement in the Survey Tab\, and Pro
-	file Photo in the LMS & MS Team Accounts.*** MIDTERM PERIOD -  submitted to
-	 LMS:5. Completion of Sessions 1 to 8.*** FINAL PERIOD - 6. Answers to Sess
-	ions 11 & 12\, and Response to Wrap-up Session.Note: See you in our weekly 
-	Online Class/Participation via MS Team.For any concern\, please send a mess
-	age to only 1 of my contact:  Facebook  or my MS Team chat (not both) to av
-	oid flooding of messages.Adelante!\n\n\n\nAssignments:\nReminders for Midte
-	rm Period & Exemption in the Midterm Examination - https://adelantelms.usjr
-	.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=25448&db=52275\n\n\
-	nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/25448/event/1
-	52258/detailsview?ou=25448#152258
+DTSTAMP:20220402T002505Z
+SUMMARY:Seatwork 5 - Integration of Inverse Trigonometric Functions - Due
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:Assignments:\nSeatwork 5 - Integration of Inverse Trigonometric
+	 Functions\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calenda
+	r/24121/event/164990/detailsview?ou=24121#164990
 CLASS:PUBLIC
-DTSTART:20220429T155959Z
-DTEND:20220429T155959Z
-UID:6606-152258@adelantelms.usjr.edu.ph
-SEQUENCE:43
-LAST-MODIFIED:20220327T005544Z
+DTSTART:20220329T040000Z
+DTEND:20220329T040000Z
+UID:6606-164990@adelantelms.usjr.edu.ph
+SEQUENCE:14
+LAST-MODIFIED:20220328T224302Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Midterm Forum - Availability Ends
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Discussions:\nMidterm Forum - https://adelantelms.usjr.edu.ph/d
-	2l/le/24738/discussions/topics/6007/View\n\n\nView event - https://adelante
-	lms.usjr.edu.ph/d2l/le/calendar/24738/event/146933/detailsview?ou=24738#146
-	933
+DTSTAMP:20220402T002505Z
+SUMMARY:Quiz 5 - Integration on Inverse Trigonometric  fucntions - Due
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:Quizzes:\nQuiz 5 - Integration on Inverse Trigonometric  fucnti
+	ons - https://adelantelms.usjr.edu.ph/d2l/lms/quizzing/quizzing.d2l?ou=2412
+	1&qi=69226\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calenda
+	r/24121/event/167679/detailsview?ou=24121#167679
 CLASS:PUBLIC
-DTSTART:20220504T171300Z
-DTEND:20220504T171300Z
-UID:6606-146933@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220218T020531Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Midterm Forum - Availability Ends
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Discussions:\nMidterm Forum - https://adelantelms.usjr.edu.ph/d
-	2l/le/24738/discussions/topics/6006/View\n\n\nView event - https://adelante
-	lms.usjr.edu.ph/d2l/le/calendar/24738/event/146929/detailsview?ou=24738#146
-	929
-CLASS:PUBLIC
-DTSTART:20220505T155900Z
-DTEND:20220505T155900Z
-UID:6606-146929@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220218T020531Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Midterm Forum - Availability Ends
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Discussions:\nMidterm Forum - https://adelantelms.usjr.edu.ph/d
-	2l/le/24738/discussions/topics/6008/View\n\n\nView event - https://adelante
-	lms.usjr.edu.ph/d2l/le/calendar/24738/event/146937/detailsview?ou=24738#146
-	937
-CLASS:PUBLIC
-DTSTART:20220505T155900Z
-DTEND:20220505T155900Z
-UID:6606-146937@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220218T020531Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Midterm Quiz 1 - Due
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Quizzes:\nMidterm Quiz 1 - https://adelantelms.usjr.edu.ph/d2l/
-	lms/quizzing/quizzing.d2l?ou=24738&qi=64126\n\n\nView event - https://adela
-	ntelms.usjr.edu.ph/d2l/le/calendar/24738/event/146947/detailsview?ou=24738#
-	146947
-CLASS:PUBLIC
-DTSTART:20220505T155900Z
-DTEND:20220505T155900Z
-UID:6606-146947@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220218T020532Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Midterm quiz 2 - Due
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Quizzes:\nMidterm quiz 2 - https://adelantelms.usjr.edu.ph/d2l/
-	lms/quizzing/quizzing.d2l?ou=24738&qi=64127\n\n\nView event - https://adela
-	ntelms.usjr.edu.ph/d2l/le/calendar/24738/event/146949/detailsview?ou=24738#
-	146949
-CLASS:PUBLIC
-DTSTART:20220505T155900Z
-DTEND:20220505T155900Z
-UID:6606-146949@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220218T020532Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Midterm Quiz 3 - Due
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Quizzes:\nMidterm Quiz 3 - https://adelantelms.usjr.edu.ph/d2l/
-	lms/quizzing/quizzing.d2l?ou=24738&qi=64128\n\n\nView event - https://adela
-	ntelms.usjr.edu.ph/d2l/le/calendar/24738/event/146950/detailsview?ou=24738#
-	146950
-CLASS:PUBLIC
-DTSTART:20220505T155900Z
-DTEND:20220505T155900Z
-UID:6606-146950@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220218T020532Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Midterm Assignment 1 - Due
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Discuss the factors that reinvigorated the sense of nationalism
-	 which pushed the Filipinos to fight for their independence.\n\nCriteria\nC
-	ontent (Relevance of the topic)                                  10%\nOrgan
-	ization  ( Unity of thought\, flow of discussion)  10%\nStyle(Originality a
-	nd creativity)                                      5%\nTotal              
-	                                                                  25%\n\n\n
-	Assignments:\nMidterm Assignment 1 - https://adelantelms.usjr.edu.ph/d2l/lm
-	s/dropbox/user/folder_submit_files.d2l?ou=24738&db=50974\n\n\nView event - 
-	https://adelantelms.usjr.edu.ph/d2l/le/calendar/24738/event/146959/detailsv
-	iew?ou=24738#146959
-CLASS:PUBLIC
-DTSTART:20220505T155959Z
-DTEND:20220505T155959Z
-UID:6606-146959@adelantelms.usjr.edu.ph
+DTSTART:20220329T044000Z
+DTEND:20220329T044000Z
+UID:6606-167679@adelantelms.usjr.edu.ph
 SEQUENCE:2
-LAST-MODIFIED:20220218T020613Z
+LAST-MODIFIED:20220329T034539Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Midterm Assignment 4 - Availability Ends
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Please research on the controversies and conflicting views that
-	 surround the Tejero Convention - an event which resulted to factionalism (
-	or division) within the Katipunan (Magdalo and Magdiwang).By using the meth
-	od on Historical Criticism\, compare and contrast the different views you'v
-	e found/researched and identify the context of these different perspectives
-	. Lastly\, based on the evidences you've gathered\, which of the different 
-	perspectives are you likely to believe and thorough present the reason why.
-	 \n\n\nAssignments:\nMidterm Assignment 4 - https://adelantelms.usjr.edu.ph
-	/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=24738&db=50977\n\n\nView e
-	vent - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24738/event/146964/d
-	etailsview?ou=24738#146964
+DTSTAMP:20220402T002505Z
+SUMMARY:Webinar - Recoletos 400 - Due
+LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
+	troduction to Biblical Exegesis
+DESCRIPTION:Assignments:\nWebinar - Recoletos 400\n\n\nView event - https:/
+	/adelantelms.usjr.edu.ph/d2l/le/calendar/25262/event/156492/detailsview?ou=
+	25262#156492
 CLASS:PUBLIC
-DTSTART:20220505T155959Z
-DTEND:20220505T155959Z
-UID:6606-146964@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220218T020620Z
+DTSTART:20220329T123000Z
+DTEND:20220329T123000Z
+UID:6606-156492@adelantelms.usjr.edu.ph
+SEQUENCE:10
+LAST-MODIFIED:20220329T120116Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Midterm Assignment 2 - Availability Ends
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:The significant contributions  of the opening of the Suez Canal
-	 on the birth of Filipino nationalism.\n500 Words\nCriteria\nContent (Relev
-	ance of the topic)                                   10%\nOrganization  ( U
-	nity of thought\, flow of discussion)  10%\nStyle(Originality and creativit
-	y)                                       5%\nTotal                         
-	                                                         25%\n\n\n\nAssignm
-	ents:\nMidterm Assignment 2 - https://adelantelms.usjr.edu.ph/d2l/lms/dropb
-	ox/user/folder_submit_files.d2l?ou=24738&db=50975\n\n\nView event - https:/
-	/adelantelms.usjr.edu.ph/d2l/le/calendar/24738/event/146975/detailsview?ou=
-	24738#146975
+DTSTAMP:20220402T002505Z
+SUMMARY:THE CHOICE - Due
+LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
+DESCRIPTION:Assignments:\nTHE CHOICE\n\n\nView event - https://adelantelms.
+	usjr.edu.ph/d2l/le/calendar/25422/event/157071/detailsview?ou=25422#157071
 CLASS:PUBLIC
-DTSTART:20220505T155959Z
-DTEND:20220505T155959Z
-UID:6606-146975@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220218T020615Z
+DTSTART:20220329T155959Z
+DTEND:20220329T155959Z
+UID:6606-157071@adelantelms.usjr.edu.ph
+SEQUENCE:18
+LAST-MODIFIED:20220328T093748Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Midterm Assignment 5 - Availability Ends
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Please research on the controversies and conflicting views that
-	 surround the Tejero Convention - an event which resulted to factionalism (
-	or division) within the Katipunan (Magdalo and Magdiwang).By using the meth
-	od on Historical Criticism\, compare and contrast the different views you'v
-	e found/researched and identify the context of these different perspectives
-	. Lastly\, based on the evidences you've gathered\, which of the different 
-	perspectives are you likely to believe and thorough present the reason why.
-	 \n\n\nAssignments:\nMidterm Assignment 5 - https://adelantelms.usjr.edu.ph
-	/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=24738&db=50978\n\n\nView e
-	vent - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24738/event/146978/d
-	etailsview?ou=24738#146978
+DTSTAMP:20220402T002505Z
+SUMMARY:Bring Me - Due
+LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
+DESCRIPTION:Instructions:\n\nFind 1 item that is found in your surrounding 
+	that represents your personality.\nTake a picture of that item and explain 
+	briefly why that item represents your personality. \nWhat qualities do you 
+	possess that is similar to the item you choose.\n\n\n\nAssignments:\nBring 
+	Me - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_fil
+	es.d2l?ou=25422&db=50165\n\n\nView event - https://adelantelms.usjr.edu.ph/
+	d2l/le/calendar/25422/event/157073/detailsview?ou=25422#157073
 CLASS:PUBLIC
-DTSTART:20220505T155959Z
-DTEND:20220505T155959Z
-UID:6606-146978@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220218T020616Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Midterm Assignment 3 - Availability Ends
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:What is the most significant contribution of the Fundamental La
-	w of the Philippines called Philippine Bill of 1902 to the present form of 
-	government that we have nowadays in the Philippines. \nRubrics for the assi
-	gnment\n \n\n\n\n \n\n\n4\n\n\n3\n\n\n2\n\n\n1\n\n\nPoint\n\n\n\n\nExplanat
-	ion\n\n\nA complete response and detailed explanation to the assigned task\
-	n\n\nGood solid response with clear explanation to the assigned task\n\n\nT
-	he explanation and mechanics of assignment is not clear\n\n\nMisses importa
-	nt key\npoints\n\n\n \n\n\n\n\nDemonstrated Knowledge\n\n\nShows complete u
-	nderstanding of the assigned task\n\n\nShows substantial understanding to t
-	he assigned task\n\n\nResponse shows some understanding of the required tas
-	k\n\n\nResponse shows a complete lack of understandings to  the task\n\n\n 
-	\n\n\n\n\nRequirements\n\n\nGoes beyond the requirement of the given  assig
-	nment\n\n\nMeets the requirements of the class assignment\n\n\nHardly meets
-	 the assigned task to the class\n\n\nDoes not meet the requirements of task
-	\n\n\n \n\n\n\n\n \n\n\n \n\n\n \n\n\n \n\n\nTotal\n\n\n \n\n\n\n\n\n\nAssi
-	gnments:\nMidterm Assignment 3 - https://adelantelms.usjr.edu.ph/d2l/lms/dr
-	opbox/user/folder_submit_files.d2l?ou=24738&db=50976\n\n\nView event - http
-	s://adelantelms.usjr.edu.ph/d2l/le/calendar/24738/event/146988/detailsview?
-	ou=24738#146988
-CLASS:PUBLIC
-DTSTART:20220505T155959Z
-DTEND:20220505T155959Z
-UID:6606-146988@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220218T020616Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Session 11: ADULTING 101: MILLENIAL LIFE SKILLS    (Domestic Skills
-	\, Financial Skills\, Relationship Skills\, J - Due
-LOCATION:40036 - Guidance 2           | Adjustment to College Life Phase 2
-DESCRIPTION:Hello!Name:Degree & Year:G2 Offer Code:INSTRUCTIONS:\nPut a che
-	ck mark (/)after each item or copy if the itemreferred to is learned alread
-	y. \nA. DOMESTIC SKILLS - ITEMS\n1. Can do laundry\n2. Can iron clothes\n3.
-	 Can declutter clothes in the closet\n4. Can do marketing or storing\n5. Ca
-	n clean up self and all areas of the house\n6. Can take out trash on approp
-	riate pick-up day\n7. Can change a light bulb\n8. Can prepare and create me
-	al plans\n \nB. FINANCIAL SKILLS - ITEMS\n \n1. Knows how to create a budge
-	t for savings\n2. Understands incomes and expenses\n3. Manages own savings 
-	account\n4. Live within one’s means\n5. Knows fees associated with savings 
-	account\n6. Knows how to pay bills\n \nC. SELF-CARE SKILLS - ITEMS\n1. Eat 
-	healthy foods\n2. Exercise regularly\n3. Drink enough amount of water every
-	day\n4. Cultivate optimism\n5. Can get enough sleep\n6. Detox from technolo
-	gy and work\n7. Savor life’s joys\n \nD. TIME MANAGEMENT SKILLS - ITEMS\n1.
-	 Write your to-do list before you go to bed\n2. Attend to class early\n3. S
-	ubmit assignments ahead of schedule\n4. Knows how to delegate tasks\n5. Kno
-	ws what to prioritize\n6. Knows how to multi-task\n7. Keen in making major 
-	decisions\n8. Knows when to take breaks\n \nE. RELATIONSHIP SKILLS - ITEMS\
-	n1. Has self-respect\n2. Has self-confidence\n3. Practice social etiquette\
-	n4. Has active listening skill\n5. Knows how to set boundaries\n6. Good at 
-	resolving conflicts\n7. Knows how to collaborate\n8. Practice Spirituality\
-	n \nPROCESSING:\n1. How do you personally view the results of the given act
-	ivity?\n2. Which of the skills you need to learn the most?\n \n3. What insi
-	ghts or learning have you made?\nAdelante!<3 Mrs. Joy B. Martinez\n\n\nAssi
-	gnments:\nSession 11: ADULTING 101: MILLENIAL LIFE SKILLS    (Domestic Skil
-	ls\, Financial Skills\, Relationship Skills\, J - https://adelantelms.usjr.
-	edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=25448&db=50329\n\n\n
-	View event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/25448/event/15
-	4005/detailsview?ou=25448#154005
-CLASS:PUBLIC
-DTSTART:20220506T073000Z
-DTEND:20220506T073000Z
-UID:6606-154005@adelantelms.usjr.edu.ph
-SEQUENCE:4
-LAST-MODIFIED:20220301T110404Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Session 12: Beyond Graduation - Due
-LOCATION:40036 - Guidance 2           | Adjustment to College Life Phase 2
-DESCRIPTION:Hello!Name:Degree & Year:G2 Offer Code:\nACTIVITY\n1. In a clea
-	n sheet of paper make two columns.\n2. Label the right side with “Biggest H
-	opes” and\n     “Biggest Worries” on the left side.\n3. Write down your Big
-	gest Hopes and Biggest Worries\n        after you graduate in college on th
-	e working sheet you created.\n \nPROCESSING\nCognitive:\n1. What have you d
-	iscovered while reflecting and writing down your answers?\nAffective:\n2. H
-	ow do you feel about what you have discovered?\n \nAdelante!<3 Mrs. Joy B. 
-	Martinez\n\n\nAssignments:\nSession 12: Beyond Graduation - https://adelant
-	elms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=25448&db=5
-	0330\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/2544
-	8/event/154006/detailsview?ou=25448#154006
-CLASS:PUBLIC
-DTSTART:20220513T073000Z
-DTEND:20220513T073000Z
-UID:6606-154006@adelantelms.usjr.edu.ph
-SEQUENCE:4
-LAST-MODIFIED:20220301T110426Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Psychological Testing - 2 (PT2) for Guidance 2  - Due
-LOCATION:40036 - Guidance 2           | Adjustment to College Life Phase 2
-DESCRIPTION:Hello Josenians!How have you been?Kindly fill-out this Google F
-	orm Link on Psychological Testing for Guidance 2: https://forms.gle/nhkT34r
-	BWmv5N1N69\n.Log-in first to gmail using your USJ-R email in order to recei
-	ve the Certification.Respond to each item honestly.Then make sure to screen
-	shot the E-Certificate or click the next link for the certificate to be sen
-	t to the email in case or contact this email sdpc@usjr.edu.ph for the PT2  
-	Certification\,Submit your PT2 certification to LMS Assignment Tab.Good luc
-	k!Adelante!Mrs. Joy B. Martinez\, RPsy\, LPT\n\n\nAssignments:\nPsychologic
-	al Testing - 2 (PT2) for Guidance 2  - https://adelantelms.usjr.edu.ph/d2l/
-	lms/dropbox/user/folder_submit_files.d2l?ou=25448&db=50319\n\n\nView event 
-	- https://adelantelms.usjr.edu.ph/d2l/le/calendar/25448/event/154008/detail
-	sview?ou=25448#154008
-CLASS:PUBLIC
-DTSTART:20220527T073000Z
-DTEND:20220527T073000Z
-UID:6606-154008@adelantelms.usjr.edu.ph
+DTSTART:20220329T155959Z
+DTEND:20220329T155959Z
+UID:6606-157073@adelantelms.usjr.edu.ph
 SEQUENCE:11
-LAST-MODIFIED:20220310T013605Z
+LAST-MODIFIED:20220328T093646Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Constitution - Availability Ends
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Discussions:\nConstitution - https://adelantelms.usjr.edu.ph/d2
-	l/le/24738/discussions/topics/6010/View\n\n\nView event - https://adelantel
-	ms.usjr.edu.ph/d2l/le/calendar/24738/event/146941/detailsview?ou=24738#1469
-	41
+DTSTAMP:20220402T002505Z
+SUMMARY:Prelim Exam - Due
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Assignments:\nPrelim Exam\n\n\nView event - https://adelantelms
+	.usjr.edu.ph/d2l/le/calendar/24167/event/166316/detailsview?ou=24167#166316
 CLASS:PUBLIC
-DTSTART:20220614T155900Z
-DTEND:20220614T155900Z
-UID:6606-146941@adelantelms.usjr.edu.ph
+DTSTART:20220330T155959Z
+DTEND:20220330T155959Z
+UID:6606-166316@adelantelms.usjr.edu.ph
+SEQUENCE:10
+LAST-MODIFIED:20220327T140445Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:SLIPS FOR THE PSYCHOLOGICAL TEST  - Due
+LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
+DESCRIPTION:Please answer the Psychological Test for Guidance 2 using this 
+	link \n https://forms.gle/nhkT34rBWmv5N1N69 \nDownload the certificate afte
+	r taking the test and kindly upload your slips/certificates for Psychologic
+	al Test for Guidance 2.\nThank you\n\n\nAssignments:\nSLIPS FOR THE PSYCHOL
+	OGICAL TEST  - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_
+	submit_files.d2l?ou=25422&db=50166\n\n\nView event - https://adelantelms.us
+	jr.edu.ph/d2l/le/calendar/25422/event/144268/detailsview?ou=25422#144268
+CLASS:PUBLIC
+DTSTART:20220331T155959Z
+DTEND:20220331T155959Z
+UID:6606-144268@adelantelms.usjr.edu.ph
+SEQUENCE:22
+LAST-MODIFIED:20220324T072640Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Assignment 2:  - Due
+LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
+DESCRIPTION:Assignments:\nAssignment 2: \n\n\nView event - https://adelante
+	lms.usjr.edu.ph/d2l/le/calendar/25422/event/144272/detailsview?ou=25422#144
+	272
+CLASS:PUBLIC
+DTSTART:20220331T155959Z
+DTEND:20220331T155959Z
+UID:6606-144272@adelantelms.usjr.edu.ph
+SEQUENCE:19
+LAST-MODIFIED:20220324T070555Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Activity 5 - Due
+LOCATION:4017 - NS 1B1               | Physics for Engineers (Lec)
+DESCRIPTION:Assignments:\nActivity 5 - https://adelantelms.usjr.edu.ph/d2l/
+	lms/dropbox/user/folder_submit_files.d2l?ou=24133&db=55737\n\n\nView event 
+	- https://adelantelms.usjr.edu.ph/d2l/le/calendar/24133/event/169070/detail
+	sview?ou=24133#169070
+CLASS:PUBLIC
+DTSTART:20220401T070000Z
+DTEND:20220401T070000Z
+UID:6606-169070@adelantelms.usjr.edu.ph
+SEQUENCE:9
+LAST-MODIFIED:20220401T041720Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Activity 1 (READING) - Due
+LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
+	)
+DESCRIPTION:Please submit your outputs here ( GOLDILOCKS AND THREE BEARKS)\
+	n\n\nAssignments:\nActivity 1 (READING) - https://adelantelms.usjr.edu.ph/d
+	2l/lms/dropbox/user/folder_submit_files.d2l?ou=24653&db=55289\n\n\nView eve
+	nt - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24653/event/167315/det
+	ailsview?ou=24653#167315
+CLASS:PUBLIC
+DTSTART:20220404T155959Z
+DTEND:20220404T155959Z
+UID:6606-167315@adelantelms.usjr.edu.ph
+SEQUENCE:10
+LAST-MODIFIED:20220328T083357Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:ACTIVITY 2 ( TONGUE TWISTER) - Due
+LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
+	)
+DESCRIPTION:PLEASE SUBMIT YOUR OUTPUTS HERE\n\n\nAssignments:\nACTIVITY 2 (
+	 TONGUE TWISTER) - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/fol
+	der_submit_files.d2l?ou=24653&db=55290\n\n\nView event - https://adelantelm
+	s.usjr.edu.ph/d2l/le/calendar/24653/event/167316/detailsview?ou=24653#16731
+	6
+CLASS:PUBLIC
+DTSTART:20220404T155959Z
+DTEND:20220404T155959Z
+UID:6606-167316@adelantelms.usjr.edu.ph
+SEQUENCE:2
+LAST-MODIFIED:20220328T083335Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Experiment 3 - Acceleration due to gravity - Due
+LOCATION:4023 - NS 1B2               | Physics for Engineers (Lab)
+DESCRIPTION:Attach your laboratory Experiment 3 - Acceleration due to gravi
+	ty in this folder. Use PDF file please. Thank you.\nSee to it that you have
+	 proper documentation of your laboratory performance. \n\n\nAssignments:\nE
+	xperiment 3 - Acceleration due to gravity - https://adelantelms.usjr.edu.ph
+	/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=24139&db=55691\n\n\nView e
+	vent - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24139/event/168575/d
+	etailsview?ou=24139#168575
+CLASS:PUBLIC
+DTSTART:20220407T083000Z
+DTEND:20220407T083000Z
+UID:6606-168575@adelantelms.usjr.edu.ph
+SEQUENCE:9
+LAST-MODIFIED:20220331T051027Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Symbol - Due
+LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
+DESCRIPTION:Instruction:\nOn a piece of bondpaper\, use your crayons or col
+	oring pens to draw symbol/s that would best illustrate your thoughts and fe
+	elings about whoyou are and answers on the following questions given.\n1.  
+	  How did you feel about the activity?\n2.    What symbols figures or drawi
+	ngs best illustrate who you are? Why?\n3.    What can you think have influe
+	nce such traits or characteristics?\n \n\n\nAssignments:\nSymbol - https://
+	adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=254
+	22&db=50167\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calend
+	ar/25422/event/144274/detailsview?ou=25422#144274
+CLASS:PUBLIC
+DTSTART:20220407T155959Z
+DTEND:20220407T155959Z
+UID:6606-144274@adelantelms.usjr.edu.ph
+SEQUENCE:14
+LAST-MODIFIED:20220324T070137Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Quiz 4 (MT) - Due
+LOCATION:6009 - GE STS               | Science
+DESCRIPTION:Quizzes:\nQuiz 4 (MT) - https://adelantelms.usjr.edu.ph/d2l/lms
+	/quizzing/quizzing.d2l?ou=24537&qi=65196\n\n\nView event - https://adelante
+	lms.usjr.edu.ph/d2l/le/calendar/24537/event/164978/detailsview?ou=24537#164
+	978
+CLASS:PUBLIC
+DTSTART:20220408T155900Z
+DTEND:20220408T155900Z
+UID:6606-164978@adelantelms.usjr.edu.ph
+SEQUENCE:1
+LAST-MODIFIED:20220324T012920Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Quiz 4 (MT) - Availability Ends
+LOCATION:6009 - GE STS               | Science
+DESCRIPTION:Quizzes:\nQuiz 4 (MT) - https://adelantelms.usjr.edu.ph/d2l/lms
+	/quizzing/quizzing.d2l?ou=24537&qi=65196\n\n\nView event - https://adelante
+	lms.usjr.edu.ph/d2l/le/calendar/24537/event/164980/detailsview?ou=24537#164
+	980
+CLASS:PUBLIC
+DTSTART:20220408T155900Z
+DTEND:20220408T155900Z
+UID:6606-164980@adelantelms.usjr.edu.ph
+SEQUENCE:1
+LAST-MODIFIED:20220324T012920Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Assignment 1: - Due
+LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
+DESCRIPTION:INSTRUCTION:  In clean sheet of paper\, answer the following qu
+	estions:\n1.    What in myself am I proudest of? example my greatest achiev
+	ement or positive qualities.\n2.    Positive words that my friends / family
+	 use to describe me.\n3.    Not so pleasant words that my friends / family 
+	use to describe me.\n4.    What are the factors that stuck me or hinders me
+	 to grow?\n5.    How mindful I am in dealing with other people?\n\n\nAssign
+	ments:\nAssignment 1: - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/use
+	r/folder_submit_files.d2l?ou=25422&db=50168\n\n\nView event - https://adela
+	ntelms.usjr.edu.ph/d2l/le/calendar/25422/event/144264/detailsview?ou=25422#
+	144264
+CLASS:PUBLIC
+DTSTART:20220408T155959Z
+DTEND:20220408T155959Z
+UID:6606-144264@adelantelms.usjr.edu.ph
+SEQUENCE:12
+LAST-MODIFIED:20220324T070237Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Quiz 5 (TF) - Due
+LOCATION:6009 - GE STS               | Science
+DESCRIPTION:Quizzes:\nQuiz 5 (TF) - https://adelantelms.usjr.edu.ph/d2l/lms
+	/quizzing/quizzing.d2l?ou=24537&qi=65197\n\n\nView event - https://adelante
+	lms.usjr.edu.ph/d2l/le/calendar/24537/event/164984/detailsview?ou=24537#164
+	984
+CLASS:PUBLIC
+DTSTART:20220414T173000Z
+DTEND:20220414T173000Z
+UID:6606-164984@adelantelms.usjr.edu.ph
 SEQUENCE:0
-LAST-MODIFIED:20220218T020531Z
+LAST-MODIFIED:20220324T013041Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Final Quiz 2 - Availability Ends
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Quizzes:\nFinal Quiz 2 - https://adelantelms.usjr.edu.ph/d2l/lm
-	s/quizzing/quizzing.d2l?ou=24738&qi=64131\n\n\nView event - https://adelant
-	elms.usjr.edu.ph/d2l/le/calendar/24738/event/146952/detailsview?ou=24738#14
-	6952
+DTSTAMP:20220402T002505Z
+SUMMARY:Quiz 5 (TF) - Availability Ends
+LOCATION:6009 - GE STS               | Science
+DESCRIPTION:Quizzes:\nQuiz 5 (TF) - https://adelantelms.usjr.edu.ph/d2l/lms
+	/quizzing/quizzing.d2l?ou=24537&qi=65197\n\n\nView event - https://adelante
+	lms.usjr.edu.ph/d2l/le/calendar/24537/event/164986/detailsview?ou=24537#164
+	986
 CLASS:PUBLIC
-DTSTART:20220614T155900Z
-DTEND:20220614T155900Z
-UID:6606-146952@adelantelms.usjr.edu.ph
+DTSTART:20220414T173000Z
+DTEND:20220414T173000Z
+UID:6606-164986@adelantelms.usjr.edu.ph
 SEQUENCE:0
-LAST-MODIFIED:20220218T020532Z
+LAST-MODIFIED:20220324T013041Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Final Quiz 3 - Availability Ends
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Quizzes:\nFinal Quiz 3 - https://adelantelms.usjr.edu.ph/d2l/lm
-	s/quizzing/quizzing.d2l?ou=24738&qi=64132\n\n\nView event - https://adelant
-	elms.usjr.edu.ph/d2l/le/calendar/24738/event/146954/detailsview?ou=24738#14
-	6954
+DTSTAMP:20220402T002505Z
+SUMMARY:Output 3 (Long Test) - Due
+LOCATION:6009 - GE STS               | Science
+DESCRIPTION:Quizzes:\nOutput 3 (Long Test) - https://adelantelms.usjr.edu.p
+	h/d2l/lms/quizzing/quizzing.d2l?ou=24537&qi=65198\n\n\nView event - https:/
+	/adelantelms.usjr.edu.ph/d2l/le/calendar/24537/event/164999/detailsview?ou=
+	24537#164999
 CLASS:PUBLIC
-DTSTART:20220614T155900Z
-DTEND:20220614T155900Z
-UID:6606-146954@adelantelms.usjr.edu.ph
+DTSTART:20220415T155900Z
+DTEND:20220415T155900Z
+UID:6606-164999@adelantelms.usjr.edu.ph
 SEQUENCE:0
-LAST-MODIFIED:20220218T020532Z
+LAST-MODIFIED:20220324T013547Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Final Assignment 3 - Availability Ends
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Does the government have implemented the Land Reform in the cou
-	ntry so that the landless would own land?\n\n500 Words     \nCriteria\nCont
-	ent (Relevance of the topic)                                  10%\nOrganiza
-	tion  ( Unity of thought\, flow of discussion)  10%\nStyle(Originality and 
-	creativity)                                     5%\nTotal                  
-	                                                              25%\n•\n\n\nA
-	ssignments:\nFinal Assignment 3 - https://adelantelms.usjr.edu.ph/d2l/lms/d
-	ropbox/user/folder_submit_files.d2l?ou=24738&db=50985\n\n\nView event - htt
-	ps://adelantelms.usjr.edu.ph/d2l/le/calendar/24738/event/146961/detailsview
-	?ou=24738#146961
+DTSTAMP:20220402T002505Z
+SUMMARY:Output 3 (Long Test) - Availability Ends
+LOCATION:6009 - GE STS               | Science
+DESCRIPTION:Quizzes:\nOutput 3 (Long Test) - https://adelantelms.usjr.edu.p
+	h/d2l/lms/quizzing/quizzing.d2l?ou=24537&qi=65198\n\n\nView event - https:/
+	/adelantelms.usjr.edu.ph/d2l/le/calendar/24537/event/165001/detailsview?ou=
+	24537#165001
 CLASS:PUBLIC
-DTSTART:20220614T155959Z
-DTEND:20220614T155959Z
-UID:6606-146961@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220218T020613Z
+DTSTART:20220415T155900Z
+DTEND:20220415T155900Z
+UID:6606-165001@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220324T013547Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Final Assignment 6 - Availability Ends
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Watch the documentary linked to lesson 14 entitled TLR 2 and gi
-	ve your reaction which is not less than 500 hundred words\n\n\nAssignments:
-	\nFinal Assignment 6 - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user
-	/folder_submit_files.d2l?ou=24738&db=50988\n\n\nView event - https://adelan
-	telms.usjr.edu.ph/d2l/le/calendar/24738/event/146966/detailsview?ou=24738#1
-	46966
+DTSTAMP:20220402T002505Z
+SUMMARY:Quiz 6 (TF) - Due
+LOCATION:6009 - GE STS               | Science
+DESCRIPTION:Quizzes:\nQuiz 6 (TF) - https://adelantelms.usjr.edu.ph/d2l/lms
+	/quizzing/quizzing.d2l?ou=24537&qi=65199\n\n\nView event - https://adelante
+	lms.usjr.edu.ph/d2l/le/calendar/24537/event/164991/detailsview?ou=24537#164
+	991
 CLASS:PUBLIC
-DTSTART:20220614T155959Z
-DTEND:20220614T155959Z
-UID:6606-146966@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220218T020619Z
+DTSTART:20220421T173200Z
+DTEND:20220421T173200Z
+UID:6606-164991@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220324T013327Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Final Assignment 1 - Availability Ends
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Please provide 3 Constitutions in the Philippines and give at l
-	east three provisions of each Constitution. Construe each provision chosen.
-	\n\n500 Words            \nFont Size: 11 \nDouble Space                  \n
-	 Criteria\nContent (Relevance of the topic)                                
-	   10%\nOrganization  ( Unity of thought\, flow of discussion)  10%\nStyle(
-	Originality and creativity)                                      5%\nTotal 
-	      25%\n\n\n\nAssignments:\nFinal Assignment 1 - https://adelantelms.usj
-	r.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=24738&db=50983\n\n
-	\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24738/event/
-	146971/detailsview?ou=24738#146971
+DTSTAMP:20220402T002505Z
+SUMMARY:Quiz 6 (TF) - Availability Ends
+LOCATION:6009 - GE STS               | Science
+DESCRIPTION:Quizzes:\nQuiz 6 (TF) - https://adelantelms.usjr.edu.ph/d2l/lms
+	/quizzing/quizzing.d2l?ou=24537&qi=65199\n\n\nView event - https://adelante
+	lms.usjr.edu.ph/d2l/le/calendar/24537/event/164993/detailsview?ou=24537#164
+	993
 CLASS:PUBLIC
-DTSTART:20220614T155959Z
-DTEND:20220614T155959Z
-UID:6606-146971@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220218T020620Z
+DTSTART:20220421T173200Z
+DTEND:20220421T173200Z
+UID:6606-164993@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220324T013327Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Final Assignment 4 - Availability Ends
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Please discuss the theories and bases of taxation.\n\n500 Words
-	     \nCriteria\nContent (Relevance of the topic)                          
-	        10%\nOrganization  ( Unity of thought\, flow of discussion)  10%\nS
-	tyle(Originality and creativity)                                      5%\nT
-	otal       25%\n•\n\n\nAssignments:\nFinal Assignment 4 - https://adelantel
-	ms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=24738&db=509
-	86\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24738/
-	event/146976/detailsview?ou=24738#146976
+DTSTAMP:20220402T002505Z
+SUMMARY:Output 4 (Essay) - Due
+LOCATION:6009 - GE STS               | Science
+DESCRIPTION:Quizzes:\nOutput 4 (Essay) - https://adelantelms.usjr.edu.ph/d2
+	l/lms/quizzing/quizzing.d2l?ou=24537&qi=65200\n\n\nView event - https://ade
+	lantelms.usjr.edu.ph/d2l/le/calendar/24537/event/165007/detailsview?ou=2453
+	7#165007
 CLASS:PUBLIC
-DTSTART:20220614T155959Z
-DTEND:20220614T155959Z
-UID:6606-146976@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220218T020616Z
+DTSTART:20220421T173700Z
+DTEND:20220421T173700Z
+UID:6606-165007@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220324T013838Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Final Assignment 2 - Availability Ends
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Make an essay on the Biblical Aspect of Agrarian Reform.\n\n\n5
-	00 words\nDouble Space                  \n\nCriteria\nContent (Relevance of
-	 the topic)                                         10%\nOrganization  ( Un
-	ity of thought\, flow of discussion)         10%\nStyle(Originality and cre
-	ativity)                                             5%\nTotal             
-	                                                                          2
-	5%\n\n\n\nAssignments:\nFinal Assignment 2 - https://adelantelms.usjr.edu.p
-	h/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=24738&db=50984\n\n\nView 
-	event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24738/event/146983/
-	detailsview?ou=24738#146983
+DTSTAMP:20220402T002505Z
+SUMMARY:Output 4 (Essay) - Availability Ends
+LOCATION:6009 - GE STS               | Science
+DESCRIPTION:Quizzes:\nOutput 4 (Essay) - https://adelantelms.usjr.edu.ph/d2
+	l/lms/quizzing/quizzing.d2l?ou=24537&qi=65200\n\n\nView event - https://ade
+	lantelms.usjr.edu.ph/d2l/le/calendar/24537/event/165009/detailsview?ou=2453
+	7#165009
 CLASS:PUBLIC
-DTSTART:20220614T155959Z
-DTEND:20220614T155959Z
-UID:6606-146983@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220218T020617Z
+DTSTART:20220421T173700Z
+DTEND:20220421T173700Z
+UID:6606-165009@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220324T013838Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T131027Z
-SUMMARY:Final Assignment 5 - Availability Ends
-LOCATION:6205 - GE RPH               | Readings in Philippine History
-DESCRIPTION:Churches have been considered as lucrative business in the coun
-	try. Do agree with the idea that churches in the country\nbe taxed.\n\n\nAs
-	signments:\nFinal Assignment 5 - https://adelantelms.usjr.edu.ph/d2l/lms/dr
-	opbox/user/folder_submit_files.d2l?ou=24738&db=50987\n\n\nView event - http
-	s://adelantelms.usjr.edu.ph/d2l/le/calendar/24738/event/146987/detailsview?
-	ou=24738#146987
+DTSTAMP:20220402T002505Z
+SUMMARY:Persuasive Essay - Due
+LOCATION:6009 - GE STS               | Science
+DESCRIPTION:Quizzes:\nPersuasive Essay - https://adelantelms.usjr.edu.ph/d2
+	l/lms/quizzing/quizzing.d2l?ou=24537&qi=65202\n\n\nView event - https://ade
+	lantelms.usjr.edu.ph/d2l/le/calendar/24537/event/165014/detailsview?ou=2453
+	7#165014
 CLASS:PUBLIC
-DTSTART:20220614T155959Z
-DTEND:20220614T155959Z
-UID:6606-146987@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220218T020616Z
+DTSTART:20220428T174000Z
+DTEND:20220428T174000Z
+UID:6606-165014@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220324T014110Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Persuasive Essay - Availability Ends
+LOCATION:6009 - GE STS               | Science
+DESCRIPTION:Quizzes:\nPersuasive Essay - https://adelantelms.usjr.edu.ph/d2
+	l/lms/quizzing/quizzing.d2l?ou=24537&qi=65202\n\n\nView event - https://ade
+	lantelms.usjr.edu.ph/d2l/le/calendar/24537/event/165016/detailsview?ou=2453
+	7#165016
+CLASS:PUBLIC
+DTSTART:20220428T174000Z
+DTEND:20220428T174000Z
+UID:6606-165016@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220324T014110Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Quiz 7 (MC) - Due
+LOCATION:6009 - GE STS               | Science
+DESCRIPTION:Quizzes:\nQuiz 7 (MC) - https://adelantelms.usjr.edu.ph/d2l/lms
+	/quizzing/quizzing.d2l?ou=24537&qi=65201\n\n\nView event - https://adelante
+	lms.usjr.edu.ph/d2l/le/calendar/24537/event/165021/detailsview?ou=24537#165
+	021
+CLASS:PUBLIC
+DTSTART:20220429T155900Z
+DTEND:20220429T155900Z
+UID:6606-165021@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220324T014203Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T002505Z
+SUMMARY:Quiz 7 (MC) - Availability Ends
+LOCATION:6009 - GE STS               | Science
+DESCRIPTION:Quizzes:\nQuiz 7 (MC) - https://adelantelms.usjr.edu.ph/d2l/lms
+	/quizzing/quizzing.d2l?ou=24537&qi=65201\n\n\nView event - https://adelante
+	lms.usjr.edu.ph/d2l/le/calendar/24537/event/165023/detailsview?ou=24537#165
+	023
+CLASS:PUBLIC
+DTSTART:20220429T155900Z
+DTEND:20220429T155900Z
+UID:6606-165023@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220324T014203Z
 END:VEVENT
 END:VCALENDAR
