@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "discord.js": "^13.6.0",
+    "discordjs-button-pagination": "^1.0.7",
     "dotenv": "^16.0.0",
     "eslint": "^8.9.0",
     "express": "^4.17.2",

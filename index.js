@@ -16,7 +16,6 @@ const client = new DiscordJS.Client({
       Intents.FLAGS.GUILD_MESSAGE_REACTIONS,
     ],
   })
-
 // When the client is ready, run this code (only once)
 client.once('ready', () => {
     new WOKCommands(client, {

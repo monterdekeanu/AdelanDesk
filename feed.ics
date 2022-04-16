@@ -4,7 +4,7 @@ VERSION:2.0
 METHOD:PUBLISH
 X-WR-CALNAME:All Courses - Adelante Online Learning Environment
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Lecture 1: Program Flowcharts - Available
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Materials:\nLecture 1: Program Flowcharts - https://adelantelms
@@ -19,7 +19,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220216T143246Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:LECTURE 1 - PROGRAM DESIGN USING FLOWCHARTS1 - Available
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Materials:\nLECTURE 1 - PROGRAM DESIGN USING FLOWCHARTS1 - http
@@ -34,7 +34,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220216T143346Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Lecture 2: Pseudo Coding - Available
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:<p id="B9780081008805000062-p0080"><em>Pseudocode</em> consists
@@ -64,7 +64,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220221T150302Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Laboratory Activity #1: Programming Design Flowcharts - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Assignments:\nLaboratory Activity #1: Programming Design Flowch
@@ -79,7 +79,7 @@ SEQUENCE:17
 LAST-MODIFIED:20220216T143356Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Lecture 3: Lookback Functions and Parameter Passing Part 1 - Availa
 	ble
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
@@ -95,7 +95,7 @@ SEQUENCE:1
 LAST-MODIFIED:20220227T071029Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:LECTURE 3 - INTRODUCTION_REVIEW ON FUNCTIONS AND PARAMETER PASSING 
 	- Available
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
@@ -111,7 +111,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220227T071202Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Laboratory Activity #2: Psuedo Coding - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Assignments:\nLaboratory Activity #2: Psuedo Coding - https://a
@@ -126,7 +126,7 @@ SEQUENCE:9
 LAST-MODIFIED:20220221T152148Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Activity 1 Antidifferentiation - Due
 LOCATION:4005 - EM 1B1               | Engineering Calculus 2
 DESCRIPTION:Assignments:\nActivity 1 Antidifferentiation\n\n\nView event - 
@@ -140,7 +140,7 @@ SEQUENCE:19
 LAST-MODIFIED:20220308T073354Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:GUIDANCE 1 GRADE - Due
 LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
 DESCRIPTION:To ensure that your enrolment to Guidance 2 is valid\, kindly p
@@ -157,7 +157,7 @@ SEQUENCE:4
 LAST-MODIFIED:20220216T062309Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Activity 2 Trigonometric Functions 1 - Due
 LOCATION:4005 - EM 1B1               | Engineering Calculus 2
 DESCRIPTION:Assignments:\nActivity 2 Trigonometric Functions 1\n\n\nView ev
@@ -171,7 +171,7 @@ SEQUENCE:21
 LAST-MODIFIED:20220308T073419Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Laboratory Activity #3 - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Assignments:\nLaboratory Activity #3 - https://adelantelms.usjr
@@ -186,7 +186,7 @@ SEQUENCE:13
 LAST-MODIFIED:20220227T071354Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Quiz 1 Antidifferentiation - Due
 LOCATION:4005 - EM 1B1               | Engineering Calculus 2
 DESCRIPTION:\nInstructions:\n1. After completing all the previous activitie
@@ -210,7 +210,7 @@ SEQUENCE:2
 LAST-MODIFIED:20220306T140834Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Quiz 1 Antidifferentiation - Availability Ends
 LOCATION:4005 - EM 1B1               | Engineering Calculus 2
 DESCRIPTION:\nInstructions:\n1. After completing all the previous activitie
@@ -234,7 +234,7 @@ SEQUENCE:2
 LAST-MODIFIED:20220306T140834Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Quiz 1 - Availability Ends
 LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
 	)
@@ -249,7 +249,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220222T072601Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Activity 3 Trigonometric Functions 2 - Due
 LOCATION:4005 - EM 1B1               | Engineering Calculus 2
 DESCRIPTION:Assignments:\nActivity 3 Trigonometric Functions 2\n\n\nView ev
@@ -263,7 +263,7 @@ SEQUENCE:18
 LAST-MODIFIED:20220307T033033Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Quiz 2 Integration of Trigonometric Functions 1 - Due
 LOCATION:4005 - EM 1B1               | Engineering Calculus 2
 DESCRIPTION:Instructions:\n1. After completing all the previous activities 
@@ -288,7 +288,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220307T082055Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Quiz 2 Integration of Trigonometric Functions 1 - Availability Ends
 LOCATION:4005 - EM 1B1               | Engineering Calculus 2
 DESCRIPTION:Instructions:\n1. After completing all the previous activities 
@@ -313,7 +313,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220307T082055Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Prelim\, Asynchronous Activity #1 - Due
 LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
 	troduction to Biblical Exegesis
@@ -328,7 +328,7 @@ SEQUENCE:13
 LAST-MODIFIED:20220308T014403Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Activity 4 Integration of Exponential and Logarithmic Functions - D
 	ue
 LOCATION:4005 - EM 1B1               | Engineering Calculus 2
@@ -343,7 +343,7 @@ SEQUENCE:12
 LAST-MODIFIED:20220308T114153Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Quiz 3 Integration of Trigonometric Functions 2 - Due
 LOCATION:4005 - EM 1B1               | Engineering Calculus 2
 DESCRIPTION:Instructions:\n1. After completing all the previous activities 
@@ -368,7 +368,7 @@ SEQUENCE:1
 LAST-MODIFIED:20220308T120148Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Quiz 3 Integration of Trigonometric Functions 2 - Availability Ends
 LOCATION:4005 - EM 1B1               | Engineering Calculus 2
 DESCRIPTION:Instructions:\n1. After completing all the previous activities 
@@ -393,7 +393,7 @@ SEQUENCE:1
 LAST-MODIFIED:20220308T120148Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Prelim\, Bible 101 - Due
 LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
 	troduction to Biblical Exegesis
@@ -408,7 +408,7 @@ SEQUENCE:12
 LAST-MODIFIED:20220305T004347Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:CWTS 12 Record Sheet - Due
 LOCATION:17000 - CWTS 12*             | Civic Welfare Training Services 12
 DESCRIPTION:Assignments:\nCWTS 12 Record Sheet\n\n\nView event - https://ad
@@ -422,7 +422,7 @@ SEQUENCE:2
 LAST-MODIFIED:20220307T001720Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Laboratory Activity #4: Passing Arrays to Functions - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Assignments:\nLaboratory Activity #4: Passing Arrays to Functio
@@ -437,7 +437,7 @@ SEQUENCE:9
 LAST-MODIFIED:20220308T161829Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:PRELIM EXAM - Due
 LOCATION:4005 - EM 1B1               | Engineering Calculus 2
 DESCRIPTION:\nInstructions:\n1. You are going to answer the PRELIM EXAM for
@@ -460,7 +460,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220308T120346Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:PRELIM EXAM - Availability Ends
 LOCATION:4005 - EM 1B1               | Engineering Calculus 2
 DESCRIPTION:\nInstructions:\n1. You are going to answer the PRELIM EXAM for
@@ -483,7 +483,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220308T120346Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Asynchronous Activity 2 - Reflection Paper on the Occurrence of Typ
 	hoon "Odette" - Due
 LOCATION:17000 - CWTS 12*             | Civic Welfare Training Services 12
@@ -498,7 +498,7 @@ SEQUENCE:2
 LAST-MODIFIED:20220307T001824Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Essay on how can a CWTS 12 student serve the community - Group A - 
 	Due
 LOCATION:17000 - CWTS 12*             | Civic Welfare Training Services 12
@@ -513,7 +513,7 @@ SEQUENCE:12
 LAST-MODIFIED:20220309T050322Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Experiment 1 - Measurement - Due
 LOCATION:4023 - NS 1B2               | Physics for Engineers (Lab)
 DESCRIPTION:Assignments:\nExperiment 1 - Measurement\n\n\nView event - http
@@ -527,7 +527,7 @@ SEQUENCE:12
 LAST-MODIFIED:20220314T232644Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Prelim Examination - Due
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nPrelim Examination - https://adelantelms.usjr.edu.ph/
@@ -542,7 +542,7 @@ SEQUENCE:1
 LAST-MODIFIED:20220318T014421Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Prelim Examination - Availability Ends
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nPrelim Examination - https://adelantelms.usjr.edu.ph/
@@ -557,7 +557,7 @@ SEQUENCE:1
 LAST-MODIFIED:20220318T014421Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Laboratory Activity #5: Passing Array of Strings to a Function - Du
 	e
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
@@ -573,7 +573,7 @@ SEQUENCE:9
 LAST-MODIFIED:20220312T182251Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Checkpoint Exam #1 - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Assignments:\nCheckpoint Exam #1\n\n\nView event - https://adel
@@ -587,7 +587,7 @@ SEQUENCE:7
 LAST-MODIFIED:20220316T234320Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Experiment 2 - Vectors - Due
 LOCATION:4023 - NS 1B2               | Physics for Engineers (Lab)
 DESCRIPTION:Assignments:\nExperiment 2 - Vectors\n\n\nView event - https://
@@ -601,7 +601,7 @@ SEQUENCE:19
 LAST-MODIFIED:20220319T163049Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:PRELIM EXAMINATION - Availability Ends
 LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
 	)
@@ -617,7 +617,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220316T014234Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:WORD DRILL (Back Vowel) - Due
 LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
 	)
@@ -633,7 +633,7 @@ SEQUENCE:14
 LAST-MODIFIED:20220309T022807Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Activity 5 - Integration of Inverse Trigonometric Functions - Due
 LOCATION:4005 - EM 1B1               | Engineering Calculus 2
 DESCRIPTION:Assignments:\nActivity 5 - Integration of Inverse Trigonometric
@@ -647,7 +647,7 @@ SEQUENCE:9
 LAST-MODIFIED:20220321T233337Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Laboratory Activity #6: The #include directive  - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Assignments:\nLaboratory Activity #6: The #include directive  -
@@ -662,7 +662,7 @@ SEQUENCE:12
 LAST-MODIFIED:20220320T061041Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Prelim Output - Due
 LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
 	troduction to Biblical Exegesis
@@ -677,7 +677,7 @@ SEQUENCE:17
 LAST-MODIFIED:20220324T012328Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:NAME STORY  PDF (googledrivelink)submission corner - Due
 LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
 	)
@@ -695,7 +695,7 @@ SEQUENCE:14
 LAST-MODIFIED:20220308T051032Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Checkpoint Exam #2: Creating Applications with the #include directi
 	ve - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
@@ -710,7 +710,7 @@ SEQUENCE:7
 LAST-MODIFIED:20220323T121918Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:WORD DRILL (FRONT VOWEL) - Due
 LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
 	)
@@ -727,7 +727,7 @@ SEQUENCE:17
 LAST-MODIFIED:20220302T082714Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Seatwork 5 - Integration of Inverse Trigonometric Functions - Due
 LOCATION:4005 - EM 1B1               | Engineering Calculus 2
 DESCRIPTION:Assignments:\nSeatwork 5 - Integration of Inverse Trigonometric
@@ -741,7 +741,7 @@ SEQUENCE:14
 LAST-MODIFIED:20220328T224302Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Quiz 5 - Integration on Inverse Trigonometric  fucntions - Due
 LOCATION:4005 - EM 1B1               | Engineering Calculus 2
 DESCRIPTION:Quizzes:\nQuiz 5 - Integration on Inverse Trigonometric  fucnti
@@ -756,7 +756,7 @@ SEQUENCE:2
 LAST-MODIFIED:20220329T034539Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Webinar - Recoletos 400 - Due
 LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
 	troduction to Biblical Exegesis
@@ -771,7 +771,7 @@ SEQUENCE:10
 LAST-MODIFIED:20220329T120116Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:THE CHOICE - Due
 LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
 DESCRIPTION:Assignments:\nTHE CHOICE\n\n\nView event - https://adelantelms.
@@ -780,29 +780,11 @@ CLASS:PUBLIC
 DTSTART:20220329T155959Z
 DTEND:20220329T155959Z
 UID:6606-157071@adelantelms.usjr.edu.ph
-SEQUENCE:18
-LAST-MODIFIED:20220328T093748Z
+SEQUENCE:24
+LAST-MODIFIED:20220408T045245Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
-SUMMARY:Bring Me - Due
-LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
-DESCRIPTION:Instructions:\n\nFind 1 item that is found in your surrounding 
-	that represents your personality.\nTake a picture of that item and explain 
-	briefly why that item represents your personality. \nWhat qualities do you 
-	possess that is similar to the item you choose.\n\n\n\nAssignments:\nBring 
-	Me - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_fil
-	es.d2l?ou=25422&db=50165\n\n\nView event - https://adelantelms.usjr.edu.ph/
-	d2l/le/calendar/25422/event/157073/detailsview?ou=25422#157073
-CLASS:PUBLIC
-DTSTART:20220329T155959Z
-DTEND:20220329T155959Z
-UID:6606-157073@adelantelms.usjr.edu.ph
-SEQUENCE:11
-LAST-MODIFIED:20220328T093646Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Prelim Exam - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Assignments:\nPrelim Exam\n\n\nView event - https://adelantelms
@@ -815,25 +797,7 @@ SEQUENCE:10
 LAST-MODIFIED:20220327T140445Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
-SUMMARY:SLIPS FOR THE PSYCHOLOGICAL TEST  - Due
-LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
-DESCRIPTION:Please answer the Psychological Test for Guidance 2 using this 
-	link \n https://forms.gle/nhkT34rBWmv5N1N69 \nDownload the certificate afte
-	r taking the test and kindly upload your slips/certificates for Psychologic
-	al Test for Guidance 2.\nThank you\n\n\nAssignments:\nSLIPS FOR THE PSYCHOL
-	OGICAL TEST  - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_
-	submit_files.d2l?ou=25422&db=50166\n\n\nView event - https://adelantelms.us
-	jr.edu.ph/d2l/le/calendar/25422/event/144268/detailsview?ou=25422#144268
-CLASS:PUBLIC
-DTSTART:20220331T155959Z
-DTEND:20220331T155959Z
-UID:6606-144268@adelantelms.usjr.edu.ph
-SEQUENCE:22
-LAST-MODIFIED:20220324T072640Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Assignment 2:  - Due
 LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
 DESCRIPTION:Assignments:\nAssignment 2: \n\n\nView event - https://adelante
@@ -843,26 +807,11 @@ CLASS:PUBLIC
 DTSTART:20220331T155959Z
 DTEND:20220331T155959Z
 UID:6606-144272@adelantelms.usjr.edu.ph
-SEQUENCE:19
-LAST-MODIFIED:20220324T070555Z
+SEQUENCE:22
+LAST-MODIFIED:20220408T045209Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
-SUMMARY:Activity 5 - Due
-LOCATION:4017 - NS 1B1               | Physics for Engineers (Lec)
-DESCRIPTION:Assignments:\nActivity 5 - https://adelantelms.usjr.edu.ph/d2l/
-	lms/dropbox/user/folder_submit_files.d2l?ou=24133&db=55737\n\n\nView event 
-	- https://adelantelms.usjr.edu.ph/d2l/le/calendar/24133/event/169070/detail
-	sview?ou=24133#169070
-CLASS:PUBLIC
-DTSTART:20220401T070000Z
-DTEND:20220401T070000Z
-UID:6606-169070@adelantelms.usjr.edu.ph
-SEQUENCE:9
-LAST-MODIFIED:20220401T041720Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Activity 1 (READING) - Due
 LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
 	)
@@ -877,16 +826,29 @@ SEQUENCE:10
 LAST-MODIFIED:20220328T083357Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
+SUMMARY:Quiz 6 - Integration of Hyperbolic Functions - Due
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:Instructions:\na. Choose the correct letter that corresponds to
+	 the correct answer.\nb. Evaluate the following integrals.\n\n\nQuizzes:\nQ
+	uiz 6 - Integration of Hyperbolic Functions - https://adelantelms.usjr.edu.
+	ph/d2l/lms/quizzing/quizzing.d2l?ou=24121&qi=69741\n\n\nView event - https:
+	//adelantelms.usjr.edu.ph/d2l/le/calendar/24121/event/170836/detailsview?ou
+	=24121#170836
+CLASS:PUBLIC
+DTSTART:20220407T043000Z
+DTEND:20220407T043000Z
+UID:6606-170836@adelantelms.usjr.edu.ph
+SEQUENCE:2
+LAST-MODIFIED:20220407T033613Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220416T023921Z
 SUMMARY:Experiment 3 - Acceleration due to gravity - Due
 LOCATION:4023 - NS 1B2               | Physics for Engineers (Lab)
-DESCRIPTION:Attach your laboratory Experiment 3 - Acceleration due to gravi
-	ty in this folder. Use PDF file please. Thank you.\nSee to it that you have
-	 proper documentation of your laboratory performance. \n\n\nAssignments:\nE
-	xperiment 3 - Acceleration due to gravity - https://adelantelms.usjr.edu.ph
-	/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=24139&db=55691\n\n\nView e
-	vent - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24139/event/168575/d
-	etailsview?ou=24139#168575
+DESCRIPTION:Assignments:\nExperiment 3 - Acceleration due to gravity\n\n\nV
+	iew event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24139/event/168
+	575/detailsview?ou=24139#168575
 CLASS:PUBLIC
 DTSTART:20220407T083000Z
 DTEND:20220407T083000Z
@@ -895,61 +857,23 @@ SEQUENCE:9
 LAST-MODIFIED:20220331T051027Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
-SUMMARY:Symbol - Due
-LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
-DESCRIPTION:Instruction:\nOn a piece of bondpaper\, use your crayons or col
-	oring pens to draw symbol/s that would best illustrate your thoughts and fe
-	elings about whoyou are and answers on the following questions given.\n1.  
-	  How did you feel about the activity?\n2.    What symbols figures or drawi
-	ngs best illustrate who you are? Why?\n3.    What can you think have influe
-	nce such traits or characteristics?\n \n\n\nAssignments:\nSymbol - https://
-	adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=254
-	22&db=50167\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calend
-	ar/25422/event/144274/detailsview?ou=25422#144274
-CLASS:PUBLIC
-DTSTART:20220407T155959Z
-DTEND:20220407T155959Z
-UID:6606-144274@adelantelms.usjr.edu.ph
-SEQUENCE:14
-LAST-MODIFIED:20220324T070137Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
-SUMMARY:Assignment 6 - Integration of Hyperbolic Functions - Due
-LOCATION:4005 - EM 1B1               | Engineering Calculus 2
-DESCRIPTION:Attach your solutions to Assignment 6 - Integration of Hyperbol
-	ic Functions in this folder.  Please use a PDF file when submitting your so
-	lutions.  Thank you.\n\n\nAssignments:\nAssignment 6 - Integration of Hyper
-	bolic Functions - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/fold
-	er_submit_files.d2l?ou=24121&db=56056\n\n\nView event - https://adelantelms
-	.usjr.edu.ph/d2l/le/calendar/24121/event/170050/detailsview?ou=24121#170050
-CLASS:PUBLIC
-DTSTART:20220407T155959Z
-DTEND:20220407T155959Z
-UID:6606-170050@adelantelms.usjr.edu.ph
-SEQUENCE:9
-LAST-MODIFIED:20220405T030252Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
-SUMMARY:Experiment 4 - Projectile Motion - Due
+DTSTAMP:20220416T023921Z
+SUMMARY:Quiz 3 - Accelration due to Gravity - Due
 LOCATION:4023 - NS 1B2               | Physics for Engineers (Lab)
-DESCRIPTION:Attach your laboratory results on Experiment 4 - Projectile Mot
-	ion in this folder. Please use PDF file when submitting it.  Thank you.\n\n
-	\nAssignments:\nExperiment 4 - Projectile Motion - https://adelantelms.usjr
-	.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=24139&db=56095\n\n\
-	nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24139/event/1
-	70060/detailsview?ou=24139#170060
+DESCRIPTION:Choose the letter that gives you the correct answer.\n\n\nQuizz
+	es:\nQuiz 3 - Accelration due to Gravity - https://adelantelms.usjr.edu.ph/
+	d2l/lms/quizzing/quizzing.d2l?ou=24139&qi=69775\n\n\nView event - https://a
+	delantelms.usjr.edu.ph/d2l/le/calendar/24139/event/170978/detailsview?ou=24
+	139#170978
 CLASS:PUBLIC
-DTSTART:20220407T155959Z
-DTEND:20220407T155959Z
-UID:6606-170060@adelantelms.usjr.edu.ph
-SEQUENCE:13
-LAST-MODIFIED:20220404T135756Z
+DTSTART:20220407T100000Z
+DTEND:20220407T100000Z
+UID:6606-170978@adelantelms.usjr.edu.ph
+SEQUENCE:2
+LAST-MODIFIED:20220407T084035Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Quiz 4 (MT) - Due
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nQuiz 4 (MT) - https://adelantelms.usjr.edu.ph/d2l/lms
@@ -964,7 +888,7 @@ SEQUENCE:1
 LAST-MODIFIED:20220324T012920Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Quiz 4 (MT) - Availability Ends
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nQuiz 4 (MT) - https://adelantelms.usjr.edu.ph/d2l/lms
@@ -979,36 +903,13 @@ SEQUENCE:1
 LAST-MODIFIED:20220324T012920Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
-SUMMARY:Assignment 1: - Due
-LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
-DESCRIPTION:INSTRUCTION:  In clean sheet of paper\, answer the following qu
-	estions:\n1.    What in myself am I proudest of? example my greatest achiev
-	ement or positive qualities.\n2.    Positive words that my friends / family
-	 use to describe me.\n3.    Not so pleasant words that my friends / family 
-	use to describe me.\n4.    What are the factors that stuck me or hinders me
-	 to grow?\n5.    How mindful I am in dealing with other people?\n\n\nAssign
-	ments:\nAssignment 1: - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/use
-	r/folder_submit_files.d2l?ou=25422&db=50168\n\n\nView event - https://adela
-	ntelms.usjr.edu.ph/d2l/le/calendar/25422/event/144264/detailsview?ou=25422#
-	144264
-CLASS:PUBLIC
-DTSTART:20220408T155959Z
-DTEND:20220408T155959Z
-UID:6606-144264@adelantelms.usjr.edu.ph
-SEQUENCE:12
-LAST-MODIFIED:20220324T070237Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:ACTIVITY 2 ( TONGUE TWISTER) - Due
 LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
 	)
-DESCRIPTION:PLEASE SUBMIT YOUR OUTPUTS HERE\n\n\nAssignments:\nACTIVITY 2 (
-	 TONGUE TWISTER) - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/fol
-	der_submit_files.d2l?ou=24653&db=55290\n\n\nView event - https://adelantelm
-	s.usjr.edu.ph/d2l/le/calendar/24653/event/167316/detailsview?ou=24653#16731
-	6
+DESCRIPTION:Assignments:\nACTIVITY 2 ( TONGUE TWISTER)\n\n\nView event - ht
+	tps://adelantelms.usjr.edu.ph/d2l/le/calendar/24653/event/167316/detailsvie
+	w?ou=24653#167316
 CLASS:PUBLIC
 DTSTART:20220408T155959Z
 DTEND:20220408T155959Z
@@ -1017,7 +918,21 @@ SEQUENCE:13
 LAST-MODIFIED:20220404T034819Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
+SUMMARY:Experiment 4 - Projectile Motion - Due
+LOCATION:4023 - NS 1B2               | Physics for Engineers (Lab)
+DESCRIPTION:Assignments:\nExperiment 4 - Projectile Motion\n\n\nView event 
+	- https://adelantelms.usjr.edu.ph/d2l/le/calendar/24139/event/170060/detail
+	sview?ou=24139#170060
+CLASS:PUBLIC
+DTSTART:20220409T155959Z
+DTEND:20220409T155959Z
+UID:6606-170060@adelantelms.usjr.edu.ph
+SEQUENCE:16
+LAST-MODIFIED:20220407T044222Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220416T023921Z
 SUMMARY:Laboratory Activity #7: File Handling Basics - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Assignments:\nLaboratory Activity #7: File Handling Basics - ht
@@ -1025,14 +940,71 @@ DESCRIPTION:Assignments:\nLaboratory Activity #7: File Handling Basics - ht
 	ou=24167&db=56100\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/
 	calendar/24167/event/170089/detailsview?ou=24167#170089
 CLASS:PUBLIC
-DTSTART:20220408T155959Z
-DTEND:20220408T155959Z
+DTSTART:20220411T155900Z
+DTEND:20220411T155900Z
 UID:6606-170089@adelantelms.usjr.edu.ph
-SEQUENCE:11
-LAST-MODIFIED:20220404T164432Z
+SEQUENCE:15
+LAST-MODIFIED:20220406T011905Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
+SUMMARY:Assignment 6 - Integration of Hyperbolic Functions - Due
+LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DESCRIPTION:Assignments:\nAssignment 6 - Integration of Hyperbolic Function
+	s\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24121/e
+	vent/170050/detailsview?ou=24121#170050
+CLASS:PUBLIC
+DTSTART:20220412T030000Z
+DTEND:20220412T030000Z
+UID:6606-170050@adelantelms.usjr.edu.ph
+SEQUENCE:12
+LAST-MODIFIED:20220412T013157Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220416T023921Z
+SUMMARY:Checkpoint Exam #4: File Handling Basics Part 1 - Due
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Assignments:\nCheckpoint Exam #4: File Handling Basics Part 1\n
+	\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24167/even
+	t/171505/detailsview?ou=24167#171505
+CLASS:PUBLIC
+DTSTART:20220412T150000Z
+DTEND:20220412T150000Z
+UID:6606-171505@adelantelms.usjr.edu.ph
+SEQUENCE:10
+LAST-MODIFIED:20220411T101030Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220416T023921Z
+SUMMARY:Activity 6 - Due
+LOCATION:4017 - NS 1B1               | Physics for Engineers (Lec)
+DESCRIPTION:Assignments:\nActivity 6 - https://adelantelms.usjr.edu.ph/d2l/
+	lms/dropbox/user/folder_submit_files.d2l?ou=24133&db=56684\n\n\nView event 
+	- https://adelantelms.usjr.edu.ph/d2l/le/calendar/24133/event/171418/detail
+	sview?ou=24133#171418
+CLASS:PUBLIC
+DTSTART:20220413T083000Z
+DTEND:20220413T083000Z
+UID:6606-171418@adelantelms.usjr.edu.ph
+SEQUENCE:18
+LAST-MODIFIED:20220413T021200Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220416T023921Z
+SUMMARY:Checkpoint Exam #4: File Handling Basics Part 2 - Due
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Assignments:\nCheckpoint Exam #4: File Handling Basics Part 2\n
+	\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24167/even
+	t/171506/detailsview?ou=24167#171506
+CLASS:PUBLIC
+DTSTART:20220413T153000Z
+DTEND:20220413T153000Z
+UID:6606-171506@adelantelms.usjr.edu.ph
+SEQUENCE:5
+LAST-MODIFIED:20220411T101002Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220416T023921Z
 SUMMARY:Quiz 5 (TF) - Due
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nQuiz 5 (TF) - https://adelantelms.usjr.edu.ph/d2l/lms
@@ -1047,7 +1019,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220324T013041Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Quiz 5 (TF) - Availability Ends
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nQuiz 5 (TF) - https://adelantelms.usjr.edu.ph/d2l/lms
@@ -1062,7 +1034,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220324T013041Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Output 3 (Long Test) - Due
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nOutput 3 (Long Test) - https://adelantelms.usjr.edu.p
@@ -1077,7 +1049,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220324T013547Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Output 3 (Long Test) - Availability Ends
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nOutput 3 (Long Test) - https://adelantelms.usjr.edu.p
@@ -1092,7 +1064,71 @@ SEQUENCE:0
 LAST-MODIFIED:20220324T013547Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
+SUMMARY:Quiz /s/ - /z/ - Availability Ends
+LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
+	)
+DESCRIPTION:Quizzes:\nQuiz /s/ - /z/ - https://adelantelms.usjr.edu.ph/d2l/
+	lms/quizzing/quizzing.d2l?ou=24653&qi=69737\n\n\nView event - https://adela
+	ntelms.usjr.edu.ph/d2l/le/calendar/24653/event/170625/detailsview?ou=24653#
+	170625
+CLASS:PUBLIC
+DTSTART:20220416T155900Z
+DTEND:20220416T155900Z
+UID:6606-170625@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220406T073414Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220416T023921Z
+SUMMARY:QUIZ /ð/ - θ - Availability Ends
+LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
+	)
+DESCRIPTION:Quizzes:\nQUIZ /ð/ - θ - https://adelantelms.usjr.edu.ph/d2l/lm
+	s/quizzing/quizzing.d2l?ou=24653&qi=69738\n\n\nView event - https://adelant
+	elms.usjr.edu.ph/d2l/le/calendar/24653/event/170627/detailsview?ou=24653#17
+	0627
+CLASS:PUBLIC
+DTSTART:20220416T155900Z
+DTEND:20220416T155900Z
+UID:6606-170627@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220406T073420Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220416T023921Z
+SUMMARY:SLIP FOR THE VALUES-BASED VOTERS' EDUCATION FORUM - Due
+LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
+DESCRIPTION:Kindly submit your slip here together with your reaction and in
+	sights on the topic discussed on the said forum.\n\n\nAssignments:\nSLIP FO
+	R THE VALUES-BASED VOTERS' EDUCATION FORUM - https://adelantelms.usjr.edu.p
+	h/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=25422&db=50164\n\n\nView 
+	event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/25422/event/144271/
+	detailsview?ou=25422#144271
+CLASS:PUBLIC
+DTSTART:20220416T155959Z
+DTEND:20220416T155959Z
+UID:6606-144271@adelantelms.usjr.edu.ph
+SEQUENCE:11
+LAST-MODIFIED:20220407T072839Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220416T023921Z
+SUMMARY:Checkpoint Exam #4 - Due
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Assignments:\nCheckpoint Exam #4 - https://adelantelms.usjr.edu
+	.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=24167&db=56863\n\n\nVie
+	w event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24167/event/17175
+	9/detailsview?ou=24167#171759
+CLASS:PUBLIC
+DTSTART:20220416T155959Z
+DTEND:20220416T155959Z
+UID:6606-171759@adelantelms.usjr.edu.ph
+SEQUENCE:6
+LAST-MODIFIED:20220414T045201Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220416T023921Z
 SUMMARY:Quiz 6 (TF) - Due
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nQuiz 6 (TF) - https://adelantelms.usjr.edu.ph/d2l/lms
@@ -1107,7 +1143,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220324T013327Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Quiz 6 (TF) - Availability Ends
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nQuiz 6 (TF) - https://adelantelms.usjr.edu.ph/d2l/lms
@@ -1122,7 +1158,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220324T013327Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Output 4 (Essay) - Due
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nOutput 4 (Essay) - https://adelantelms.usjr.edu.ph/d2
@@ -1137,7 +1173,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220324T013838Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Output 4 (Essay) - Availability Ends
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nOutput 4 (Essay) - https://adelantelms.usjr.edu.ph/d2
@@ -1152,7 +1188,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220324T013838Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Persuasive Essay - Due
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nPersuasive Essay - https://adelantelms.usjr.edu.ph/d2
@@ -1167,7 +1203,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220324T014110Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Persuasive Essay - Availability Ends
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nPersuasive Essay - https://adelantelms.usjr.edu.ph/d2
@@ -1182,7 +1218,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220324T014110Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Quiz 7 (MC) - Due
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nQuiz 7 (MC) - https://adelantelms.usjr.edu.ph/d2l/lms
@@ -1197,7 +1233,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220324T014203Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T092205Z
+DTSTAMP:20220416T023921Z
 SUMMARY:Quiz 7 (MC) - Availability Ends
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nQuiz 7 (MC) - https://adelantelms.usjr.edu.ph/d2l/lms
@@ -1210,5 +1246,67 @@ DTEND:20220429T155900Z
 UID:6606-165023@adelantelms.usjr.edu.ph
 SEQUENCE:0
 LAST-MODIFIED:20220324T014203Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220416T023921Z
+SUMMARY:PERFORMANCE TASK: VLOG - Due
+LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
+	)
+DESCRIPTION:\nCreate a 3 to 5 mins video\, instructional video\, travel\, o
+	r a personal commentary. Make sure it's educational with appropriate conten
+	t.\nEverything should be in the English language and be cautious with your 
+	pronunciation.\nWe will present your vlogs during our virtual class if time
+	 allows us.    RUBRICS   \n\n\n\n\nRUBRICS\n \n\n\n \n\n\n \n\n\n\n\nConten
+	t Quality\n\n\nAppropriate\, engaging\, reflective\, and respectful to othe
+	rs. Vlogs are in-depth\, analytical\, reflective\, make a point\, and make 
+	connections beyond the text.\n\n\n40pts\n\n\n\n\nSpeech and pronunciation l
+	ong\n\n\nVlog has originality and flair\, emphasizes important points\; con
+	tains no errors in pronunciation.\n\n\n40 pts\n\n\n\n\nVideo and Sound Qual
+	ity\n\n\n The video is well lit and frames the subject appropriately. Editi
+	ng enhances the cohesiveness of a vlog.\n \nThe sound is clear and the volu
+	me is appropriate.\n \n\n\n20 pts\n\n\n\n\nTOTAL\n\n\n \n\n\n100pts\n\n\n\n
+	\n\n\n\n\nAssignments:\nPERFORMANCE TASK: VLOG - https://adelantelms.usjr.e
+	du.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=24653&db=56883\n\n\nV
+	iew event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24653/event/171
+	821/detailsview?ou=24653#171821
+CLASS:PUBLIC
+DTSTART:20220506T155959Z
+DTEND:20220506T155959Z
+UID:6606-171821@adelantelms.usjr.edu.ph
+SEQUENCE:10
+LAST-MODIFIED:20220415T130842Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220416T023921Z
+SUMMARY:VALUE-BASED VOTERS' EDUCATION FORUM - Due
+LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
+DESCRIPTION:Assignments:\nVALUE-BASED VOTERS' EDUCATION FORUM - https://ade
+	lantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=25422&
+	db=50174\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/
+	25422/event/144269/detailsview?ou=25422#144269
+CLASS:PUBLIC
+DTSTART:20220508T155959Z
+DTEND:20220508T155959Z
+UID:6606-144269@adelantelms.usjr.edu.ph
+SEQUENCE:12
+LAST-MODIFIED:20220408T211443Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220416T023921Z
+SUMMARY:Submission of Follow-up counseling and Psych Test Interpretation Sl
+	ips - Due
+LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
+DESCRIPTION:Kindly upload your slips/certificates for Follow-up Counseling 
+	and Psychological Test Interpretation here.\n\n\nAssignments:\nSubmission o
+	f Follow-up counseling and Psych Test Interpretation Slips - https://adelan
+	telms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=25422&db=
+	50171\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/254
+	22/event/170909/detailsview?ou=25422#170909
+CLASS:PUBLIC
+DTSTART:20220514T155959Z
+DTEND:20220514T155959Z
+UID:6606-170909@adelantelms.usjr.edu.ph
+SEQUENCE:12
+LAST-MODIFIED:20220408T035515Z
 END:VEVENT
 END:VCALENDAR
