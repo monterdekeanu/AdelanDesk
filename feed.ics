@@ -4,7 +4,80 @@ VERSION:2.0
 METHOD:PUBLISH
 X-WR-CALNAME:All Courses - Adelante Online Learning Environment
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
+SUMMARY:Class
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
+DESCRIPTION:Class
+CLASS:PUBLIC
+DTSTART:20210113T022940Z
+DTEND:20210113T032940Z
+UID:6606-144362@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220216T052603Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:Definition of Humanities\, Different Categories of Art\, Branches o
+	f Humanities\, Purpose of Art - Available
+LOCATION:6039 - GE AA                | Art Appreciation
+DESCRIPTION:Materials:\nDefinition of Humanities\, Different Categories of 
+	Art\, Branches of Humanities\, Purpose of Art - https://adelantelms.usjr.ed
+	u.ph/d2l/le/content/24567/viewContent/207839/View\n\n\nView event - https:/
+	/adelantelms.usjr.edu.ph/d2l/le/calendar/24567/event/152027/detailsview?ou=
+	24567#152027
+CLASS:PUBLIC
+DTSTART:20210629T224200Z
+DTEND:20210629T224200Z
+UID:6606-152027@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220222T172141Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:Rules - Available
+LOCATION:6039 - GE AA                | Art Appreciation
+DESCRIPTION:Materials:\nRules - https://adelantelms.usjr.edu.ph/d2l/le/cont
+	ent/24567/viewContent/207835/View\n\n\nView event - https://adelantelms.usj
+	r.edu.ph/d2l/le/calendar/24567/event/152024/detailsview?ou=24567#152024
+CLASS:PUBLIC
+DTSTART:20210825T063700Z
+DTEND:20210825T063700Z
+UID:6606-152024@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220222T172141Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:What is Art - Available
+LOCATION:6039 - GE AA                | Art Appreciation
+DESCRIPTION:Materials:\nWhat is Art - https://adelantelms.usjr.edu.ph/d2l/l
+	e/content/24567/viewContent/207836/View\n\n\nView event - https://adelantel
+	ms.usjr.edu.ph/d2l/le/calendar/24567/event/152025/detailsview?ou=24567#1520
+	25
+CLASS:PUBLIC
+DTSTART:20210825T071200Z
+DTEND:20210825T071200Z
+UID:6606-152025@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220222T172141Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:Assumptions of Art - Available
+LOCATION:6039 - GE AA                | Art Appreciation
+DESCRIPTION:Materials:\nAssumptions of Art - https://adelantelms.usjr.edu.p
+	h/d2l/le/content/24567/viewContent/207837/View\n\n\nView event - https://ad
+	elantelms.usjr.edu.ph/d2l/le/calendar/24567/event/152026/detailsview?ou=245
+	67#152026
+CLASS:PUBLIC
+DTSTART:20210825T071200Z
+DTEND:20210825T071200Z
+UID:6606-152026@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220222T172141Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
 SUMMARY:Lecture 1: Program Flowcharts - Available
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Materials:\nLecture 1: Program Flowcharts - https://adelantelms
@@ -19,7 +92,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220216T143246Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:LECTURE 1 - PROGRAM DESIGN USING FLOWCHARTS1 - Available
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Materials:\nLECTURE 1 - PROGRAM DESIGN USING FLOWCHARTS1 - http
@@ -34,7 +107,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220216T143346Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Lecture 2: Pseudo Coding - Available
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:<p id="B9780081008805000062-p0080"><em>Pseudocode</em> consists
@@ -64,7 +137,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220221T150302Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Laboratory Activity #1: Programming Design Flowcharts - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Assignments:\nLaboratory Activity #1: Programming Design Flowch
@@ -79,7 +152,7 @@ SEQUENCE:17
 LAST-MODIFIED:20220216T143356Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Lecture 3: Lookback Functions and Parameter Passing Part 1 - Availa
 	ble
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
@@ -95,7 +168,7 @@ SEQUENCE:1
 LAST-MODIFIED:20220227T071029Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:LECTURE 3 - INTRODUCTION_REVIEW ON FUNCTIONS AND PARAMETER PASSING 
 	- Available
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
@@ -111,7 +184,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220227T071202Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Laboratory Activity #2: Psuedo Coding - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Assignments:\nLaboratory Activity #2: Psuedo Coding - https://a
@@ -126,21 +199,7 @@ SEQUENCE:9
 LAST-MODIFIED:20220221T152148Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Activity 1 Antidifferentiation - Due
-LOCATION:4005 - EM 1B1               | Engineering Calculus 2
-DESCRIPTION:Assignments:\nActivity 1 Antidifferentiation\n\n\nView event - 
-	https://adelantelms.usjr.edu.ph/d2l/le/calendar/24121/event/140482/detailsv
-	iew?ou=24121#140482
-CLASS:PUBLIC
-DTSTART:20220228T140000Z
-DTEND:20220228T140000Z
-UID:6606-140482@adelantelms.usjr.edu.ph
-SEQUENCE:19
-LAST-MODIFIED:20220308T073354Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:GUIDANCE 1 GRADE - Due
 LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
 DESCRIPTION:To ensure that your enrolment to Guidance 2 is valid\, kindly p
@@ -157,21 +216,21 @@ SEQUENCE:4
 LAST-MODIFIED:20220216T062309Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Activity 2 Trigonometric Functions 1 - Due
-LOCATION:4005 - EM 1B1               | Engineering Calculus 2
-DESCRIPTION:Assignments:\nActivity 2 Trigonometric Functions 1\n\n\nView ev
-	ent - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24121/event/140469/de
-	tailsview?ou=24121#140469
+DTSTAMP:20220428T111216Z
+SUMMARY:You got me with "hello": Your First GE AA Online Meet
+LOCATION:Virtual (6039 - GE AA                | Art Appreciation)
+DESCRIPTION:Hello! I know life has been hard for us in the past few months.
+	 Let's channel those experiences (happy\, challenging\, sad) through art! S
+	ee you! Use this link: https://bit.ly/3p9fLad
 CLASS:PUBLIC
-DTSTART:20220302T140000Z
-DTEND:20220302T140000Z
-UID:6606-140469@adelantelms.usjr.edu.ph
-SEQUENCE:21
-LAST-MODIFIED:20220308T073419Z
+DTSTART:20220301T083000Z
+DTEND:20220301T100000Z
+UID:6606-152031@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220222T180049Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Laboratory Activity #3 - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Assignments:\nLaboratory Activity #3 - https://adelantelms.usjr
@@ -186,55 +245,49 @@ SEQUENCE:13
 LAST-MODIFIED:20220227T071354Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Quiz 1 Antidifferentiation - Due
-LOCATION:4005 - EM 1B1               | Engineering Calculus 2
-DESCRIPTION:\nInstructions:\n1. After completing all the previous activitie
-	s on Module 1\, now you are ready to take your assessment task on this Modu
-	le 1.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take
-	 note that you are given only one (1) attempt to take and answer the quiz.\
-	n4. Be extra careful in choosing the correct answer\, once you click the Ne
-	xt Page you can no longer return to the Previous Page. \n5. If the Previous
-	 Page icon appeared on the question\, that means you are allowed to preview
-	 back to a certain given question and disregard instruction 4.\n6. After yo
-	u are done answering all the questions\, please don't forget to click Submi
-	t Quiz.\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz
-	 1 Antidifferentiation - https://adelantelms.usjr.edu.ph/d2l/lms/quizzing/q
-	uizzing.d2l?ou=24121&qi=66656\n\n\nView event - https://adelantelms.usjr.ed
-	u.ph/d2l/le/calendar/24121/event/156800/detailsview?ou=24121#156800
+DTSTAMP:20220428T111216Z
+SUMMARY:Activity 3 Basic Derivatives - Due
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
+DESCRIPTION:Assignments:\nActivity 3 Basic Derivatives\n\n\nView event - ht
+	tps://adelantelms.usjr.edu.ph/d2l/le/calendar/24117/event/144369/detailsvie
+	w?ou=24117#144369
 CLASS:PUBLIC
-DTSTART:20220308T043000Z
-DTEND:20220308T043000Z
-UID:6606-156800@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220306T140834Z
+DTSTART:20220308T150000Z
+DTEND:20220308T150000Z
+UID:6606-144369@adelantelms.usjr.edu.ph
+SEQUENCE:32
+LAST-MODIFIED:20220311T130034Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Quiz 1 Antidifferentiation - Availability Ends
-LOCATION:4005 - EM 1B1               | Engineering Calculus 2
-DESCRIPTION:\nInstructions:\n1. After completing all the previous activitie
-	s on Module 1\, now you are ready to take your assessment task on this Modu
-	le 1.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take
-	 note that you are given only one (1) attempt to take and answer the quiz.\
-	n4. Be extra careful in choosing the correct answer\, once you click the Ne
-	xt Page you can no longer return to the Previous Page. \n5. If the Previous
-	 Page icon appeared on the question\, that means you are allowed to preview
-	 back to a certain given question and disregard instruction 4.\n6. After yo
-	u are done answering all the questions\, please don't forget to click Submi
-	t Quiz.\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz
-	 1 Antidifferentiation - https://adelantelms.usjr.edu.ph/d2l/lms/quizzing/q
-	uizzing.d2l?ou=24121&qi=66656\n\n\nView event - https://adelantelms.usjr.ed
-	u.ph/d2l/le/calendar/24121/event/156802/detailsview?ou=24121#156802
+DTSTAMP:20220428T111216Z
+SUMMARY:Activity 1 Functions - Due
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
+DESCRIPTION:Assignments:\nActivity 1 Functions\n\n\nView event - https://ad
+	elantelms.usjr.edu.ph/d2l/le/calendar/24117/event/144370/detailsview?ou=241
+	17#144370
 CLASS:PUBLIC
-DTSTART:20220308T043000Z
-DTEND:20220308T043000Z
-UID:6606-156802@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220306T140834Z
+DTSTART:20220308T150000Z
+DTEND:20220308T150000Z
+UID:6606-144370@adelantelms.usjr.edu.ph
+SEQUENCE:32
+LAST-MODIFIED:20220311T125917Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
+SUMMARY:Activity 2 Limit of a Functions - Due
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
+DESCRIPTION:Assignments:\nActivity 2 Limit of a Functions\n\n\nView event -
+	 https://adelantelms.usjr.edu.ph/d2l/le/calendar/24117/event/144376/details
+	view?ou=24117#144376
+CLASS:PUBLIC
+DTSTART:20220308T150000Z
+DTEND:20220308T150000Z
+UID:6606-144376@adelantelms.usjr.edu.ph
+SEQUENCE:32
+LAST-MODIFIED:20220311T130006Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
 SUMMARY:Quiz 1 - Availability Ends
 LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
 	)
@@ -249,71 +302,69 @@ SEQUENCE:0
 LAST-MODIFIED:20220222T072601Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Activity 3 Trigonometric Functions 2 - Due
-LOCATION:4005 - EM 1B1               | Engineering Calculus 2
-DESCRIPTION:Assignments:\nActivity 3 Trigonometric Functions 2\n\n\nView ev
-	ent - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24121/event/140473/de
-	tailsview?ou=24121#140473
-CLASS:PUBLIC
-DTSTART:20220309T140000Z
-DTEND:20220309T140000Z
-UID:6606-140473@adelantelms.usjr.edu.ph
-SEQUENCE:18
-LAST-MODIFIED:20220307T033033Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Quiz 2 Integration of Trigonometric Functions 1 - Due
-LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DTSTAMP:20220428T111216Z
+SUMMARY:Quiz 1 Functions - Due
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
 DESCRIPTION:Instructions:\n1. After completing all the previous activities 
-	on Module 2\, now you are ready to take your assessment task on Module 2.\n
-	2. You are going to answer the quiz for 1 hour only.\n3. Please take note t
-	hat you are given only one (1) attempt to take and answer the quiz.\n4. Be 
-	extra careful in choosing the correct answer\, once you click the Next Page
-	 you can no longer return to the Previous Page. \n5. If the Previous Page i
-	con appeared on the question\, that means you are allowed to preview back t
-	o a certain given question and disregard instruction 4.\n6. After you are d
-	one answering all the questions\, please don't forget to click Submit Quiz.
-	\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 2 Inte
-	gration of Trigonometric Functions 1 - https://adelantelms.usjr.edu.ph/d2l/
-	lms/quizzing/quizzing.d2l?ou=24121&qi=61317\n\n\nView event - https://adela
-	ntelms.usjr.edu.ph/d2l/le/calendar/24121/event/157083/detailsview?ou=24121#
-	157083
+	on Module 1\, now you are ready to take your assessment task on this Module
+	 1.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take n
+	ote that you are given only one (1) attempt to take and answer the quiz.\n4
+	. Send your complete solutions to me as a private message in MS Teams. Numb
+	ers with no uploaded solutions will be marked wrong.\n5. After you are done
+	 answering all the questions\, please don't forget to click Submit Quiz.\n6
+	. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 1 Functio
+	ns - https://adelantelms.usjr.edu.ph/d2l/lms/quizzing/quizzing.d2l?ou=24117
+	&qi=63172\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar
+	/24117/event/144383/detailsview?ou=24117#144383
 CLASS:PUBLIC
-DTSTART:20220310T043000Z
-DTEND:20220310T043000Z
-UID:6606-157083@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220307T082055Z
+DTSTART:20220309T113000Z
+DTEND:20220309T113000Z
+UID:6606-144383@adelantelms.usjr.edu.ph
+SEQUENCE:8
+LAST-MODIFIED:20220318T031014Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Quiz 2 Integration of Trigonometric Functions 1 - Availability Ends
-LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DTSTAMP:20220428T111216Z
+SUMMARY:Essay on how can a CWTS 12 student serve the community - Due
+LOCATION:17000 - CWTS 12*             | Civic Welfare Training Services 12
+DESCRIPTION:Assignments:\nEssay on how can a CWTS 12 student serve the comm
+	unity\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/253
+	49/event/154212/detailsview?ou=25349#154212
+CLASS:PUBLIC
+DTSTART:20220309T155959Z
+DTEND:20220309T155959Z
+UID:6606-154212@adelantelms.usjr.edu.ph
+SEQUENCE:15
+LAST-MODIFIED:20220303T131943Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:Quiz 2 Limit of a Functions - Due
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
 DESCRIPTION:Instructions:\n1. After completing all the previous activities 
-	on Module 2\, now you are ready to take your assessment task on Module 2.\n
-	2. You are going to answer the quiz for 1 hour only.\n3. Please take note t
-	hat you are given only one (1) attempt to take and answer the quiz.\n4. Be 
-	extra careful in choosing the correct answer\, once you click the Next Page
-	 you can no longer return to the Previous Page. \n5. If the Previous Page i
-	con appeared on the question\, that means you are allowed to preview back t
-	o a certain given question and disregard instruction 4.\n6. After you are d
-	one answering all the questions\, please don't forget to click Submit Quiz.
-	\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 2 Inte
-	gration of Trigonometric Functions 1 - https://adelantelms.usjr.edu.ph/d2l/
-	lms/quizzing/quizzing.d2l?ou=24121&qi=61317\n\n\nView event - https://adela
-	ntelms.usjr.edu.ph/d2l/le/calendar/24121/event/157085/detailsview?ou=24121#
-	157085
+	on Module 2\, now you are ready to take your assessment task on this Module
+	 2.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take n
+	ote that you are given only one (1) attempt to take and answer the quiz.\n4
+	. Be extra careful in choosing the correct answer\, once you click the Next
+	 Page you can no longer return to the Previous Page. \n5. If the Previous P
+	age icon appeared on the question\, that means you are allowed to preview b
+	ack to a certain given question and disregard instruction 4.\n6. Send your 
+	complete solutions to me as a private message in MS Teams. Numbers with no 
+	uploaded solutions will be marked wrong. \n7. After you are done answering 
+	all the questions\, please don't forget to click Submit Quiz.\n8. For Confi
+	rmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 2 Limit of a Functio
+	ns - https://adelantelms.usjr.edu.ph/d2l/lms/quizzing/quizzing.d2l?ou=24117
+	&qi=63173\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar
+	/24117/event/144385/detailsview?ou=24117#144385
 CLASS:PUBLIC
-DTSTART:20220310T043000Z
-DTEND:20220310T043000Z
-UID:6606-157085@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220307T082055Z
+DTSTART:20220310T113000Z
+DTEND:20220310T113000Z
+UID:6606-144385@adelantelms.usjr.edu.ph
+SEQUENCE:7
+LAST-MODIFIED:20220318T031256Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Prelim\, Asynchronous Activity #1 - Due
 LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
 	troduction to Biblical Exegesis
@@ -328,72 +379,33 @@ SEQUENCE:13
 LAST-MODIFIED:20220308T014403Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Activity 4 Integration of Exponential and Logarithmic Functions - D
-	ue
-LOCATION:4005 - EM 1B1               | Engineering Calculus 2
-DESCRIPTION:Assignments:\nActivity 4 Integration of Exponential and Logarit
-	hmic Functions\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/cal
-	endar/24121/event/140479/detailsview?ou=24121#140479
-CLASS:PUBLIC
-DTSTART:20220312T140000Z
-DTEND:20220312T140000Z
-UID:6606-140479@adelantelms.usjr.edu.ph
-SEQUENCE:12
-LAST-MODIFIED:20220308T114153Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Quiz 3 Integration of Trigonometric Functions 2 - Due
-LOCATION:4005 - EM 1B1               | Engineering Calculus 2
+DTSTAMP:20220428T111216Z
+SUMMARY:Quiz 3 Basic Derivatives - Due
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
 DESCRIPTION:Instructions:\n1. After completing all the previous activities 
-	in Module 3\, now you are ready to take your assessment task in Module 3.\n
-	2. You are going to answer the quiz for 1 hour only.\n3. Please take note t
-	hat you are given only one (1) attempt to take and answer the quiz.\n4. Be 
-	extra careful in choosing the correct answer\, once you click the Next Page
-	 you can no longer return to the Previous Page. \n5. If the Previous Page i
-	con appeared on the question\, that means you are allowed to preview back t
-	o a certain given question and disregard instruction 4.\n6. After you are d
-	one answering all the questions\, please don't forget to click Submit Quiz.
-	\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 3 Inte
-	gration of Trigonometric Functions 2 - https://adelantelms.usjr.edu.ph/d2l/
-	lms/quizzing/quizzing.d2l?ou=24121&qi=61318\n\n\nView event - https://adela
-	ntelms.usjr.edu.ph/d2l/le/calendar/24121/event/157463/detailsview?ou=24121#
-	157463
+	on Module 3\, now you are ready to take your assessment task on this Module
+	 3.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take n
+	ote that you are given only one (1) attempt to take and answer the quiz.\n4
+	. Be extra careful in choosing the correct answer\, once you click the Next
+	 Page you can no longer return to the Previous Page. \n5. If the Previous P
+	age icon appeared on the question\, that means you are allowed to preview b
+	ack to a certain given question and disregard instruction 4.\n6. Send your 
+	complete solutions to me as a private message in MS Teams. Numbers with no 
+	uploaded solutions will be marked wrong. \n7. After you are done answering 
+	all the questions\, please don't forget to click Submit Quiz.\n8. For Confi
+	rmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 3 Basic Derivatives 
+	- https://adelantelms.usjr.edu.ph/d2l/lms/quizzing/quizzing.d2l?ou=24117&qi
+	=63174\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24
+	117/event/144387/detailsview?ou=24117#144387
 CLASS:PUBLIC
-DTSTART:20220314T043000Z
-DTEND:20220314T043000Z
-UID:6606-157463@adelantelms.usjr.edu.ph
-SEQUENCE:1
-LAST-MODIFIED:20220308T120148Z
+DTSTART:20220314T113000Z
+DTEND:20220314T113000Z
+UID:6606-144387@adelantelms.usjr.edu.ph
+SEQUENCE:4
+LAST-MODIFIED:20220318T031338Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Quiz 3 Integration of Trigonometric Functions 2 - Availability Ends
-LOCATION:4005 - EM 1B1               | Engineering Calculus 2
-DESCRIPTION:Instructions:\n1. After completing all the previous activities 
-	in Module 3\, now you are ready to take your assessment task in Module 3.\n
-	2. You are going to answer the quiz for 1 hour only.\n3. Please take note t
-	hat you are given only one (1) attempt to take and answer the quiz.\n4. Be 
-	extra careful in choosing the correct answer\, once you click the Next Page
-	 you can no longer return to the Previous Page. \n5. If the Previous Page i
-	con appeared on the question\, that means you are allowed to preview back t
-	o a certain given question and disregard instruction 4.\n6. After you are d
-	one answering all the questions\, please don't forget to click Submit Quiz.
-	\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 3 Inte
-	gration of Trigonometric Functions 2 - https://adelantelms.usjr.edu.ph/d2l/
-	lms/quizzing/quizzing.d2l?ou=24121&qi=61318\n\n\nView event - https://adela
-	ntelms.usjr.edu.ph/d2l/le/calendar/24121/event/157465/detailsview?ou=24121#
-	157465
-CLASS:PUBLIC
-DTSTART:20220314T043000Z
-DTEND:20220314T043000Z
-UID:6606-157465@adelantelms.usjr.edu.ph
-SEQUENCE:1
-LAST-MODIFIED:20220308T120148Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Prelim\, Bible 101 - Due
 LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
 	troduction to Biblical Exegesis
@@ -408,7 +420,7 @@ SEQUENCE:12
 LAST-MODIFIED:20220305T004347Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:CWTS 12 Record Sheet - Due
 LOCATION:17000 - CWTS 12*             | Civic Welfare Training Services 12
 DESCRIPTION:Assignments:\nCWTS 12 Record Sheet\n\n\nView event - https://ad
@@ -422,7 +434,7 @@ SEQUENCE:2
 LAST-MODIFIED:20220307T001720Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Laboratory Activity #4: Passing Arrays to Functions - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Assignments:\nLaboratory Activity #4: Passing Arrays to Functio
@@ -437,53 +449,7 @@ SEQUENCE:9
 LAST-MODIFIED:20220308T161829Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:PRELIM EXAM - Due
-LOCATION:4005 - EM 1B1               | Engineering Calculus 2
-DESCRIPTION:\nInstructions:\n1. You are going to answer the PRELIM EXAM for
-	 1 hour and 30 minutes only. \n2. Please take note that you are given only 
-	one (1) attempt to take and answer the exam.\n3. Be extra careful in choosi
-	ng the correct answer\, once you click the Next Page you can no longer retu
-	rn to the Previous Page. \n4. If the Previous Page icon appeared on the que
-	stion\, that means you are allowed to preview back to a certain given quest
-	ion and disregard instruction 3.\n5. After you are done answering all the q
-	uestions\, please don't forget to click Submit Quiz.\n6. For Confirmation\,
-	 click again Submit Quiz.\n\n\nQuizzes:\nPRELIM EXAM - https://adelantelms.
-	usjr.edu.ph/d2l/lms/quizzing/quizzing.d2l?ou=24121&qi=61330\n\n\nView event
-	 - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24121/event/157466/detai
-	lsview?ou=24121#157466
-CLASS:PUBLIC
-DTSTART:20220316T050000Z
-DTEND:20220316T050000Z
-UID:6606-157466@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220308T120346Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:PRELIM EXAM - Availability Ends
-LOCATION:4005 - EM 1B1               | Engineering Calculus 2
-DESCRIPTION:\nInstructions:\n1. You are going to answer the PRELIM EXAM for
-	 1 hour and 30 minutes only. \n2. Please take note that you are given only 
-	one (1) attempt to take and answer the exam.\n3. Be extra careful in choosi
-	ng the correct answer\, once you click the Next Page you can no longer retu
-	rn to the Previous Page. \n4. If the Previous Page icon appeared on the que
-	stion\, that means you are allowed to preview back to a certain given quest
-	ion and disregard instruction 3.\n5. After you are done answering all the q
-	uestions\, please don't forget to click Submit Quiz.\n6. For Confirmation\,
-	 click again Submit Quiz.\n\n\nQuizzes:\nPRELIM EXAM - https://adelantelms.
-	usjr.edu.ph/d2l/lms/quizzing/quizzing.d2l?ou=24121&qi=61330\n\n\nView event
-	 - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24121/event/157468/detai
-	lsview?ou=24121#157468
-CLASS:PUBLIC
-DTSTART:20220316T050000Z
-DTEND:20220316T050000Z
-UID:6606-157468@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220308T120346Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Asynchronous Activity 2 - Reflection Paper on the Occurrence of Typ
 	hoon "Odette" - Due
 LOCATION:17000 - CWTS 12*             | Civic Welfare Training Services 12
@@ -498,36 +464,30 @@ SEQUENCE:2
 LAST-MODIFIED:20220307T001824Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Essay on how can a CWTS 12 student serve the community - Group A - 
-	Due
-LOCATION:17000 - CWTS 12*             | Civic Welfare Training Services 12
-DESCRIPTION:Assignments:\nEssay on how can a CWTS 12 student serve the comm
-	unity - Group A\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/ca
-	lendar/25349/event/157617/detailsview?ou=25349#157617
+DTSTAMP:20220428T111216Z
+SUMMARY:PRELIM EXAM - Due
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
+DESCRIPTION:\nActivity Guide:\n1. You are going to answer the EXAM for 1 ho
+	ur and 30 minutes only.\n2. Please take note that you are given only one (1
+	) attempt to take and answer the EXAM.\n3. Be extra careful in choosing the
+	 correct answer\, once you click the Next Page you can no longer return to 
+	the Previous Page. \n4. After you are done answering all the questions\, pl
+	ease don't forget to click Submit All and Finish.\n5. For Confirmation\, cl
+	ick again Submit All and Finish.\n6. Send your complete solutions to me as 
+	a private message in MS Teams. Numbers with no uploaded solutions will be m
+	arked wrong.\n\n\nQuizzes:\nPRELIM EXAM - https://adelantelms.usjr.edu.ph/d
+	2l/lms/quizzing/quizzing.d2l?ou=24117&qi=63186\n\n\nView event - https://ad
+	elantelms.usjr.edu.ph/d2l/le/calendar/24117/event/144389/detailsview?ou=241
+	17#144389
 CLASS:PUBLIC
-DTSTART:20220316T155959Z
-DTEND:20220316T155959Z
-UID:6606-157617@adelantelms.usjr.edu.ph
-SEQUENCE:12
-LAST-MODIFIED:20220309T050322Z
+DTSTART:20220317T113000Z
+DTEND:20220317T113000Z
+UID:6606-144389@adelantelms.usjr.edu.ph
+SEQUENCE:9
+LAST-MODIFIED:20220320T102731Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Experiment 1 - Measurement - Due
-LOCATION:4023 - NS 1B2               | Physics for Engineers (Lab)
-DESCRIPTION:Assignments:\nExperiment 1 - Measurement\n\n\nView event - http
-	s://adelantelms.usjr.edu.ph/d2l/le/calendar/24139/event/156099/detailsview?
-	ou=24139#156099
-CLASS:PUBLIC
-DTSTART:20220317T000000Z
-DTEND:20220317T000000Z
-UID:6606-156099@adelantelms.usjr.edu.ph
-SEQUENCE:12
-LAST-MODIFIED:20220314T232644Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Prelim Examination - Due
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nPrelim Examination - https://adelantelms.usjr.edu.ph/
@@ -542,7 +502,7 @@ SEQUENCE:1
 LAST-MODIFIED:20220318T014421Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Prelim Examination - Availability Ends
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nPrelim Examination - https://adelantelms.usjr.edu.ph/
@@ -557,7 +517,7 @@ SEQUENCE:1
 LAST-MODIFIED:20220318T014421Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Laboratory Activity #5: Passing Array of Strings to a Function - Du
 	e
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
@@ -573,7 +533,7 @@ SEQUENCE:9
 LAST-MODIFIED:20220312T182251Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Checkpoint Exam #1 - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Assignments:\nCheckpoint Exam #1\n\n\nView event - https://adel
@@ -587,21 +547,33 @@ SEQUENCE:7
 LAST-MODIFIED:20220316T234320Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Experiment 2 - Vectors - Due
-LOCATION:4023 - NS 1B2               | Physics for Engineers (Lab)
-DESCRIPTION:Assignments:\nExperiment 2 - Vectors\n\n\nView event - https://
-	adelantelms.usjr.edu.ph/d2l/le/calendar/24139/event/157352/detailsview?ou=2
-	4139#157352
+DTSTAMP:20220428T111216Z
+SUMMARY:Quiz 4 Basic Derivatives Continuation - Due
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	on Module 4\, now you are ready to take your assessment task on this Module
+	 4.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take n
+	ote that you are given only one (1) attempt to take and answer the quiz.\n4
+	. Be extra careful in choosing the correct answer\, once you click the Next
+	 Page you can no longer return to the Previous Page. \n5. If the Previous P
+	age icon appeared on the question\, that means you are allowed to preview b
+	ack to a certain given question and disregard instruction 4.\n6. Send your 
+	complete solutions to me as a private message in MS Teams. Numbers with no 
+	uploaded solutions will be marked wrong. \n7. After you are done answering 
+	all the questions\, please don't forget to click Submit Quiz.\n8. For Confi
+	rmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 4 Basic Derivatives 
+	Continuation - https://adelantelms.usjr.edu.ph/d2l/lms/quizzing/quizzing.d2
+	l?ou=24117&qi=63175\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/l
+	e/calendar/24117/event/144391/detailsview?ou=24117#144391
 CLASS:PUBLIC
-DTSTART:20220320T155959Z
-DTEND:20220320T155959Z
-UID:6606-157352@adelantelms.usjr.edu.ph
-SEQUENCE:19
-LAST-MODIFIED:20220319T163049Z
+DTSTART:20220321T113000Z
+DTEND:20220321T113000Z
+UID:6606-144391@adelantelms.usjr.edu.ph
+SEQUENCE:3
+LAST-MODIFIED:20220328T092855Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:PRELIM EXAMINATION - Availability Ends
 LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
 	)
@@ -617,7 +589,21 @@ SEQUENCE:0
 LAST-MODIFIED:20220316T014234Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
+SUMMARY:I am a Curator - Due
+LOCATION:6039 - GE AA                | Art Appreciation
+DESCRIPTION:Assignments:\nI am a Curator\n\n\nView event - https://adelante
+	lms.usjr.edu.ph/d2l/le/calendar/24567/event/160371/detailsview?ou=24567#160
+	371
+CLASS:PUBLIC
+DTSTART:20220321T155959Z
+DTEND:20220321T155959Z
+UID:6606-160371@adelantelms.usjr.edu.ph
+SEQUENCE:2
+LAST-MODIFIED:20220315T022116Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
 SUMMARY:WORD DRILL (Back Vowel) - Due
 LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
 	)
@@ -633,21 +619,7 @@ SEQUENCE:14
 LAST-MODIFIED:20220309T022807Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Activity 5 - Integration of Inverse Trigonometric Functions - Due
-LOCATION:4005 - EM 1B1               | Engineering Calculus 2
-DESCRIPTION:Assignments:\nActivity 5 - Integration of Inverse Trigonometric
-	 Functions\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calenda
-	r/24121/event/164067/detailsview?ou=24121#164067
-CLASS:PUBLIC
-DTSTART:20220324T155959Z
-DTEND:20220324T155959Z
-UID:6606-164067@adelantelms.usjr.edu.ph
-SEQUENCE:9
-LAST-MODIFIED:20220321T233337Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Laboratory Activity #6: The #include directive  - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Assignments:\nLaboratory Activity #6: The #include directive  -
@@ -662,7 +634,7 @@ SEQUENCE:12
 LAST-MODIFIED:20220320T061041Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Prelim Output - Due
 LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
 	troduction to Biblical Exegesis
@@ -677,7 +649,7 @@ SEQUENCE:17
 LAST-MODIFIED:20220324T012328Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:NAME STORY  PDF (googledrivelink)submission corner - Due
 LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
 	)
@@ -695,7 +667,7 @@ SEQUENCE:14
 LAST-MODIFIED:20220308T051032Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Checkpoint Exam #2: Creating Applications with the #include directi
 	ve - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
@@ -710,7 +682,7 @@ SEQUENCE:7
 LAST-MODIFIED:20220323T121918Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:WORD DRILL (FRONT VOWEL) - Due
 LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
 	)
@@ -727,36 +699,7 @@ SEQUENCE:17
 LAST-MODIFIED:20220302T082714Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Seatwork 5 - Integration of Inverse Trigonometric Functions - Due
-LOCATION:4005 - EM 1B1               | Engineering Calculus 2
-DESCRIPTION:Assignments:\nSeatwork 5 - Integration of Inverse Trigonometric
-	 Functions\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calenda
-	r/24121/event/164990/detailsview?ou=24121#164990
-CLASS:PUBLIC
-DTSTART:20220329T040000Z
-DTEND:20220329T040000Z
-UID:6606-164990@adelantelms.usjr.edu.ph
-SEQUENCE:14
-LAST-MODIFIED:20220328T224302Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Quiz 5 - Integration on Inverse Trigonometric  fucntions - Due
-LOCATION:4005 - EM 1B1               | Engineering Calculus 2
-DESCRIPTION:Quizzes:\nQuiz 5 - Integration on Inverse Trigonometric  fucnti
-	ons - https://adelantelms.usjr.edu.ph/d2l/lms/quizzing/quizzing.d2l?ou=2412
-	1&qi=69226\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calenda
-	r/24121/event/167679/detailsview?ou=24121#167679
-CLASS:PUBLIC
-DTSTART:20220329T044000Z
-DTEND:20220329T044000Z
-UID:6606-167679@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220329T034539Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Webinar - Recoletos 400 - Due
 LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
 	troduction to Biblical Exegesis
@@ -771,7 +714,7 @@ SEQUENCE:10
 LAST-MODIFIED:20220329T120116Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:THE CHOICE - Due
 LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
 DESCRIPTION:Assignments:\nTHE CHOICE\n\n\nView event - https://adelantelms.
@@ -784,7 +727,7 @@ SEQUENCE:24
 LAST-MODIFIED:20220408T045245Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Prelim Exam - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Assignments:\nPrelim Exam\n\n\nView event - https://adelantelms
@@ -797,7 +740,7 @@ SEQUENCE:10
 LAST-MODIFIED:20220327T140445Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Assignment 2:  - Due
 LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
 DESCRIPTION:Assignments:\nAssignment 2: \n\n\nView event - https://adelante
@@ -811,7 +754,21 @@ SEQUENCE:22
 LAST-MODIFIED:20220408T045209Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
+SUMMARY:Activity 5 Derivatives of Trigonometric Functions - Due
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
+DESCRIPTION:Assignments:\nActivity 5 Derivatives of Trigonometric Functions
+	\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24117/ev
+	ent/144363/detailsview?ou=24117#144363
+CLASS:PUBLIC
+DTSTART:20220402T140000Z
+DTEND:20220402T140000Z
+UID:6606-144363@adelantelms.usjr.edu.ph
+SEQUENCE:11
+LAST-MODIFIED:20220331T040743Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
 SUMMARY:Activity 1 (READING) - Due
 LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
 	)
@@ -826,54 +783,35 @@ SEQUENCE:10
 LAST-MODIFIED:20220328T083357Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Quiz 6 - Integration of Hyperbolic Functions - Due
-LOCATION:4005 - EM 1B1               | Engineering Calculus 2
-DESCRIPTION:Instructions:\na. Choose the correct letter that corresponds to
-	 the correct answer.\nb. Evaluate the following integrals.\n\n\nQuizzes:\nQ
-	uiz 6 - Integration of Hyperbolic Functions - https://adelantelms.usjr.edu.
-	ph/d2l/lms/quizzing/quizzing.d2l?ou=24121&qi=69741\n\n\nView event - https:
-	//adelantelms.usjr.edu.ph/d2l/le/calendar/24121/event/170836/detailsview?ou
-	=24121#170836
+DTSTAMP:20220428T111216Z
+SUMMARY:Activity 6 Derivatives of Inverse Trigonometric Functions - Due
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
+DESCRIPTION:Assignments:\nActivity 6 Derivatives of Inverse Trigonometric F
+	unctions\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/
+	24117/event/144375/detailsview?ou=24117#144375
 CLASS:PUBLIC
-DTSTART:20220407T043000Z
-DTEND:20220407T043000Z
-UID:6606-170836@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220407T033613Z
+DTSTART:20220406T140000Z
+DTEND:20220406T140000Z
+UID:6606-144375@adelantelms.usjr.edu.ph
+SEQUENCE:14
+LAST-MODIFIED:20220401T053524Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Experiment 3 - Acceleration due to gravity - Due
-LOCATION:4023 - NS 1B2               | Physics for Engineers (Lab)
-DESCRIPTION:Assignments:\nExperiment 3 - Acceleration due to gravity\n\n\nV
-	iew event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24139/event/168
-	575/detailsview?ou=24139#168575
+DTSTAMP:20220428T111216Z
+SUMMARY:Reflection Paper on the Right to Suffrage for Group B - Due
+LOCATION:17000 - CWTS 12*             | Civic Welfare Training Services 12
+DESCRIPTION:Assignments:\nReflection Paper on the Right to Suffrage for Gro
+	up B\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/2534
+	9/event/168024/detailsview?ou=25349#168024
 CLASS:PUBLIC
-DTSTART:20220407T083000Z
-DTEND:20220407T083000Z
-UID:6606-168575@adelantelms.usjr.edu.ph
+DTSTART:20220406T155959Z
+DTEND:20220406T155959Z
+UID:6606-168024@adelantelms.usjr.edu.ph
 SEQUENCE:9
-LAST-MODIFIED:20220331T051027Z
+LAST-MODIFIED:20220330T015152Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Quiz 3 - Accelration due to Gravity - Due
-LOCATION:4023 - NS 1B2               | Physics for Engineers (Lab)
-DESCRIPTION:Choose the letter that gives you the correct answer.\n\n\nQuizz
-	es:\nQuiz 3 - Accelration due to Gravity - https://adelantelms.usjr.edu.ph/
-	d2l/lms/quizzing/quizzing.d2l?ou=24139&qi=69775\n\n\nView event - https://a
-	delantelms.usjr.edu.ph/d2l/le/calendar/24139/event/170978/detailsview?ou=24
-	139#170978
-CLASS:PUBLIC
-DTSTART:20220407T100000Z
-DTEND:20220407T100000Z
-UID:6606-170978@adelantelms.usjr.edu.ph
-SEQUENCE:2
-LAST-MODIFIED:20220407T084035Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Quiz 4 (MT) - Due
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nQuiz 4 (MT) - https://adelantelms.usjr.edu.ph/d2l/lms
@@ -888,7 +826,7 @@ SEQUENCE:1
 LAST-MODIFIED:20220324T012920Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Quiz 4 (MT) - Availability Ends
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nQuiz 4 (MT) - https://adelantelms.usjr.edu.ph/d2l/lms
@@ -903,7 +841,7 @@ SEQUENCE:1
 LAST-MODIFIED:20220324T012920Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:ACTIVITY 2 ( TONGUE TWISTER) - Due
 LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
 	)
@@ -918,21 +856,22 @@ SEQUENCE:13
 LAST-MODIFIED:20220404T034819Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Experiment 4 - Projectile Motion - Due
-LOCATION:4023 - NS 1B2               | Physics for Engineers (Lab)
-DESCRIPTION:Assignments:\nExperiment 4 - Projectile Motion\n\n\nView event 
-	- https://adelantelms.usjr.edu.ph/d2l/le/calendar/24139/event/170060/detail
-	sview?ou=24139#170060
+DTSTAMP:20220428T111216Z
+SUMMARY:Activity 7 Derivatives of Logarithmic and Exponential Functions - D
+	ue
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
+DESCRIPTION:Assignments:\nActivity 7 Derivatives of Logarithmic and Exponen
+	tial Functions\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/cal
+	endar/24117/event/144364/detailsview?ou=24117#144364
 CLASS:PUBLIC
-DTSTART:20220409T155959Z
-DTEND:20220409T155959Z
-UID:6606-170060@adelantelms.usjr.edu.ph
-SEQUENCE:16
-LAST-MODIFIED:20220407T044222Z
+DTSTART:20220409T140000Z
+DTEND:20220409T140000Z
+UID:6606-144364@adelantelms.usjr.edu.ph
+SEQUENCE:12
+LAST-MODIFIED:20220406T103104Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Laboratory Activity #7: File Handling Basics - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Assignments:\nLaboratory Activity #7: File Handling Basics - ht
@@ -947,21 +886,7 @@ SEQUENCE:15
 LAST-MODIFIED:20220406T011905Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Assignment 6 - Integration of Hyperbolic Functions - Due
-LOCATION:4005 - EM 1B1               | Engineering Calculus 2
-DESCRIPTION:Assignments:\nAssignment 6 - Integration of Hyperbolic Function
-	s\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24121/e
-	vent/170050/detailsview?ou=24121#170050
-CLASS:PUBLIC
-DTSTART:20220412T030000Z
-DTEND:20220412T030000Z
-UID:6606-170050@adelantelms.usjr.edu.ph
-SEQUENCE:12
-LAST-MODIFIED:20220412T013157Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Checkpoint Exam #4: File Handling Basics Part 1 - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Assignments:\nCheckpoint Exam #4: File Handling Basics Part 1\n
@@ -975,22 +900,7 @@ SEQUENCE:10
 LAST-MODIFIED:20220411T101030Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Activity 6 - Due
-LOCATION:4017 - NS 1B1               | Physics for Engineers (Lec)
-DESCRIPTION:Assignments:\nActivity 6 - https://adelantelms.usjr.edu.ph/d2l/
-	lms/dropbox/user/folder_submit_files.d2l?ou=24133&db=56684\n\n\nView event 
-	- https://adelantelms.usjr.edu.ph/d2l/le/calendar/24133/event/171418/detail
-	sview?ou=24133#171418
-CLASS:PUBLIC
-DTSTART:20220413T083000Z
-DTEND:20220413T083000Z
-UID:6606-171418@adelantelms.usjr.edu.ph
-SEQUENCE:18
-LAST-MODIFIED:20220413T021200Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Checkpoint Exam #4: File Handling Basics Part 2 - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
 DESCRIPTION:Assignments:\nCheckpoint Exam #4: File Handling Basics Part 2\n
@@ -1004,7 +914,7 @@ SEQUENCE:5
 LAST-MODIFIED:20220411T101002Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Quiz 5 (TF) - Due
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nQuiz 5 (TF) - https://adelantelms.usjr.edu.ph/d2l/lms
@@ -1015,26 +925,11 @@ CLASS:PUBLIC
 DTSTART:20220414T173000Z
 DTEND:20220414T173000Z
 UID:6606-164984@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220324T013041Z
+SEQUENCE:3
+LAST-MODIFIED:20220420T010842Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Quiz 5 (TF) - Availability Ends
-LOCATION:6009 - GE STS               | Science
-DESCRIPTION:Quizzes:\nQuiz 5 (TF) - https://adelantelms.usjr.edu.ph/d2l/lms
-	/quizzing/quizzing.d2l?ou=24537&qi=65197\n\n\nView event - https://adelante
-	lms.usjr.edu.ph/d2l/le/calendar/24537/event/164986/detailsview?ou=24537#164
-	986
-CLASS:PUBLIC
-DTSTART:20220414T173000Z
-DTEND:20220414T173000Z
-UID:6606-164986@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220324T013041Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Output 3 (Long Test) - Due
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nOutput 3 (Long Test) - https://adelantelms.usjr.edu.p
@@ -1045,26 +940,11 @@ CLASS:PUBLIC
 DTSTART:20220415T155900Z
 DTEND:20220415T155900Z
 UID:6606-164999@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220324T013547Z
+SEQUENCE:3
+LAST-MODIFIED:20220420T010849Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Output 3 (Long Test) - Availability Ends
-LOCATION:6009 - GE STS               | Science
-DESCRIPTION:Quizzes:\nOutput 3 (Long Test) - https://adelantelms.usjr.edu.p
-	h/d2l/lms/quizzing/quizzing.d2l?ou=24537&qi=65198\n\n\nView event - https:/
-	/adelantelms.usjr.edu.ph/d2l/le/calendar/24537/event/165001/detailsview?ou=
-	24537#165001
-CLASS:PUBLIC
-DTSTART:20220415T155900Z
-DTEND:20220415T155900Z
-UID:6606-165001@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220324T013547Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Quiz /s/ - /z/ - Availability Ends
 LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
 	)
@@ -1080,7 +960,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220406T073414Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:QUIZ /ð/ - θ - Availability Ends
 LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
 	)
@@ -1096,30 +976,12 @@ SEQUENCE:0
 LAST-MODIFIED:20220406T073420Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:SLIP FOR THE VALUES-BASED VOTERS' EDUCATION FORUM - Due
-LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
-DESCRIPTION:Kindly submit your slip here together with your reaction and in
-	sights on the topic discussed on the said forum.\n\n\nAssignments:\nSLIP FO
-	R THE VALUES-BASED VOTERS' EDUCATION FORUM - https://adelantelms.usjr.edu.p
-	h/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=25422&db=50164\n\n\nView 
-	event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/25422/event/144271/
-	detailsview?ou=25422#144271
-CLASS:PUBLIC
-DTSTART:20220416T155959Z
-DTEND:20220416T155959Z
-UID:6606-144271@adelantelms.usjr.edu.ph
-SEQUENCE:11
-LAST-MODIFIED:20220407T072839Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Checkpoint Exam #4 - Due
 LOCATION:4047 - CPE 1B1              | Programming Logic and Design
-DESCRIPTION:Assignments:\nCheckpoint Exam #4 - https://adelantelms.usjr.edu
-	.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=24167&db=56863\n\n\nVie
-	w event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24167/event/17175
-	9/detailsview?ou=24167#171759
+DESCRIPTION:Assignments:\nCheckpoint Exam #4\n\n\nView event - https://adel
+	antelms.usjr.edu.ph/d2l/le/calendar/24167/event/171759/detailsview?ou=24167
+	#171759
 CLASS:PUBLIC
 DTSTART:20220416T155959Z
 DTEND:20220416T155959Z
@@ -1128,7 +990,159 @@ SEQUENCE:6
 LAST-MODIFIED:20220414T045201Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
+SUMMARY:Quiz 5 Derivatives of Trigonometric Functions - Due
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	on Module 5\, now you are ready to take your assessment task on this Module
+	 5.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take n
+	ote that you are given only one (1) attempt to take and answer the quiz.\n4
+	. Be extra careful in choosing the correct answer\, once you click the Next
+	 Page you can no longer return to the Previous Page. \n5. If the Previous P
+	age icon appeared on the question\, that means you are allowed to preview b
+	ack to a certain given question and disregard instruction 4.\n6. After you 
+	are done answering all the questions\, please don't forget to click Submit 
+	Quiz.\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 5
+	 Derivatives of Trigonometric Functions - https://adelantelms.usjr.edu.ph/d
+	2l/lms/quizzing/quizzing.d2l?ou=24117&qi=63176\n\n\nView event - https://ad
+	elantelms.usjr.edu.ph/d2l/le/calendar/24117/event/144390/detailsview?ou=241
+	17#144390
+CLASS:PUBLIC
+DTSTART:20220419T113000Z
+DTEND:20220419T113000Z
+UID:6606-144390@adelantelms.usjr.edu.ph
+SEQUENCE:3
+LAST-MODIFIED:20220411T052646Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:Quiz 5 Derivatives of Trigonometric Functions - Availability Ends
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	on Module 5\, now you are ready to take your assessment task on this Module
+	 5.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take n
+	ote that you are given only one (1) attempt to take and answer the quiz.\n4
+	. Be extra careful in choosing the correct answer\, once you click the Next
+	 Page you can no longer return to the Previous Page. \n5. If the Previous P
+	age icon appeared on the question\, that means you are allowed to preview b
+	ack to a certain given question and disregard instruction 4.\n6. After you 
+	are done answering all the questions\, please don't forget to click Submit 
+	Quiz.\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 5
+	 Derivatives of Trigonometric Functions - https://adelantelms.usjr.edu.ph/d
+	2l/lms/quizzing/quizzing.d2l?ou=24117&qi=63176\n\n\nView event - https://ad
+	elantelms.usjr.edu.ph/d2l/le/calendar/24117/event/171100/detailsview?ou=241
+	17#171100
+CLASS:PUBLIC
+DTSTART:20220419T113000Z
+DTEND:20220419T113000Z
+UID:6606-171100@adelantelms.usjr.edu.ph
+SEQUENCE:2
+LAST-MODIFIED:20220411T052646Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:Quiz 6 Derivatives of Inverse Trigonometric Functions - Due
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	on Module 6\, now you are ready to take your assessment task on this Module
+	 6.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take n
+	ote that you are given only one (1) attempt to take and answer the quiz.\n4
+	. Be extra careful in choosing the correct answer\, once you click the Next
+	 Page you can no longer return to the Previous Page. \n5. If the Previous P
+	age icon appeared on the question\, that means you are allowed to preview b
+	ack to a certain given question and disregard instruction 4.\n6. After you 
+	are done answering all the questions\, please don't forget to click Submit 
+	Quiz.\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 6
+	 Derivatives of Inverse Trigonometric Functions - https://adelantelms.usjr.
+	edu.ph/d2l/lms/quizzing/quizzing.d2l?ou=24117&qi=63177\n\n\nView event - ht
+	tps://adelantelms.usjr.edu.ph/d2l/le/calendar/24117/event/144393/detailsvie
+	w?ou=24117#144393
+CLASS:PUBLIC
+DTSTART:20220420T113000Z
+DTEND:20220420T113000Z
+UID:6606-144393@adelantelms.usjr.edu.ph
+SEQUENCE:2
+LAST-MODIFIED:20220411T052719Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:Quiz 6 Derivatives of Inverse Trigonometric Functions - Availabilit
+	y Ends
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	on Module 6\, now you are ready to take your assessment task on this Module
+	 6.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take n
+	ote that you are given only one (1) attempt to take and answer the quiz.\n4
+	. Be extra careful in choosing the correct answer\, once you click the Next
+	 Page you can no longer return to the Previous Page. \n5. If the Previous P
+	age icon appeared on the question\, that means you are allowed to preview b
+	ack to a certain given question and disregard instruction 4.\n6. After you 
+	are done answering all the questions\, please don't forget to click Submit 
+	Quiz.\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 6
+	 Derivatives of Inverse Trigonometric Functions - https://adelantelms.usjr.
+	edu.ph/d2l/lms/quizzing/quizzing.d2l?ou=24117&qi=63177\n\n\nView event - ht
+	tps://adelantelms.usjr.edu.ph/d2l/le/calendar/24117/event/171108/detailsvie
+	w?ou=24117#171108
+CLASS:PUBLIC
+DTSTART:20220420T113000Z
+DTEND:20220420T113000Z
+UID:6606-171108@adelantelms.usjr.edu.ph
+SEQUENCE:1
+LAST-MODIFIED:20220411T052720Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:Quiz 7 Derivatives of Logarithmic and Exponential Functions - Due
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	on Module 7\, now you are ready to take your assessment task on this Module
+	 7.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take n
+	ote that you are given only one (1) attempt to take and answer the quiz.\n4
+	. Be extra careful in choosing the correct answer\, once you click the Next
+	 Page you can no longer return to the Previous Page. \n5. If the Previous P
+	age icon appeared on the question\, that means you are allowed to preview b
+	ack to a certain given question and disregard instruction 4.\n6. After you 
+	are done answering all the questions\, please don't forget to click Submit 
+	Quiz.\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 7
+	 Derivatives of Logarithmic and Exponential Functions - https://adelantelms
+	.usjr.edu.ph/d2l/lms/quizzing/quizzing.d2l?ou=24117&qi=63178\n\n\nView even
+	t - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24117/event/144378/deta
+	ilsview?ou=24117#144378
+CLASS:PUBLIC
+DTSTART:20220421T113000Z
+DTEND:20220421T113000Z
+UID:6606-144378@adelantelms.usjr.edu.ph
+SEQUENCE:2
+LAST-MODIFIED:20220411T052941Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:Quiz 7 Derivatives of Logarithmic and Exponential Functions - Avail
+	ability Ends
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	on Module 7\, now you are ready to take your assessment task on this Module
+	 7.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take n
+	ote that you are given only one (1) attempt to take and answer the quiz.\n4
+	. Be extra careful in choosing the correct answer\, once you click the Next
+	 Page you can no longer return to the Previous Page. \n5. If the Previous P
+	age icon appeared on the question\, that means you are allowed to preview b
+	ack to a certain given question and disregard instruction 4.\n6. After you 
+	are done answering all the questions\, please don't forget to click Submit 
+	Quiz.\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 7
+	 Derivatives of Logarithmic and Exponential Functions - https://adelantelms
+	.usjr.edu.ph/d2l/lms/quizzing/quizzing.d2l?ou=24117&qi=63178\n\n\nView even
+	t - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24117/event/171486/deta
+	ilsview?ou=24117#171486
+CLASS:PUBLIC
+DTSTART:20220421T113000Z
+DTEND:20220421T113000Z
+UID:6606-171486@adelantelms.usjr.edu.ph
+SEQUENCE:1
+LAST-MODIFIED:20220411T052941Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
 SUMMARY:Quiz 6 (TF) - Due
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nQuiz 6 (TF) - https://adelantelms.usjr.edu.ph/d2l/lms
@@ -1139,26 +1153,11 @@ CLASS:PUBLIC
 DTSTART:20220421T173200Z
 DTEND:20220421T173200Z
 UID:6606-164991@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220324T013327Z
+SEQUENCE:3
+LAST-MODIFIED:20220427T030011Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Quiz 6 (TF) - Availability Ends
-LOCATION:6009 - GE STS               | Science
-DESCRIPTION:Quizzes:\nQuiz 6 (TF) - https://adelantelms.usjr.edu.ph/d2l/lms
-	/quizzing/quizzing.d2l?ou=24537&qi=65199\n\n\nView event - https://adelante
-	lms.usjr.edu.ph/d2l/le/calendar/24537/event/164993/detailsview?ou=24537#164
-	993
-CLASS:PUBLIC
-DTSTART:20220421T173200Z
-DTEND:20220421T173200Z
-UID:6606-164993@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220324T013327Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Output 4 (Essay) - Due
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nOutput 4 (Essay) - https://adelantelms.usjr.edu.ph/d2
@@ -1169,26 +1168,180 @@ CLASS:PUBLIC
 DTSTART:20220421T173700Z
 DTEND:20220421T173700Z
 UID:6606-165007@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220324T013838Z
+SEQUENCE:3
+LAST-MODIFIED:20220426T020209Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
-SUMMARY:Output 4 (Essay) - Availability Ends
-LOCATION:6009 - GE STS               | Science
-DESCRIPTION:Quizzes:\nOutput 4 (Essay) - https://adelantelms.usjr.edu.ph/d2
-	l/lms/quizzing/quizzing.d2l?ou=24537&qi=65200\n\n\nView event - https://ade
-	lantelms.usjr.edu.ph/d2l/le/calendar/24537/event/165009/detailsview?ou=2453
-	7#165009
+DTSTAMP:20220428T111216Z
+SUMMARY:Laboratory Activity #8: Writing\, Reading and Updating Records - Du
+	e
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Assignments:\nLaboratory Activity #8: Writing\, Reading and Upd
+	ating Records - https://adelantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder
+	_submit_files.d2l?ou=24167&db=57015\n\n\nView event - https://adelantelms.u
+	sjr.edu.ph/d2l/le/calendar/24167/event/172097/detailsview?ou=24167#172097
 CLASS:PUBLIC
-DTSTART:20220421T173700Z
-DTEND:20220421T173700Z
-UID:6606-165009@adelantelms.usjr.edu.ph
-SEQUENCE:0
-LAST-MODIFIED:20220324T013838Z
+DTSTART:20220422T010000Z
+DTEND:20220422T010000Z
+UID:6606-172097@adelantelms.usjr.edu.ph
+SEQUENCE:6
+LAST-MODIFIED:20220418T012705Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
+SUMMARY:My Personality Quadrant - Due
+LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
+DESCRIPTION:Assignments:\nMy Personality Quadrant\n\n\nView event - https:/
+	/adelantelms.usjr.edu.ph/d2l/le/calendar/25422/event/173878/detailsview?ou=
+	25422#173878
+CLASS:PUBLIC
+DTSTART:20220422T155959Z
+DTEND:20220422T155959Z
+UID:6606-173878@adelantelms.usjr.edu.ph
+SEQUENCE:8
+LAST-MODIFIED:20220422T034152Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:Activity 8 Derivatives of Hyperbolic Functions - Due
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
+DESCRIPTION:Assignments:\nActivity 8 Derivatives of Hyperbolic Functions\n\
+	n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24117/event
+	/144372/detailsview?ou=24117#144372
+CLASS:PUBLIC
+DTSTART:20220424T140000Z
+DTEND:20220424T140000Z
+UID:6606-144372@adelantelms.usjr.edu.ph
+SEQUENCE:12
+LAST-MODIFIED:20220421T013208Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:Checkpoint Exam #5: Writing\, Reading and Updating Records - Due
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Assignments:\nCheckpoint Exam #5: Writing\, Reading and Updatin
+	g Records\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar
+	/24167/event/173349/detailsview?ou=24167#173349
+CLASS:PUBLIC
+DTSTART:20220425T000000Z
+DTEND:20220425T000000Z
+UID:6606-173349@adelantelms.usjr.edu.ph
+SEQUENCE:6
+LAST-MODIFIED:20220420T084941Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:Midterm\, Reflection #1 - Due
+LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
+	troduction to Biblical Exegesis
+DESCRIPTION:Assignments:\nMidterm\, Reflection #1\n\n\nView event - https:/
+	/adelantelms.usjr.edu.ph/d2l/le/calendar/25262/event/172297/detailsview?ou=
+	25262#172297
+CLASS:PUBLIC
+DTSTART:20220425T155959Z
+DTEND:20220425T155959Z
+UID:6606-172297@adelantelms.usjr.edu.ph
+SEQUENCE:8
+LAST-MODIFIED:20220419T012312Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:Midterm\, Quiz #1 - Due
+LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
+	troduction to Biblical Exegesis
+DESCRIPTION:Quizzes:\nMidterm\, Quiz #1 - https://adelantelms.usjr.edu.ph/d
+	2l/lms/quizzing/quizzing.d2l?ou=25262&qi=70332\n\n\nView event - https://ad
+	elantelms.usjr.edu.ph/d2l/le/calendar/25262/event/173783/detailsview?ou=252
+	62#173783
+CLASS:PUBLIC
+DTSTART:20220426T070000Z
+DTEND:20220426T070000Z
+UID:6606-173783@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220421T114456Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:Midterm\, Quiz #1 - Availability Ends
+LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
+	troduction to Biblical Exegesis
+DESCRIPTION:Quizzes:\nMidterm\, Quiz #1 - https://adelantelms.usjr.edu.ph/d
+	2l/lms/quizzing/quizzing.d2l?ou=25262&qi=70332\n\n\nView event - https://ad
+	elantelms.usjr.edu.ph/d2l/le/calendar/25262/event/173785/detailsview?ou=252
+	62#173785
+CLASS:PUBLIC
+DTSTART:20220426T070000Z
+DTEND:20220426T070000Z
+UID:6606-173785@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220421T114456Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:Activity 9 Derivatives of Inverse Hyperbolic Functions - Due
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
+DESCRIPTION:Assignments:\nActivity 9 Derivatives of Inverse Hyperbolic Func
+	tions\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/241
+	17/event/144366/detailsview?ou=24117#144366
+CLASS:PUBLIC
+DTSTART:20220427T150000Z
+DTEND:20220427T150000Z
+UID:6606-144366@adelantelms.usjr.edu.ph
+SEQUENCE:11
+LAST-MODIFIED:20220426T010237Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:Quiz 8 Derivatives of Hyperbolic Functions - Due
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	on Module 8\, now you are ready to take your assessment task on Module 8.\n
+	2. You are going to answer the quiz for 1 hour only.\n3. Please take note t
+	hat you are given only one (1) attempt to take and answer the quiz.\n4. Be 
+	extra careful in choosing the correct answer\, once you click the Next Page
+	 you can no longer return to the Previous Page. \n5. If the Previous Page i
+	con appeared on the question\, that means you are allowed to preview back t
+	o a certain given question and disregard instruction 4.\n6. After you are d
+	one answering all the questions\, please don't forget to click Submit Quiz.
+	\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 8 Deri
+	vatives of Hyperbolic Functions - https://adelantelms.usjr.edu.ph/d2l/lms/q
+	uizzing/quizzing.d2l?ou=24117&qi=63179\n\n\nView event - https://adelantelm
+	s.usjr.edu.ph/d2l/le/calendar/24117/event/144379/detailsview?ou=24117#14437
+	9
+CLASS:PUBLIC
+DTSTART:20220428T113000Z
+DTEND:20220428T113000Z
+UID:6606-144379@adelantelms.usjr.edu.ph
+SEQUENCE:1
+LAST-MODIFIED:20220426T033648Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:Quiz 8 Derivatives of Hyperbolic Functions - Availability Ends
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	on Module 8\, now you are ready to take your assessment task on Module 8.\n
+	2. You are going to answer the quiz for 1 hour only.\n3. Please take note t
+	hat you are given only one (1) attempt to take and answer the quiz.\n4. Be 
+	extra careful in choosing the correct answer\, once you click the Next Page
+	 you can no longer return to the Previous Page. \n5. If the Previous Page i
+	con appeared on the question\, that means you are allowed to preview back t
+	o a certain given question and disregard instruction 4.\n6. After you are d
+	one answering all the questions\, please don't forget to click Submit Quiz.
+	\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 8 Deri
+	vatives of Hyperbolic Functions - https://adelantelms.usjr.edu.ph/d2l/lms/q
+	uizzing/quizzing.d2l?ou=24117&qi=63179\n\n\nView event - https://adelantelm
+	s.usjr.edu.ph/d2l/le/calendar/24117/event/174709/detailsview?ou=24117#17470
+	9
+CLASS:PUBLIC
+DTSTART:20220428T113000Z
+DTEND:20220428T113000Z
+UID:6606-174709@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220426T033648Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
 SUMMARY:Persuasive Essay - Due
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nPersuasive Essay - https://adelantelms.usjr.edu.ph/d2
@@ -1203,7 +1356,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220324T014110Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Persuasive Essay - Availability Ends
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nPersuasive Essay - https://adelantelms.usjr.edu.ph/d2
@@ -1218,7 +1371,58 @@ SEQUENCE:0
 LAST-MODIFIED:20220324T014110Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
+SUMMARY:Quiz 9 Derivatives of Inverse Hyperbolic Functions - Due
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	on Module 9\, now you are ready to take your assessment task on this Module
+	 9.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take n
+	ote that you are given only one (1) attempt to take and answer the quiz.\n4
+	. Be extra careful in choosing the correct answer\, once you click the Next
+	 Page you can no longer return to the Previous Page. \n5. If the Previous P
+	age icon appeared on the question\, that means you are allowed to preview b
+	ack to a certain given question and disregard instruction 4.\n6. After you 
+	are done answering all the questions\, please don't forget to click Submit 
+	Quiz.\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 9
+	 Derivatives of Inverse Hyperbolic Functions - https://adelantelms.usjr.edu
+	.ph/d2l/lms/quizzing/quizzing.d2l?ou=24117&qi=63180\n\n\nView event - https
+	://adelantelms.usjr.edu.ph/d2l/le/calendar/24117/event/144380/detailsview?o
+	u=24117#144380
+CLASS:PUBLIC
+DTSTART:20220429T113000Z
+DTEND:20220429T113000Z
+UID:6606-144380@adelantelms.usjr.edu.ph
+SEQUENCE:2
+LAST-MODIFIED:20220426T034029Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:Quiz 9 Derivatives of Inverse Hyperbolic Functions - Availability E
+	nds
+LOCATION:4001 - EM 1A1               | Engineering Calculus 1
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	on Module 9\, now you are ready to take your assessment task on this Module
+	 9.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take n
+	ote that you are given only one (1) attempt to take and answer the quiz.\n4
+	. Be extra careful in choosing the correct answer\, once you click the Next
+	 Page you can no longer return to the Previous Page. \n5. If the Previous P
+	age icon appeared on the question\, that means you are allowed to preview b
+	ack to a certain given question and disregard instruction 4.\n6. After you 
+	are done answering all the questions\, please don't forget to click Submit 
+	Quiz.\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 9
+	 Derivatives of Inverse Hyperbolic Functions - https://adelantelms.usjr.edu
+	.ph/d2l/lms/quizzing/quizzing.d2l?ou=24117&qi=63180\n\n\nView event - https
+	://adelantelms.usjr.edu.ph/d2l/le/calendar/24117/event/174716/detailsview?o
+	u=24117#174716
+CLASS:PUBLIC
+DTSTART:20220429T113000Z
+DTEND:20220429T113000Z
+UID:6606-174716@adelantelms.usjr.edu.ph
+SEQUENCE:1
+LAST-MODIFIED:20220426T034029Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
 SUMMARY:Quiz 7 (MC) - Due
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nQuiz 7 (MC) - https://adelantelms.usjr.edu.ph/d2l/lms
@@ -1233,7 +1437,7 @@ SEQUENCE:0
 LAST-MODIFIED:20220324T014203Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
 SUMMARY:Quiz 7 (MC) - Availability Ends
 LOCATION:6009 - GE STS               | Science
 DESCRIPTION:Quizzes:\nQuiz 7 (MC) - https://adelantelms.usjr.edu.ph/d2l/lms
@@ -1248,7 +1452,61 @@ SEQUENCE:0
 LAST-MODIFIED:20220324T014203Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
+SUMMARY:Webinar - Recoletos 400 (Midterm) - Due
+LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
+	troduction to Biblical Exegesis
+DESCRIPTION:In connection with the celebration of the 400 Years of Augustin
+	ian Recollect  Presence in Cebu\, we will have our 2nd Virtual Conference o
+	n April 23\,  Saturday at 8:30 A.M.  \nThe topic for the conference is: “Th
+	e Exemplary Recollect Missionaries in the  Philippines” and this will be de
+	livered by Rev. Fr. Emilio Quilatan\, OAR.  \n\nMake a reflection about the
+	 topic.\nInstructions:\n\nAt least 150 - 250 words.\nArial = 12\nPDF \n\n\n
+	\nAssignments:\nWebinar - Recoletos 400 (Midterm) - https://adelantelms.usj
+	r.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=25262&db=57403\n\n
+	\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/25262/event/
+	173880/detailsview?ou=25262#173880
+CLASS:PUBLIC
+DTSTART:20220429T155959Z
+DTEND:20220429T155959Z
+UID:6606-173880@adelantelms.usjr.edu.ph
+SEQUENCE:7
+LAST-MODIFIED:20220422T014447Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:Midterm Exam   - Due
+LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
+	troduction to Biblical Exegesis
+DESCRIPTION:Quizzes:\nMidterm Exam   - https://adelantelms.usjr.edu.ph/d2l/
+	lms/quizzing/quizzing.d2l?ou=25262&qi=70570\n\n\nView event - https://adela
+	ntelms.usjr.edu.ph/d2l/le/calendar/25262/event/175106/detailsview?ou=25262#
+	175106
+CLASS:PUBLIC
+DTSTART:20220505T070000Z
+DTEND:20220505T070000Z
+UID:6606-175106@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220427T004725Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:Midterm Exam   - Availability Ends
+LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
+	troduction to Biblical Exegesis
+DESCRIPTION:Quizzes:\nMidterm Exam   - https://adelantelms.usjr.edu.ph/d2l/
+	lms/quizzing/quizzing.d2l?ou=25262&qi=70570\n\n\nView event - https://adela
+	ntelms.usjr.edu.ph/d2l/le/calendar/25262/event/175108/detailsview?ou=25262#
+	175108
+CLASS:PUBLIC
+DTSTART:20220505T070000Z
+DTEND:20220505T070000Z
+UID:6606-175108@adelantelms.usjr.edu.ph
+SEQUENCE:0
+LAST-MODIFIED:20220427T004725Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
 SUMMARY:PERFORMANCE TASK: VLOG - Due
 LOCATION:6120 - EP 1                 | English Proficiency Level 1 (lec/lab
 	)
@@ -1277,7 +1535,26 @@ SEQUENCE:10
 LAST-MODIFIED:20220415T130842Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
+SUMMARY:Week 7 of the CWTS 12 Classes - Reaction Paper - Due
+LOCATION:17000 - CWTS 12*             | Civic Welfare Training Services 12
+DESCRIPTION:Make a 2-page Reaction Paper focusing on the virtual conference
+	 last April 23\, Saturday entitled “The Exemplary Recollect Missionaries in
+	 the Philippines”. Kindly attach also any proof of participation of the sai
+	d conference for us to credit it to our CWTS Week 7 attendance.\n\n\nAssign
+	ments:\nWeek 7 of the CWTS 12 Classes - Reaction Paper - https://adelantelm
+	s.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=25349&db=5772
+	9\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/25349/e
+	vent/175133/detailsview?ou=25349#175133
+CLASS:PUBLIC
+DTSTART:20220507T155959Z
+DTEND:20220507T155959Z
+UID:6606-175133@adelantelms.usjr.edu.ph
+SEQUENCE:8
+LAST-MODIFIED:20220427T024510Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
 SUMMARY:VALUE-BASED VOTERS' EDUCATION FORUM - Due
 LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
 DESCRIPTION:Assignments:\nVALUE-BASED VOTERS' EDUCATION FORUM - https://ade
@@ -1292,7 +1569,22 @@ SEQUENCE:12
 LAST-MODIFIED:20220408T211443Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T145010Z
+DTSTAMP:20220428T111216Z
+SUMMARY:Midterm Examination - Due
+LOCATION:4047 - CPE 1B1              | Programming Logic and Design
+DESCRIPTION:Assignments:\nMidterm Examination - https://adelantelms.usjr.ed
+	u.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=24167&db=57695\n\n\nVi
+	ew event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/24167/event/1750
+	31/detailsview?ou=24167#175031
+CLASS:PUBLIC
+DTSTART:20220510T155959Z
+DTEND:20220510T155959Z
+UID:6606-175031@adelantelms.usjr.edu.ph
+SEQUENCE:7
+LAST-MODIFIED:20220426T155840Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
 SUMMARY:Submission of Follow-up counseling and Psych Test Interpretation Sl
 	ips - Due
 LOCATION:40010 - Guidance 2           | Adjustment to College Life Phase 2
@@ -1308,5 +1600,27 @@ DTEND:20220514T155959Z
 UID:6606-170909@adelantelms.usjr.edu.ph
 SEQUENCE:12
 LAST-MODIFIED:20220408T035515Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T111216Z
+SUMMARY:Midterm Output - Due
+LOCATION:16020 - ReEd 2               | Written That You May Believe: An In
+	troduction to Biblical Exegesis
+DESCRIPTION:Midterm Output\nChoose a book from the Old Testament and do the
+	 following in a video:1. Who was the author?2. To whom it was written?3. Wh
+	en it was written?4. Summary of the book.5. What is the relevance of the bo
+	ok to present situation6. What is the central message of the book?\nMinimum
+	 of 2 minutes and maximum of 5 minutes.\nRubrics:Content-20Presentation-15M
+	astery-10Comprehension-5Total:50\nNote: Kindly provide a link for the video
+	 upon submission. \n\n\nAssignments:\nMidterm Output - https://adelantelms.
+	usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=25262&db=57751\
+	n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/25262/eve
+	nt/175159/detailsview?ou=25262#175159
+CLASS:PUBLIC
+DTSTART:20220514T155959Z
+DTEND:20220514T155959Z
+UID:6606-175159@adelantelms.usjr.edu.ph
+SEQUENCE:9
+LAST-MODIFIED:20220427T034500Z
 END:VEVENT
 END:VCALENDAR

@@ -18,7 +18,7 @@ module.exports = {
                object[1] = text
               
               isFound = 1
-              message.channel.send(message.author.username + " is calendar is UPDATED.");
+              
             }
           })
           if(isFound){
@@ -27,7 +27,7 @@ module.exports = {
               console.log(err)
             } else {
               console.log("Register successful.")
-              message.channel.send(message.author.username + " is added into the database.");
+              message.channel.send(message.author.username + " is calendar is UPDATED.");
             }
           })
           }

@@ -10,7 +10,7 @@ module.exports = {
   description: 'Returns Student Schedule',
   callback: async ({ interaction, message, text }) => {
     const embed = new MessageEmbed().setColor('GREEN')
-    var calendarDb = require('../db/calendar.json');
+    var calendarDb = await require('../db/calendar.json');
     var flag = 0;
 
     function retrieveCalendar(calendarDb) {
