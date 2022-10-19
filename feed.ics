@@ -4,7 +4,7 @@ VERSION:2.0
 METHOD:PUBLISH
 X-WR-CALNAME:All Courses - Adelante Online Learning Environment
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:LABORATORY ACTIVITY #1: INTRODUCTION TO CLASSES AND OBJECTS - Due
 LOCATION:4127 - CPE 2A1              | Object-Oriented Programming
 DESCRIPTION:Assignments:\nLABORATORY ACTIVITY #1: INTRODUCTION TO CLASSES A
@@ -18,7 +18,7 @@ SEQUENCE:16
 LAST-MODIFIED:20221012T063252Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:Start Up Tasking [Assignment #1] - Due
 LOCATION:16105 - ReEd 3               | Our Restless Hearts: An Introductio
 	n to Doing Catholic Morality
@@ -38,7 +38,7 @@ SEQUENCE:26
 LAST-MODIFIED:20221012T094354Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:SUBMISSION: PARQ and IPAQ - Due
 LOCATION:5204 - PE 3                 | Physical Education 3
 DESCRIPTION:Assignments:\nSUBMISSION: PARQ and IPAQ\n\n\nView event - https
@@ -52,7 +52,7 @@ SEQUENCE:13
 LAST-MODIFIED:20220905T235331Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:BADMINTON WARM UP OUTPUT - Due
 LOCATION:5204 - PE 3                 | Physical Education 3
 DESCRIPTION:Assignments:\nBADMINTON WARM UP OUTPUT\n\n\nView event - https:
@@ -66,7 +66,7 @@ SEQUENCE:14
 LAST-MODIFIED:20220908T061023Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:A-TASKS - PRELIM - WEEK 1 - Due
 LOCATION:6329 - GE PC                | Purposive Communication
 DESCRIPTION:Assignments:\nA-TASKS - PRELIM - WEEK 1\n\n\nView event - https
@@ -80,7 +80,7 @@ SEQUENCE:2
 LAST-MODIFIED:20220907T071341Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:LABORATORY ACTIVITY #2: GET AND SET PROPERTIES - Due
 LOCATION:4127 - CPE 2A1              | Object-Oriented Programming
 DESCRIPTION:Assignments:\nLABORATORY ACTIVITY #2: GET AND SET PROPERTIES\n\
@@ -94,7 +94,7 @@ SEQUENCE:19
 LAST-MODIFIED:20221012T063303Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:LABORATORY ACTIVITY #3: REFERENCING A CLASS FROM ANOTHER FILE - Due
 LOCATION:4127 - CPE 2A1              | Object-Oriented Programming
 DESCRIPTION:Assignments:\nLABORATORY ACTIVITY #3: REFERENCING A CLASS FROM 
@@ -108,7 +108,7 @@ SEQUENCE:9
 LAST-MODIFIED:20221012T063308Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:Quiz 1 - Due
 LOCATION:4115 - EM 2A1               | Differential Equations
 DESCRIPTION:Assignments:\nQuiz 1 - https://adelantelms.usjr.edu.ph/d2l/lms/
@@ -123,7 +123,7 @@ SEQUENCE:10
 LAST-MODIFIED:20220927T203516Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:1: LIGHTS\, CAMERA\, POSE!!! - Due
 LOCATION:5204 - PE 3                 | Physical Education 3
 DESCRIPTION:Assignments:\n1: LIGHTS\, CAMERA\, POSE!!!\n\n\nView event - ht
@@ -137,7 +137,7 @@ SEQUENCE:11
 LAST-MODIFIED:20220919T222751Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:Series Parallel Activity - Due
 LOCATION:4134 - EE 2A1               | Electrical Circuits 1 (Lec)
 DESCRIPTION:Solve for the Needed values in the table provided. Each item/va
@@ -154,7 +154,7 @@ SEQUENCE:14
 LAST-MODIFIED:20220919T151528Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:Laboratory Experiment 1: Ohm’s Law - Due
 LOCATION:4135 - EE 2A2               | Electrical Circuits 1 (Lab)
 DESCRIPTION:Kindly submit here the scanned copy of the 1st Laboratory exper
@@ -170,7 +170,7 @@ SEQUENCE:12
 LAST-MODIFIED:20220920T120938Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:Assignment #1 on SET Structure and Set Theories - Due
 LOCATION:4126 - CPE 2A3              | Discrete Mathematics
 DESCRIPTION:Hello class\, you can submit your output here. Remember to foll
@@ -187,7 +187,7 @@ SEQUENCE:9
 LAST-MODIFIED:20220920T131100Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:Activity 4 Compound Interest - Due
 LOCATION:4124 - ES 6                 | Engineering Economics
 DESCRIPTION:Assignments:\nActivity 4 Compound Interest\n\n\nView event - ht
@@ -201,7 +201,7 @@ SEQUENCE:18
 LAST-MODIFIED:20221006T002405Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:Seatwork 1 - Due
 LOCATION:4115 - EM 2A1               | Differential Equations
 DESCRIPTION:Evaluate and simplify...\n( x + y ) dx  +  ( x - y ) dy  =  0\n
@@ -217,7 +217,7 @@ SEQUENCE:10
 LAST-MODIFIED:20220927T203516Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:Kirchhoff’s Law - Due
 LOCATION:4134 - EE 2A1               | Electrical Circuits 1 (Lec)
 DESCRIPTION:Find the values needed and always show your solution.\n\n\nAssi
@@ -233,7 +233,7 @@ SEQUENCE:12
 LAST-MODIFIED:20220926T055926Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:Kirchhoff’s Exam - Due
 LOCATION:4134 - EE 2A1               | Electrical Circuits 1 (Lec)
 DESCRIPTION:Find the needed values specified in the circuit. Show your solu
@@ -249,7 +249,7 @@ SEQUENCE:7
 LAST-MODIFIED:20220928T045526Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:Activity 5 Actual and Approximate Time - Due
 LOCATION:4124 - ES 6                 | Engineering Economics
 DESCRIPTION:Assignments:\nActivity 5 Actual and Approximate Time\n\n\nView 
@@ -263,7 +263,7 @@ SEQUENCE:38
 LAST-MODIFIED:20221006T011302Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:Quiz 2 - Due
 LOCATION:4115 - EM 2A1               | Differential Equations
 DESCRIPTION:Assignments:\nQuiz 2 - https://adelantelms.usjr.edu.ph/d2l/lms/
@@ -278,7 +278,7 @@ SEQUENCE:10
 LAST-MODIFIED:20221004T032029Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:Process Test - Due
 LOCATION:6329 - GE PC                | Purposive Communication
 DESCRIPTION:Assignments:\nProcess Test\n\n\nView event - https://adelantelm
@@ -292,7 +292,7 @@ SEQUENCE:14
 LAST-MODIFIED:20220930T090429Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:LABORATORY ACTIVITY #4: CONSTRUCTORS AND DESTRUCTORS - Due
 LOCATION:4127 - CPE 2A1              | Object-Oriented Programming
 DESCRIPTION:Assignments:\nLABORATORY ACTIVITY #4: CONSTRUCTORS AND DESTRUCT
@@ -306,7 +306,7 @@ SEQUENCE:16
 LAST-MODIFIED:20221012T063411Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:LABORATORY ACTIVITY #5: PASSING OBJECTS AND ARRAY OF OBJECTS TO ANO
 	THER METHOD - Due
 LOCATION:4127 - CPE 2A1              | Object-Oriented Programming
@@ -321,7 +321,7 @@ SEQUENCE:15
 LAST-MODIFIED:20221012T063410Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:Prelim Exam - Due
 LOCATION:4115 - EM 2A1               | Differential Equations
 DESCRIPTION:Assignments:\nPrelim Exam - https://adelantelms.usjr.edu.ph/d2l
@@ -336,7 +336,7 @@ SEQUENCE:8
 LAST-MODIFIED:20221004T032233Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:PRELIM EXAM - Due
 LOCATION:4124 - ES 6                 | Engineering Economics
 DESCRIPTION:Instructions:\n1. You are going to answer the PRELIM EXAM for 1
@@ -359,7 +359,7 @@ SEQUENCE:4
 LAST-MODIFIED:20220929T032059Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:PRELIM EXAM - Availability Ends
 LOCATION:4124 - ES 6                 | Engineering Economics
 DESCRIPTION:Instructions:\n1. You are going to answer the PRELIM EXAM for 1
@@ -382,7 +382,7 @@ SEQUENCE:4
 LAST-MODIFIED:20220929T032059Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:Exercise on Chapter 3 - Due
 LOCATION:4123 - EDA 1                | Engineering Data Analysis
 DESCRIPTION:Assignments:\nExercise on Chapter 3\n\n\nView event - https://a
@@ -396,7 +396,65 @@ SEQUENCE:28
 LAST-MODIFIED:20221003T023339Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
+SUMMARY:ASSIGNMENT #2 - Due
+LOCATION:4126 - CPE 2A3              | Discrete Mathematics
+DESCRIPTION:Assignments:\nASSIGNMENT #2 - https://adelantelms.usjr.edu.ph/d
+	2l/lms/dropbox/user/folder_submit_files.d2l?ou=31320&db=69277\n\n\nView eve
+	nt - https://adelantelms.usjr.edu.ph/d2l/le/calendar/31320/event/227121/det
+	ailsview?ou=31320#227121
+CLASS:PUBLIC
+DTSTART:20221013T100000Z
+DTEND:20221013T100000Z
+UID:6606-227121@adelantelms.usjr.edu.ph
+SEQUENCE:9
+LAST-MODIFIED:20221013T060831Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221019T082055Z
+SUMMARY:Mesh and Nodal Analysis - Due
+LOCATION:4134 - EE 2A1               | Electrical Circuits 1 (Lec)
+DESCRIPTION:Assignments:\nMesh and Nodal Analysis - https://adelantelms.usj
+	r.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=31328&db=69381\n\n
+	\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/31328/event/
+	227376/detailsview?ou=31328#227376
+CLASS:PUBLIC
+DTSTART:20221014T155959Z
+DTEND:20221014T155959Z
+UID:6606-227376@adelantelms.usjr.edu.ph
+SEQUENCE:9
+LAST-MODIFIED:20221014T095115Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221019T082055Z
+SUMMARY:Activity 7 Simple Discount - Due
+LOCATION:4124 - ES 6                 | Engineering Economics
+DESCRIPTION:Assignments:\nActivity 7 Simple Discount\n\n\nView event - http
+	s://adelantelms.usjr.edu.ph/d2l/le/calendar/31318/event/212961/detailsview?
+	ou=31318#212961
+CLASS:PUBLIC
+DTSTART:20221016T120000Z
+DTEND:20221016T120000Z
+UID:6606-212961@adelantelms.usjr.edu.ph
+SEQUENCE:24
+LAST-MODIFIED:20221016T235947Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221019T082055Z
+SUMMARY:Activity 6 Interest Between Dates - Due
+LOCATION:4124 - ES 6                 | Engineering Economics
+DESCRIPTION:Assignments:\nActivity 6 Interest Between Dates\n\n\nView event
+	 - https://adelantelms.usjr.edu.ph/d2l/le/calendar/31318/event/227076/detai
+	lsview?ou=31318#227076
+CLASS:PUBLIC
+DTSTART:20221016T120000Z
+DTEND:20221016T120000Z
+UID:6606-227076@adelantelms.usjr.edu.ph
+SEQUENCE:17
+LAST-MODIFIED:20221016T235848Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221019T082055Z
 SUMMARY:Object of Morality (Human Act/Conduct) Exercise [Assignment #2] - D
 	ue
 LOCATION:16105 - ReEd 3               | Our Restless Hearts: An Introductio
@@ -417,7 +475,7 @@ SEQUENCE:22
 LAST-MODIFIED:20221012T110919Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T153709Z
+DTSTAMP:20221019T082055Z
 SUMMARY:Laboratory Activity #6: INHERITANCE - Due
 LOCATION:4127 - CPE 2A1              | Object-Oriented Programming
 DESCRIPTION:Assignments:\nLaboratory Activity #6: INHERITANCE - https://ade
@@ -430,5 +488,160 @@ DTEND:20221017T155900Z
 UID:6606-226994@adelantelms.usjr.edu.ph
 SEQUENCE:14
 LAST-MODIFIED:20221012T074106Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221019T082055Z
+SUMMARY:PRELIM OUTPUT - Due
+LOCATION:6329 - GE PC                | Purposive Communication
+DESCRIPTION:Assignments:\nPRELIM OUTPUT\n\n\nView event - https://adelantel
+	ms.usjr.edu.ph/d2l/le/calendar/32033/event/227258/detailsview?ou=32033#2272
+	58
+CLASS:PUBLIC
+DTSTART:20221017T155959Z
+DTEND:20221017T155959Z
+UID:6606-227258@adelantelms.usjr.edu.ph
+SEQUENCE:6
+LAST-MODIFIED:20221014T042249Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221019T082055Z
+SUMMARY:Short E-Quiz on Varieties of Written and Spoken English Communicati
+	ons - Due
+LOCATION:6329 - GE PC                | Purposive Communication
+DESCRIPTION:Assignments:\nShort E-Quiz on Varieties of Written and Spoken E
+	nglish Communications\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l
+	/le/calendar/32033/event/227455/detailsview?ou=32033#227455
+CLASS:PUBLIC
+DTSTART:20221017T155959Z
+DTEND:20221017T155959Z
+UID:6606-227455@adelantelms.usjr.edu.ph
+SEQUENCE:6
+LAST-MODIFIED:20221015T065634Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221019T082055Z
+SUMMARY:LABORATORY ACTIVITY #7: POLYMORPHISM - Due
+LOCATION:4127 - CPE 2A1              | Object-Oriented Programming
+DESCRIPTION:Assignments:\nLABORATORY ACTIVITY #7: POLYMORPHISM - https://ad
+	elantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=31321
+	&db=69363\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar
+	/31321/event/227306/detailsview?ou=31321#227306
+CLASS:PUBLIC
+DTSTART:20221019T155900Z
+DTEND:20221019T155900Z
+UID:6606-227306@adelantelms.usjr.edu.ph
+SEQUENCE:10
+LAST-MODIFIED:20221014T073656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221019T082055Z
+SUMMARY:LABORATORY ACTIVITY #8: ABSTRACTION - Due
+LOCATION:4127 - CPE 2A1              | Object-Oriented Programming
+DESCRIPTION:Assignments:\nLABORATORY ACTIVITY #8: ABSTRACTION - https://ade
+	lantelms.usjr.edu.ph/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=31321&
+	db=69638\n\n\nView event - https://adelantelms.usjr.edu.ph/d2l/le/calendar/
+	31321/event/228089/detailsview?ou=31321#228089
+CLASS:PUBLIC
+DTSTART:20221022T155900Z
+DTEND:20221022T155900Z
+UID:6606-228089@adelantelms.usjr.edu.ph
+SEQUENCE:4
+LAST-MODIFIED:20221019T073910Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221019T082055Z
+SUMMARY:Quiz 6 Interest Between Dates - Due
+LOCATION:4124 - ES 6                 | Engineering Economics
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	on Module 6\, now you are ready to take your assessment task on this Module
+	 6.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take n
+	ote that you are given only one (1) attempt to take and answer the quiz.\n4
+	. Be extra careful in choosing the correct answer\, once you click the Next
+	 Page you can no longer return to the Previous Page. \n5. If the Previous P
+	age icon appeared on the question\, that means you are allowed to preview b
+	ack to a certain given question and disregard instruction 4.\n6. After you 
+	are done answering all the questions\, please don't forget to click Submit 
+	Quiz.\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 6
+	 Interest Between Dates - https://adelantelms.usjr.edu.ph/d2l/lms/quizzing/
+	quizzing.d2l?ou=31318&qi=76896\n\n\nView event - https://adelantelms.usjr.e
+	du.ph/d2l/le/calendar/31318/event/212972/detailsview?ou=31318#212972
+CLASS:PUBLIC
+DTSTART:20221025T094500Z
+DTEND:20221025T094500Z
+UID:6606-212972@adelantelms.usjr.edu.ph
+SEQUENCE:3
+LAST-MODIFIED:20221018T011429Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221019T082055Z
+SUMMARY:Quiz 6 Interest Between Dates - Availability Ends
+LOCATION:4124 - ES 6                 | Engineering Economics
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	on Module 6\, now you are ready to take your assessment task on this Module
+	 6.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take n
+	ote that you are given only one (1) attempt to take and answer the quiz.\n4
+	. Be extra careful in choosing the correct answer\, once you click the Next
+	 Page you can no longer return to the Previous Page. \n5. If the Previous P
+	age icon appeared on the question\, that means you are allowed to preview b
+	ack to a certain given question and disregard instruction 4.\n6. After you 
+	are done answering all the questions\, please don't forget to click Submit 
+	Quiz.\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 6
+	 Interest Between Dates - https://adelantelms.usjr.edu.ph/d2l/lms/quizzing/
+	quizzing.d2l?ou=31318&qi=76896\n\n\nView event - https://adelantelms.usjr.e
+	du.ph/d2l/le/calendar/31318/event/227080/detailsview?ou=31318#227080
+CLASS:PUBLIC
+DTSTART:20221025T094500Z
+DTEND:20221025T094500Z
+UID:6606-227080@adelantelms.usjr.edu.ph
+SEQUENCE:2
+LAST-MODIFIED:20221018T011429Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221019T082055Z
+SUMMARY:Quiz 7 Simple Discount - Due
+LOCATION:4124 - ES 6                 | Engineering Economics
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	on Module 7\, now you are ready to take your assessment task on this Module
+	 7.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take n
+	ote that you are given only one (1) attempt to take and answer the quiz.\n4
+	. Be extra careful in choosing the correct answer\, once you click the Next
+	 Page you can no longer return to the Previous Page. \n5. If the Previous P
+	age icon appeared on the question\, that means you are allowed to preview b
+	ack to a certain given question and disregard instruction 4.\n6. After you 
+	are done answering all the questions\, please don't forget to click Submit 
+	Quiz.\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 7
+	 Simple Discount - https://adelantelms.usjr.edu.ph/d2l/lms/quizzing/quizzin
+	g.d2l?ou=31318&qi=76899\n\n\nView event - https://adelantelms.usjr.edu.ph/d
+	2l/le/calendar/31318/event/212964/detailsview?ou=31318#212964
+CLASS:PUBLIC
+DTSTART:20221027T094500Z
+DTEND:20221027T094500Z
+UID:6606-212964@adelantelms.usjr.edu.ph
+SEQUENCE:3
+LAST-MODIFIED:20221018T011503Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221019T082055Z
+SUMMARY:Quiz 7 Simple Discount - Availability Ends
+LOCATION:4124 - ES 6                 | Engineering Economics
+DESCRIPTION:Instructions:\n1. After completing all the previous activities 
+	on Module 7\, now you are ready to take your assessment task on this Module
+	 7.\n2. You are going to answer the quiz for 1 hour only.\n3. Please take n
+	ote that you are given only one (1) attempt to take and answer the quiz.\n4
+	. Be extra careful in choosing the correct answer\, once you click the Next
+	 Page you can no longer return to the Previous Page. \n5. If the Previous P
+	age icon appeared on the question\, that means you are allowed to preview b
+	ack to a certain given question and disregard instruction 4.\n6. After you 
+	are done answering all the questions\, please don't forget to click Submit 
+	Quiz.\n7. For Confirmation\, click again Submit Quiz.\n\n\nQuizzes:\nQuiz 7
+	 Simple Discount - https://adelantelms.usjr.edu.ph/d2l/lms/quizzing/quizzin
+	g.d2l?ou=31318&qi=76899\n\n\nView event - https://adelantelms.usjr.edu.ph/d
+	2l/le/calendar/31318/event/227082/detailsview?ou=31318#227082
+CLASS:PUBLIC
+DTSTART:20221027T094500Z
+DTEND:20221027T094500Z
+UID:6606-227082@adelantelms.usjr.edu.ph
+SEQUENCE:2
+LAST-MODIFIED:20221018T011503Z
 END:VEVENT
 END:VCALENDAR
